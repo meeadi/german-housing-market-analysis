@@ -1,0 +1,3753 @@
+city,date,year,quarter,property_type,price_m2
+Bonn,2005-01-01,2005,1,single_family,2000.0
+Bonn,2005-04-01,2005,2,single_family,1900.0
+Bonn,2005-07-01,2005,3,single_family,1900.0
+Bonn,2005-10-01,2005,4,single_family,1800.0
+Bonn,2006-01-01,2006,1,single_family,1900.0
+Bonn,2006-04-01,2006,2,single_family,2000.0
+Bonn,2006-07-01,2006,3,single_family,2000.0
+Bonn,2006-10-01,2006,4,single_family,1900.0
+Bonn,2007-01-01,2007,1,single_family,1900.0
+Bonn,2007-04-01,2007,2,single_family,2100.0
+Bonn,2007-07-01,2007,3,single_family,2100.0
+Bonn,2007-10-01,2007,4,single_family,1900.0
+Bonn,2008-01-01,2008,1,single_family,1900.0
+Bonn,2008-04-01,2008,2,single_family,2000.0
+Bonn,2008-07-01,2008,3,single_family,1900.0
+Bonn,2008-10-01,2008,4,single_family,1800.0
+Bonn,2009-01-01,2009,1,single_family,1900.0
+Bonn,2009-04-01,2009,2,single_family,1800.0
+Bonn,2009-07-01,2009,3,single_family,1800.0
+Bonn,2009-10-01,2009,4,single_family,1700.0
+Bonn,2010-01-01,2010,1,single_family,1800.0
+Bonn,2010-04-01,2010,2,single_family,2000.0
+Bonn,2010-07-01,2010,3,single_family,2000.0
+Bonn,2010-10-01,2010,4,single_family,2000.0
+Bonn,2011-01-01,2011,1,single_family,2100.0
+Bonn,2011-04-01,2011,2,single_family,2100.0
+Bonn,2011-07-01,2011,3,single_family,2100.0
+Bonn,2011-10-01,2011,4,single_family,2000.0
+Bonn,2012-01-01,2012,1,single_family,2300.0
+Bonn,2012-04-01,2012,2,single_family,2300.0
+Bonn,2012-07-01,2012,3,single_family,2500.0
+Bonn,2012-10-01,2012,4,single_family,2300.0
+Bonn,2013-01-01,2013,1,single_family,2300.0
+Bonn,2013-04-01,2013,2,single_family,2400.0
+Bonn,2013-07-01,2013,3,single_family,2400.0
+Bonn,2013-10-01,2013,4,single_family,2400.0
+Bonn,2014-01-01,2014,1,single_family,2500.0
+Bonn,2014-04-01,2014,2,single_family,2500.0
+Bonn,2014-07-01,2014,3,single_family,2600.0
+Bonn,2014-10-01,2014,4,single_family,2600.0
+Bonn,2015-01-01,2015,1,single_family,2300.0
+Bonn,2015-04-01,2015,2,single_family,2800.0
+Bonn,2015-07-01,2015,3,single_family,2500.0
+Bonn,2015-10-01,2015,4,single_family,2500.0
+Bonn,2016-01-01,2016,1,single_family,2700.0
+Bonn,2016-04-01,2016,2,single_family,2800.0
+Bonn,2016-07-01,2016,3,single_family,2800.0
+Bonn,2016-10-01,2016,4,single_family,2700.0
+Bonn,2017-01-01,2017,1,single_family,2900.0
+Bonn,2017-04-01,2017,2,single_family,3000.0
+Bonn,2017-07-01,2017,3,single_family,2900.0
+Bonn,2017-10-01,2017,4,single_family,3200.0
+Bonn,2018-01-01,2018,1,single_family,2900.0
+Bonn,2018-04-01,2018,2,single_family,3200.0
+Bonn,2018-07-01,2018,3,single_family,3200.0
+Bonn,2018-10-01,2018,4,single_family,3200.0
+Bonn,2019-01-01,2019,1,single_family,3300.0
+Bonn,2019-04-01,2019,2,single_family,3300.0
+Bonn,2019-07-01,2019,3,single_family,3400.0
+Bonn,2019-10-01,2019,4,single_family,3500.0
+Bonn,2020-01-01,2020,1,single_family,3600.0
+Bonn,2020-04-01,2020,2,single_family,3700.0
+Bonn,2020-07-01,2020,3,single_family,3800.0
+Bonn,2020-10-01,2020,4,single_family,4000.0
+Bonn,2021-01-01,2021,1,single_family,4000.0
+Bonn,2021-04-01,2021,2,single_family,4000.0
+Bonn,2021-07-01,2021,3,single_family,4300.0
+Bonn,2021-10-01,2021,4,single_family,4300.0
+Bonn,2022-01-01,2022,1,single_family,4600.0
+Bonn,2022-04-01,2022,2,single_family,4700.0
+Bonn,2022-07-01,2022,3,single_family,4700.0
+Bonn,2022-10-01,2022,4,single_family,4400.0
+Bonn,2023-01-01,2023,1,single_family,4300.0
+Bonn,2023-04-01,2023,2,single_family,4100.0
+Bonn,2023-07-01,2023,3,single_family,4000.0
+Bonn,2023-10-01,2023,4,single_family,3800.0
+Bonn,2024-01-01,2024,1,single_family,3700.0
+Bonn,2024-04-01,2024,2,single_family,3900.0
+Bonn,2024-07-01,2024,3,single_family,4400.0
+Bonn,2024-10-01,2024,4,single_family,3900.0
+Bonn,2005-01-01,2005,1,apartment,1500.0
+Bonn,2005-04-01,2005,2,apartment,1500.0
+Bonn,2005-07-01,2005,3,apartment,1500.0
+Bonn,2005-10-01,2005,4,apartment,1400.0
+Bonn,2006-01-01,2006,1,apartment,1500.0
+Bonn,2006-04-01,2006,2,apartment,1500.0
+Bonn,2006-07-01,2006,3,apartment,1700.0
+Bonn,2006-10-01,2006,4,apartment,1500.0
+Bonn,2007-01-01,2007,1,apartment,1500.0
+Bonn,2007-04-01,2007,2,apartment,1500.0
+Bonn,2007-07-01,2007,3,apartment,1500.0
+Bonn,2007-10-01,2007,4,apartment,1500.0
+Bonn,2008-01-01,2008,1,apartment,1500.0
+Bonn,2008-04-01,2008,2,apartment,1500.0
+Bonn,2008-07-01,2008,3,apartment,1400.0
+Bonn,2008-10-01,2008,4,apartment,1600.0
+Bonn,2009-01-01,2009,1,apartment,1600.0
+Bonn,2009-04-01,2009,2,apartment,1600.0
+Bonn,2009-07-01,2009,3,apartment,1600.0
+Bonn,2009-10-01,2009,4,apartment,1700.0
+Bonn,2010-01-01,2010,1,apartment,1800.0
+Bonn,2010-04-01,2010,2,apartment,1700.0
+Bonn,2010-07-01,2010,3,apartment,1800.0
+Bonn,2010-10-01,2010,4,apartment,1700.0
+Bonn,2011-01-01,2011,1,apartment,1800.0
+Bonn,2011-04-01,2011,2,apartment,1700.0
+Bonn,2011-07-01,2011,3,apartment,1800.0
+Bonn,2011-10-01,2011,4,apartment,1800.0
+Bonn,2012-01-01,2012,1,apartment,1700.0
+Bonn,2012-04-01,2012,2,apartment,1900.0
+Bonn,2012-07-01,2012,3,apartment,1800.0
+Bonn,2012-10-01,2012,4,apartment,1800.0
+Bonn,2013-01-01,2013,1,apartment,1900.0
+Bonn,2013-04-01,2013,2,apartment,1800.0
+Bonn,2013-07-01,2013,3,apartment,2100.0
+Bonn,2013-10-01,2013,4,apartment,2300.0
+Bonn,2014-01-01,2014,1,apartment,2200.0
+Bonn,2014-04-01,2014,2,apartment,2100.0
+Bonn,2014-07-01,2014,3,apartment,2300.0
+Bonn,2014-10-01,2014,4,apartment,2400.0
+Bonn,2015-01-01,2015,1,apartment,2200.0
+Bonn,2015-04-01,2015,2,apartment,2200.0
+Bonn,2015-07-01,2015,3,apartment,2100.0
+Bonn,2015-10-01,2015,4,apartment,2300.0
+Bonn,2016-01-01,2016,1,apartment,2400.0
+Bonn,2016-04-01,2016,2,apartment,2300.0
+Bonn,2016-07-01,2016,3,apartment,2400.0
+Bonn,2016-10-01,2016,4,apartment,2600.0
+Bonn,2017-01-01,2017,1,apartment,2600.0
+Bonn,2017-04-01,2017,2,apartment,2400.0
+Bonn,2017-07-01,2017,3,apartment,2700.0
+Bonn,2017-10-01,2017,4,apartment,2700.0
+Bonn,2018-01-01,2018,1,apartment,2700.0
+Bonn,2018-04-01,2018,2,apartment,2800.0
+Bonn,2018-07-01,2018,3,apartment,2700.0
+Bonn,2018-10-01,2018,4,apartment,2800.0
+Bonn,2019-01-01,2019,1,apartment,3000.0
+Bonn,2019-04-01,2019,2,apartment,3100.0
+Bonn,2019-07-01,2019,3,apartment,3100.0
+Bonn,2019-10-01,2019,4,apartment,3300.0
+Bonn,2020-01-01,2020,1,apartment,3500.0
+Bonn,2020-04-01,2020,2,apartment,3400.0
+Bonn,2020-07-01,2020,3,apartment,3500.0
+Bonn,2020-10-01,2020,4,apartment,3400.0
+Bonn,2021-01-01,2021,1,apartment,3800.0
+Bonn,2021-04-01,2021,2,apartment,3900.0
+Bonn,2021-07-01,2021,3,apartment,3800.0
+Bonn,2021-10-01,2021,4,apartment,4400.0
+Bonn,2022-01-01,2022,1,apartment,4000.0
+Bonn,2022-04-01,2022,2,apartment,4100.0
+Bonn,2022-07-01,2022,3,apartment,4100.0
+Bonn,2022-10-01,2022,4,apartment,4000.0
+Bonn,2023-01-01,2023,1,apartment,3900.0
+Bonn,2023-04-01,2023,2,apartment,3800.0
+Bonn,2023-07-01,2023,3,apartment,3500.0
+Bonn,2023-10-01,2023,4,apartment,4200.0
+Bonn,2024-01-01,2024,1,apartment,3700.0
+Bonn,2024-04-01,2024,2,apartment,3700.0
+Bonn,2024-07-01,2024,3,apartment,3800.0
+Bonn,2024-10-01,2024,4,apartment,3800.0
+Bochum,2005-01-01,2005,1,single_family,1800.0
+Bochum,2005-04-01,2005,2,single_family,1900.0
+Bochum,2005-07-01,2005,3,single_family,1800.0
+Bochum,2005-10-01,2005,4,single_family,1700.0
+Bochum,2006-01-01,2006,1,single_family,1900.0
+Bochum,2006-04-01,2006,2,single_family,1800.0
+Bochum,2006-07-01,2006,3,single_family,1900.0
+Bochum,2006-10-01,2006,4,single_family,1800.0
+Bochum,2007-01-01,2007,1,single_family,1600.0
+Bochum,2007-04-01,2007,2,single_family,1800.0
+Bochum,2007-07-01,2007,3,single_family,1800.0
+Bochum,2007-10-01,2007,4,single_family,1800.0
+Bochum,2008-01-01,2008,1,single_family,1700.0
+Bochum,2008-04-01,2008,2,single_family,1800.0
+Bochum,2008-07-01,2008,3,single_family,1700.0
+Bochum,2008-10-01,2008,4,single_family,1600.0
+Bochum,2009-01-01,2009,1,single_family,1700.0
+Bochum,2009-04-01,2009,2,single_family,1800.0
+Bochum,2009-07-01,2009,3,single_family,1700.0
+Bochum,2009-10-01,2009,4,single_family,1900.0
+Bochum,2010-01-01,2010,1,single_family,1700.0
+Bochum,2010-04-01,2010,2,single_family,1800.0
+Bochum,2010-07-01,2010,3,single_family,1700.0
+Bochum,2010-10-01,2010,4,single_family,1800.0
+Bochum,2011-01-01,2011,1,single_family,1800.0
+Bochum,2011-04-01,2011,2,single_family,1700.0
+Bochum,2011-07-01,2011,3,single_family,1700.0
+Bochum,2011-10-01,2011,4,single_family,1600.0
+Bochum,2012-01-01,2012,1,single_family,1700.0
+Bochum,2012-04-01,2012,2,single_family,1900.0
+Bochum,2012-07-01,2012,3,single_family,1900.0
+Bochum,2012-10-01,2012,4,single_family,1900.0
+Bochum,2013-01-01,2013,1,single_family,1900.0
+Bochum,2013-04-01,2013,2,single_family,1800.0
+Bochum,2013-07-01,2013,3,single_family,1800.0
+Bochum,2013-10-01,2013,4,single_family,1900.0
+Bochum,2014-01-01,2014,1,single_family,1900.0
+Bochum,2014-04-01,2014,2,single_family,1900.0
+Bochum,2014-07-01,2014,3,single_family,2000.0
+Bochum,2014-10-01,2014,4,single_family,1900.0
+Bochum,2015-01-01,2015,1,single_family,1800.0
+Bochum,2015-04-01,2015,2,single_family,1900.0
+Bochum,2015-07-01,2015,3,single_family,2000.0
+Bochum,2015-10-01,2015,4,single_family,2200.0
+Bochum,2016-01-01,2016,1,single_family,2000.0
+Bochum,2016-04-01,2016,2,single_family,2000.0
+Bochum,2016-07-01,2016,3,single_family,2100.0
+Bochum,2016-10-01,2016,4,single_family,2000.0
+Bochum,2017-01-01,2017,1,single_family,2200.0
+Bochum,2017-04-01,2017,2,single_family,2200.0
+Bochum,2017-07-01,2017,3,single_family,2100.0
+Bochum,2017-10-01,2017,4,single_family,2300.0
+Bochum,2018-01-01,2018,1,single_family,2300.0
+Bochum,2018-04-01,2018,2,single_family,2300.0
+Bochum,2018-07-01,2018,3,single_family,2400.0
+Bochum,2018-10-01,2018,4,single_family,2300.0
+Bochum,2019-01-01,2019,1,single_family,2600.0
+Bochum,2019-04-01,2019,2,single_family,2600.0
+Bochum,2019-07-01,2019,3,single_family,2400.0
+Bochum,2019-10-01,2019,4,single_family,2700.0
+Bochum,2020-01-01,2020,1,single_family,2800.0
+Bochum,2020-04-01,2020,2,single_family,2600.0
+Bochum,2020-07-01,2020,3,single_family,2800.0
+Bochum,2020-10-01,2020,4,single_family,2800.0
+Bochum,2021-01-01,2021,1,single_family,2900.0
+Bochum,2021-04-01,2021,2,single_family,3000.0
+Bochum,2021-07-01,2021,3,single_family,2900.0
+Bochum,2021-10-01,2021,4,single_family,3200.0
+Bochum,2022-01-01,2022,1,single_family,3100.0
+Bochum,2022-04-01,2022,2,single_family,3300.0
+Bochum,2022-07-01,2022,3,single_family,3400.0
+Bochum,2022-10-01,2022,4,single_family,3100.0
+Bochum,2023-01-01,2023,1,single_family,3000.0
+Bochum,2023-04-01,2023,2,single_family,3000.0
+Bochum,2023-07-01,2023,3,single_family,2800.0
+Bochum,2023-10-01,2023,4,single_family,2900.0
+Bochum,2024-01-01,2024,1,single_family,2800.0
+Bochum,2024-04-01,2024,2,single_family,2800.0
+Bochum,2024-07-01,2024,3,single_family,3000.0
+Bochum,2024-10-01,2024,4,single_family,2900.0
+Bochum,2005-01-01,2005,1,apartment,1200.0
+Bochum,2005-04-01,2005,2,apartment,1300.0
+Bochum,2005-07-01,2005,3,apartment,1200.0
+Bochum,2005-10-01,2005,4,apartment,1300.0
+Bochum,2006-01-01,2006,1,apartment,1200.0
+Bochum,2006-04-01,2006,2,apartment,1300.0
+Bochum,2006-07-01,2006,3,apartment,1200.0
+Bochum,2006-10-01,2006,4,apartment,1200.0
+Bochum,2007-01-01,2007,1,apartment,1200.0
+Bochum,2007-04-01,2007,2,apartment,1100.0
+Bochum,2007-07-01,2007,3,apartment,1300.0
+Bochum,2007-10-01,2007,4,apartment,1100.0
+Bochum,2008-01-01,2008,1,apartment,1100.0
+Bochum,2008-04-01,2008,2,apartment,1100.0
+Bochum,2008-07-01,2008,3,apartment,1200.0
+Bochum,2008-10-01,2008,4,apartment,1100.0
+Bochum,2009-01-01,2009,1,apartment,1200.0
+Bochum,2009-04-01,2009,2,apartment,1200.0
+Bochum,2009-07-01,2009,3,apartment,1200.0
+Bochum,2009-10-01,2009,4,apartment,1100.0
+Bochum,2010-01-01,2010,1,apartment,1200.0
+Bochum,2010-04-01,2010,2,apartment,1100.0
+Bochum,2010-07-01,2010,3,apartment,1200.0
+Bochum,2010-10-01,2010,4,apartment,1200.0
+Bochum,2011-01-01,2011,1,apartment,1200.0
+Bochum,2011-04-01,2011,2,apartment,1200.0
+Bochum,2011-07-01,2011,3,apartment,1200.0
+Bochum,2011-10-01,2011,4,apartment,1200.0
+Bochum,2012-01-01,2012,1,apartment,1200.0
+Bochum,2012-04-01,2012,2,apartment,1100.0
+Bochum,2012-07-01,2012,3,apartment,1200.0
+Bochum,2012-10-01,2012,4,apartment,1400.0
+Bochum,2013-01-01,2013,1,apartment,1200.0
+Bochum,2013-04-01,2013,2,apartment,1400.0
+Bochum,2013-07-01,2013,3,apartment,1300.0
+Bochum,2013-10-01,2013,4,apartment,1300.0
+Bochum,2014-01-01,2014,1,apartment,1300.0
+Bochum,2014-04-01,2014,2,apartment,1400.0
+Bochum,2014-07-01,2014,3,apartment,1300.0
+Bochum,2014-10-01,2014,4,apartment,1500.0
+Bochum,2015-01-01,2015,1,apartment,1300.0
+Bochum,2015-04-01,2015,2,apartment,1400.0
+Bochum,2015-07-01,2015,3,apartment,1400.0
+Bochum,2015-10-01,2015,4,apartment,1500.0
+Bochum,2016-01-01,2016,1,apartment,1500.0
+Bochum,2016-04-01,2016,2,apartment,1500.0
+Bochum,2016-07-01,2016,3,apartment,1600.0
+Bochum,2016-10-01,2016,4,apartment,1700.0
+Bochum,2017-01-01,2017,1,apartment,1500.0
+Bochum,2017-04-01,2017,2,apartment,1700.0
+Bochum,2017-07-01,2017,3,apartment,1500.0
+Bochum,2017-10-01,2017,4,apartment,1600.0
+Bochum,2018-01-01,2018,1,apartment,1500.0
+Bochum,2018-04-01,2018,2,apartment,1700.0
+Bochum,2018-07-01,2018,3,apartment,1600.0
+Bochum,2018-10-01,2018,4,apartment,1700.0
+Bochum,2019-01-01,2019,1,apartment,1800.0
+Bochum,2019-04-01,2019,2,apartment,1900.0
+Bochum,2019-07-01,2019,3,apartment,1600.0
+Bochum,2019-10-01,2019,4,apartment,1700.0
+Bochum,2020-01-01,2020,1,apartment,1800.0
+Bochum,2020-04-01,2020,2,apartment,2100.0
+Bochum,2020-07-01,2020,3,apartment,2100.0
+Bochum,2020-10-01,2020,4,apartment,1800.0
+Bochum,2021-01-01,2021,1,apartment,2000.0
+Bochum,2021-04-01,2021,2,apartment,2200.0
+Bochum,2021-07-01,2021,3,apartment,2000.0
+Bochum,2021-10-01,2021,4,apartment,2300.0
+Bochum,2022-01-01,2022,1,apartment,2400.0
+Bochum,2022-04-01,2022,2,apartment,2300.0
+Bochum,2022-07-01,2022,3,apartment,2200.0
+Bochum,2022-10-01,2022,4,apartment,2100.0
+Bochum,2023-01-01,2023,1,apartment,2000.0
+Bochum,2023-04-01,2023,2,apartment,2100.0
+Bochum,2023-07-01,2023,3,apartment,2000.0
+Bochum,2023-10-01,2023,4,apartment,1900.0
+Bochum,2024-01-01,2024,1,apartment,2200.0
+Bochum,2024-04-01,2024,2,apartment,2300.0
+Bochum,2024-07-01,2024,3,apartment,2200.0
+Bochum,2024-10-01,2024,4,apartment,2200.0
+Bochum,2005-01-01,2005,1,multi_family,800.0
+Bochum,2005-04-01,2005,2,multi_family,800.0
+Bochum,2005-07-01,2005,3,multi_family,900.0
+Bochum,2005-10-01,2005,4,multi_family,800.0
+Bochum,2006-01-01,2006,1,multi_family,700.0
+Bochum,2006-04-01,2006,2,multi_family,1000.0
+Bochum,2006-07-01,2006,3,multi_family,800.0
+Bochum,2006-10-01,2006,4,multi_family,700.0
+Bochum,2007-01-01,2007,1,multi_family,800.0
+Bochum,2007-04-01,2007,2,multi_family,600.0
+Bochum,2007-07-01,2007,3,multi_family,700.0
+Bochum,2007-10-01,2007,4,multi_family,700.0
+Bochum,2008-01-01,2008,1,multi_family,800.0
+Bochum,2008-04-01,2008,2,multi_family,700.0
+Bochum,2008-07-01,2008,3,multi_family,700.0
+Bochum,2008-10-01,2008,4,multi_family,700.0
+Bochum,2009-01-01,2009,1,multi_family,700.0
+Bochum,2009-04-01,2009,2,multi_family,800.0
+Bochum,2009-07-01,2009,3,multi_family,600.0
+Bochum,2009-10-01,2009,4,multi_family,700.0
+Bochum,2010-01-01,2010,1,multi_family,800.0
+Bochum,2010-04-01,2010,2,multi_family,800.0
+Bochum,2010-07-01,2010,3,multi_family,800.0
+Bochum,2010-10-01,2010,4,multi_family,700.0
+Bochum,2011-01-01,2011,1,multi_family,700.0
+Bochum,2011-04-01,2011,2,multi_family,900.0
+Bochum,2011-07-01,2011,3,multi_family,800.0
+Bochum,2011-10-01,2011,4,multi_family,800.0
+Bochum,2012-01-01,2012,1,multi_family,700.0
+Bochum,2012-04-01,2012,2,multi_family,700.0
+Bochum,2012-07-01,2012,3,multi_family,800.0
+Bochum,2012-10-01,2012,4,multi_family,800.0
+Bochum,2013-01-01,2013,1,multi_family,800.0
+Bochum,2013-04-01,2013,2,multi_family,800.0
+Bochum,2013-07-01,2013,3,multi_family,800.0
+Bochum,2013-10-01,2013,4,multi_family,800.0
+Bochum,2014-01-01,2014,1,multi_family,900.0
+Bochum,2014-04-01,2014,2,multi_family,800.0
+Bochum,2014-07-01,2014,3,multi_family,1000.0
+Bochum,2014-10-01,2014,4,multi_family,900.0
+Bochum,2015-01-01,2015,1,multi_family,1200.0
+Bochum,2015-04-01,2015,2,multi_family,1100.0
+Bochum,2015-07-01,2015,3,multi_family,900.0
+Bochum,2015-10-01,2015,4,multi_family,1000.0
+Bochum,2016-01-01,2016,1,multi_family,900.0
+Bochum,2016-04-01,2016,2,multi_family,1000.0
+Bochum,2016-07-01,2016,3,multi_family,900.0
+Bochum,2016-10-01,2016,4,multi_family,1000.0
+Bochum,2017-01-01,2017,1,multi_family,900.0
+Bochum,2017-04-01,2017,2,multi_family,1000.0
+Bochum,2017-07-01,2017,3,multi_family,1100.0
+Bochum,2017-10-01,2017,4,multi_family,1000.0
+Bochum,2018-01-01,2018,1,multi_family,1400.0
+Bochum,2018-04-01,2018,2,multi_family,1300.0
+Bochum,2018-07-01,2018,3,multi_family,2100.0
+Bochum,2018-10-01,2018,4,multi_family,1200.0
+Bochum,2019-01-01,2019,1,multi_family,1400.0
+Bochum,2019-04-01,2019,2,multi_family,1300.0
+Bochum,2019-07-01,2019,3,multi_family,1200.0
+Bochum,2019-10-01,2019,4,multi_family,1300.0
+Bochum,2020-01-01,2020,1,multi_family,1200.0
+Bochum,2020-04-01,2020,2,multi_family,1300.0
+Bochum,2020-07-01,2020,3,multi_family,1100.0
+Bochum,2020-10-01,2020,4,multi_family,1200.0
+Bochum,2021-01-01,2021,1,multi_family,1400.0
+Bochum,2021-04-01,2021,2,multi_family,1400.0
+Bochum,2021-07-01,2021,3,multi_family,1500.0
+Bochum,2021-10-01,2021,4,multi_family,1500.0
+Bochum,2022-01-01,2022,1,multi_family,1600.0
+Bochum,2022-04-01,2022,2,multi_family,1600.0
+Bochum,2022-07-01,2022,3,multi_family,1600.0
+Bochum,2022-10-01,2022,4,multi_family,1500.0
+Bochum,2023-01-01,2023,1,multi_family,1100.0
+Bochum,2023-04-01,2023,2,multi_family,1300.0
+Bochum,2023-07-01,2023,3,multi_family,1300.0
+Bochum,2023-10-01,2023,4,multi_family,1200.0
+Bochum,2024-01-01,2024,1,multi_family,1300.0
+Bochum,2024-04-01,2024,2,multi_family,1300.0
+Bochum,2024-07-01,2024,3,multi_family,1400.0
+Bochum,2024-10-01,2024,4,multi_family,1400.0
+Chemnitz,2005-01-01,2005,1,apartment,1600.0
+Chemnitz,2005-04-01,2005,2,apartment,1400.0
+Chemnitz,2005-07-01,2005,3,apartment,1600.0
+Chemnitz,2005-10-01,2005,4,apartment,1500.0
+Chemnitz,2006-01-01,2006,1,apartment,1500.0
+Chemnitz,2006-04-01,2006,2,apartment,1600.0
+Chemnitz,2006-07-01,2006,3,apartment,1600.0
+Chemnitz,2006-10-01,2006,4,apartment,1600.0
+Chemnitz,2007-01-01,2007,1,apartment,1500.0
+Chemnitz,2007-04-01,2007,2,apartment,1500.0
+Chemnitz,2007-07-01,2007,3,apartment,1500.0
+Chemnitz,2007-10-01,2007,4,apartment,1600.0
+Chemnitz,2008-01-01,2008,1,apartment,1600.0
+Chemnitz,2008-04-01,2008,2,apartment,1500.0
+Chemnitz,2008-07-01,2008,3,apartment,1400.0
+Chemnitz,2008-10-01,2008,4,apartment,1600.0
+Chemnitz,2009-01-01,2009,1,apartment,1600.0
+Chemnitz,2009-04-01,2009,2,apartment,1400.0
+Chemnitz,2009-07-01,2009,3,apartment,1300.0
+Chemnitz,2009-10-01,2009,4,apartment,1200.0
+Chemnitz,2010-01-01,2010,1,apartment,1300.0
+Chemnitz,2010-04-01,2010,2,apartment,1200.0
+Chemnitz,2010-07-01,2010,3,apartment,1200.0
+Chemnitz,2010-10-01,2010,4,apartment,1000.0
+Chemnitz,2011-01-01,2011,1,apartment,1100.0
+Chemnitz,2011-04-01,2011,2,apartment,1000.0
+Chemnitz,2011-07-01,2011,3,apartment,900.0
+Chemnitz,2011-10-01,2011,4,apartment,1000.0
+Chemnitz,2012-01-01,2012,1,apartment,1000.0
+Chemnitz,2012-04-01,2012,2,apartment,1000.0
+Chemnitz,2012-07-01,2012,3,apartment,1000.0
+Chemnitz,2012-10-01,2012,4,apartment,1000.0
+Chemnitz,2013-01-01,2013,1,apartment,1000.0
+Chemnitz,2013-04-01,2013,2,apartment,1000.0
+Chemnitz,2013-07-01,2013,3,apartment,1000.0
+Chemnitz,2013-10-01,2013,4,apartment,900.0
+Chemnitz,2014-01-01,2014,1,apartment,900.0
+Chemnitz,2014-04-01,2014,2,apartment,1100.0
+Chemnitz,2014-07-01,2014,3,apartment,900.0
+Chemnitz,2014-10-01,2014,4,apartment,800.0
+Chemnitz,2015-01-01,2015,1,apartment,800.0
+Chemnitz,2015-04-01,2015,2,apartment,900.0
+Chemnitz,2015-07-01,2015,3,apartment,900.0
+Chemnitz,2015-10-01,2015,4,apartment,900.0
+Chemnitz,2016-01-01,2016,1,apartment,800.0
+Chemnitz,2016-04-01,2016,2,apartment,800.0
+Chemnitz,2016-07-01,2016,3,apartment,900.0
+Chemnitz,2016-10-01,2016,4,apartment,1000.0
+Chemnitz,2017-01-01,2017,1,apartment,1100.0
+Chemnitz,2017-04-01,2017,2,apartment,1000.0
+Chemnitz,2017-07-01,2017,3,apartment,1200.0
+Chemnitz,2017-10-01,2017,4,apartment,1200.0
+Chemnitz,2018-01-01,2018,1,apartment,1200.0
+Chemnitz,2018-04-01,2018,2,apartment,1100.0
+Chemnitz,2018-07-01,2018,3,apartment,1100.0
+Chemnitz,2018-10-01,2018,4,apartment,1200.0
+Chemnitz,2019-01-01,2019,1,apartment,1300.0
+Chemnitz,2019-04-01,2019,2,apartment,1200.0
+Chemnitz,2019-07-01,2019,3,apartment,1300.0
+Chemnitz,2019-10-01,2019,4,apartment,1800.0
+Chemnitz,2020-01-01,2020,1,apartment,1500.0
+Chemnitz,2020-04-01,2020,2,apartment,1400.0
+Chemnitz,2020-07-01,2020,3,apartment,1500.0
+Chemnitz,2020-10-01,2020,4,apartment,1400.0
+Chemnitz,2021-01-01,2021,1,apartment,1500.0
+Chemnitz,2021-04-01,2021,2,apartment,1500.0
+Chemnitz,2021-07-01,2021,3,apartment,1500.0
+Chemnitz,2021-10-01,2021,4,apartment,2000.0
+Chemnitz,2022-01-01,2022,1,apartment,1800.0
+Chemnitz,2022-04-01,2022,2,apartment,1500.0
+Chemnitz,2022-07-01,2022,3,apartment,1500.0
+Chemnitz,2022-10-01,2022,4,apartment,1500.0
+Chemnitz,2023-01-01,2023,1,apartment,1300.0
+Chemnitz,2023-04-01,2023,2,apartment,1600.0
+Chemnitz,2023-07-01,2023,3,apartment,1500.0
+Chemnitz,2023-10-01,2023,4,apartment,1500.0
+Chemnitz,2024-01-01,2024,1,apartment,1400.0
+Chemnitz,2024-04-01,2024,2,apartment,1500.0
+Chemnitz,2024-07-01,2024,3,apartment,1600.0
+Chemnitz,2024-10-01,2024,4,apartment,1400.0
+Cologne,2005-01-01,2005,1,single_family,2100.0
+Cologne,2005-04-01,2005,2,single_family,2100.0
+Cologne,2005-07-01,2005,3,single_family,2000.0
+Cologne,2005-10-01,2005,4,single_family,2100.0
+Cologne,2006-01-01,2006,1,single_family,2300.0
+Cologne,2006-04-01,2006,2,single_family,2200.0
+Cologne,2006-07-01,2006,3,single_family,2200.0
+Cologne,2006-10-01,2006,4,single_family,2100.0
+Cologne,2007-01-01,2007,1,single_family,1900.0
+Cologne,2007-04-01,2007,2,single_family,2100.0
+Cologne,2007-07-01,2007,3,single_family,2100.0
+Cologne,2007-10-01,2007,4,single_family,2000.0
+Cologne,2008-01-01,2008,1,single_family,2100.0
+Cologne,2008-04-01,2008,2,single_family,2100.0
+Cologne,2008-07-01,2008,3,single_family,2200.0
+Cologne,2008-10-01,2008,4,single_family,2200.0
+Cologne,2009-01-01,2009,1,single_family,2100.0
+Cologne,2009-04-01,2009,2,single_family,2200.0
+Cologne,2009-07-01,2009,3,single_family,2200.0
+Cologne,2009-10-01,2009,4,single_family,2400.0
+Cologne,2010-01-01,2010,1,single_family,2100.0
+Cologne,2010-04-01,2010,2,single_family,2200.0
+Cologne,2010-07-01,2010,3,single_family,2300.0
+Cologne,2010-10-01,2010,4,single_family,2200.0
+Cologne,2011-01-01,2011,1,single_family,2100.0
+Cologne,2011-04-01,2011,2,single_family,2100.0
+Cologne,2011-07-01,2011,3,single_family,2200.0
+Cologne,2011-10-01,2011,4,single_family,2200.0
+Cologne,2012-01-01,2012,1,single_family,2200.0
+Cologne,2012-04-01,2012,2,single_family,2100.0
+Cologne,2012-07-01,2012,3,single_family,2300.0
+Cologne,2012-10-01,2012,4,single_family,2500.0
+Cologne,2013-01-01,2013,1,single_family,2500.0
+Cologne,2013-04-01,2013,2,single_family,2400.0
+Cologne,2013-07-01,2013,3,single_family,2500.0
+Cologne,2013-10-01,2013,4,single_family,2600.0
+Cologne,2014-01-01,2014,1,single_family,2500.0
+Cologne,2014-04-01,2014,2,single_family,2800.0
+Cologne,2014-07-01,2014,3,single_family,2600.0
+Cologne,2014-10-01,2014,4,single_family,2700.0
+Cologne,2015-01-01,2015,1,single_family,2800.0
+Cologne,2015-04-01,2015,2,single_family,2900.0
+Cologne,2015-07-01,2015,3,single_family,3000.0
+Cologne,2015-10-01,2015,4,single_family,3000.0
+Cologne,2016-01-01,2016,1,single_family,3000.0
+Cologne,2016-04-01,2016,2,single_family,3200.0
+Cologne,2016-07-01,2016,3,single_family,3000.0
+Cologne,2016-10-01,2016,4,single_family,3200.0
+Cologne,2017-01-01,2017,1,single_family,3100.0
+Cologne,2017-04-01,2017,2,single_family,3100.0
+Cologne,2017-07-01,2017,3,single_family,3300.0
+Cologne,2017-10-01,2017,4,single_family,3300.0
+Cologne,2018-01-01,2018,1,single_family,3400.0
+Cologne,2018-04-01,2018,2,single_family,3600.0
+Cologne,2018-07-01,2018,3,single_family,3600.0
+Cologne,2018-10-01,2018,4,single_family,3600.0
+Cologne,2019-01-01,2019,1,single_family,3500.0
+Cologne,2019-04-01,2019,2,single_family,3900.0
+Cologne,2019-07-01,2019,3,single_family,3800.0
+Cologne,2019-10-01,2019,4,single_family,3900.0
+Cologne,2020-01-01,2020,1,single_family,4300.0
+Cologne,2020-04-01,2020,2,single_family,4400.0
+Cologne,2020-07-01,2020,3,single_family,4300.0
+Cologne,2020-10-01,2020,4,single_family,4300.0
+Cologne,2021-01-01,2021,1,single_family,4400.0
+Cologne,2021-04-01,2021,2,single_family,4700.0
+Cologne,2021-07-01,2021,3,single_family,4800.0
+Cologne,2021-10-01,2021,4,single_family,4600.0
+Cologne,2022-01-01,2022,1,single_family,4900.0
+Cologne,2022-04-01,2022,2,single_family,5200.0
+Cologne,2022-07-01,2022,3,single_family,5600.0
+Cologne,2022-10-01,2022,4,single_family,5300.0
+Cologne,2023-01-01,2023,1,single_family,4900.0
+Cologne,2023-04-01,2023,2,single_family,4700.0
+Cologne,2023-07-01,2023,3,single_family,4500.0
+Cologne,2023-10-01,2023,4,single_family,4400.0
+Cologne,2024-01-01,2024,1,single_family,4300.0
+Cologne,2024-04-01,2024,2,single_family,4400.0
+Cologne,2024-07-01,2024,3,single_family,4500.0
+Cologne,2024-10-01,2024,4,single_family,4500.0
+Cologne,2005-01-01,2005,1,apartment,1800.0
+Cologne,2005-04-01,2005,2,apartment,1900.0
+Cologne,2005-07-01,2005,3,apartment,2000.0
+Cologne,2005-10-01,2005,4,apartment,1800.0
+Cologne,2006-01-01,2006,1,apartment,1900.0
+Cologne,2006-04-01,2006,2,apartment,1900.0
+Cologne,2006-07-01,2006,3,apartment,1900.0
+Cologne,2006-10-01,2006,4,apartment,1800.0
+Cologne,2007-01-01,2007,1,apartment,1800.0
+Cologne,2007-04-01,2007,2,apartment,1900.0
+Cologne,2007-07-01,2007,3,apartment,1900.0
+Cologne,2007-10-01,2007,4,apartment,1900.0
+Cologne,2008-01-01,2008,1,apartment,1800.0
+Cologne,2008-04-01,2008,2,apartment,1800.0
+Cologne,2008-07-01,2008,3,apartment,1800.0
+Cologne,2008-10-01,2008,4,apartment,1800.0
+Cologne,2009-01-01,2009,1,apartment,1800.0
+Cologne,2009-04-01,2009,2,apartment,2000.0
+Cologne,2009-07-01,2009,3,apartment,2000.0
+Cologne,2009-10-01,2009,4,apartment,1900.0
+Cologne,2010-01-01,2010,1,apartment,1900.0
+Cologne,2010-04-01,2010,2,apartment,1900.0
+Cologne,2010-07-01,2010,3,apartment,2000.0
+Cologne,2010-10-01,2010,4,apartment,2000.0
+Cologne,2011-01-01,2011,1,apartment,2000.0
+Cologne,2011-04-01,2011,2,apartment,2100.0
+Cologne,2011-07-01,2011,3,apartment,2100.0
+Cologne,2011-10-01,2011,4,apartment,2100.0
+Cologne,2012-01-01,2012,1,apartment,2100.0
+Cologne,2012-04-01,2012,2,apartment,2200.0
+Cologne,2012-07-01,2012,3,apartment,2200.0
+Cologne,2012-10-01,2012,4,apartment,2100.0
+Cologne,2013-01-01,2013,1,apartment,2200.0
+Cologne,2013-04-01,2013,2,apartment,2400.0
+Cologne,2013-07-01,2013,3,apartment,2400.0
+Cologne,2013-10-01,2013,4,apartment,2400.0
+Cologne,2014-01-01,2014,1,apartment,2500.0
+Cologne,2014-04-01,2014,2,apartment,2500.0
+Cologne,2014-07-01,2014,3,apartment,2600.0
+Cologne,2014-10-01,2014,4,apartment,2600.0
+Cologne,2015-01-01,2015,1,apartment,2600.0
+Cologne,2015-04-01,2015,2,apartment,2800.0
+Cologne,2015-07-01,2015,3,apartment,2700.0
+Cologne,2015-10-01,2015,4,apartment,2800.0
+Cologne,2016-01-01,2016,1,apartment,3000.0
+Cologne,2016-04-01,2016,2,apartment,3100.0
+Cologne,2016-07-01,2016,3,apartment,3200.0
+Cologne,2016-10-01,2016,4,apartment,3100.0
+Cologne,2017-01-01,2017,1,apartment,3100.0
+Cologne,2017-04-01,2017,2,apartment,3200.0
+Cologne,2017-07-01,2017,3,apartment,3300.0
+Cologne,2017-10-01,2017,4,apartment,3300.0
+Cologne,2018-01-01,2018,1,apartment,3300.0
+Cologne,2018-04-01,2018,2,apartment,3300.0
+Cologne,2018-07-01,2018,3,apartment,3400.0
+Cologne,2018-10-01,2018,4,apartment,3400.0
+Cologne,2019-01-01,2019,1,apartment,3500.0
+Cologne,2019-04-01,2019,2,apartment,3500.0
+Cologne,2019-07-01,2019,3,apartment,3700.0
+Cologne,2019-10-01,2019,4,apartment,3800.0
+Cologne,2020-01-01,2020,1,apartment,3900.0
+Cologne,2020-04-01,2020,2,apartment,3900.0
+Cologne,2020-07-01,2020,3,apartment,4100.0
+Cologne,2020-10-01,2020,4,apartment,4200.0
+Cologne,2021-01-01,2021,1,apartment,4600.0
+Cologne,2021-04-01,2021,2,apartment,4600.0
+Cologne,2021-07-01,2021,3,apartment,4700.0
+Cologne,2021-10-01,2021,4,apartment,4700.0
+Cologne,2022-01-01,2022,1,apartment,4700.0
+Cologne,2022-04-01,2022,2,apartment,4900.0
+Cologne,2022-07-01,2022,3,apartment,4700.0
+Cologne,2022-10-01,2022,4,apartment,4700.0
+Cologne,2023-01-01,2023,1,apartment,4400.0
+Cologne,2023-04-01,2023,2,apartment,4400.0
+Cologne,2023-07-01,2023,3,apartment,4400.0
+Cologne,2023-10-01,2023,4,apartment,4400.0
+Cologne,2024-01-01,2024,1,apartment,4500.0
+Cologne,2024-04-01,2024,2,apartment,4700.0
+Cologne,2024-07-01,2024,3,apartment,4600.0
+Cologne,2024-10-01,2024,4,apartment,4700.0
+Cologne,2005-01-01,2005,1,multi_family,1100.0
+Cologne,2005-04-01,2005,2,multi_family,1200.0
+Cologne,2005-07-01,2005,3,multi_family,1100.0
+Cologne,2005-10-01,2005,4,multi_family,1500.0
+Cologne,2006-01-01,2006,1,multi_family,1100.0
+Cologne,2006-04-01,2006,2,multi_family,1400.0
+Cologne,2006-07-01,2006,3,multi_family,1200.0
+Cologne,2006-10-01,2006,4,multi_family,1400.0
+Cologne,2007-01-01,2007,1,multi_family,1500.0
+Cologne,2007-04-01,2007,2,multi_family,1300.0
+Cologne,2007-07-01,2007,3,multi_family,1400.0
+Cologne,2007-10-01,2007,4,multi_family,1400.0
+Cologne,2008-01-01,2008,1,multi_family,1300.0
+Cologne,2008-04-01,2008,2,multi_family,1300.0
+Cologne,2008-07-01,2008,3,multi_family,1400.0
+Cologne,2008-10-01,2008,4,multi_family,1500.0
+Cologne,2009-01-01,2009,1,multi_family,1300.0
+Cologne,2009-04-01,2009,2,multi_family,1500.0
+Cologne,2009-07-01,2009,3,multi_family,1400.0
+Cologne,2009-10-01,2009,4,multi_family,1500.0
+Cologne,2010-01-01,2010,1,multi_family,1300.0
+Cologne,2010-04-01,2010,2,multi_family,1300.0
+Cologne,2010-07-01,2010,3,multi_family,1300.0
+Cologne,2010-10-01,2010,4,multi_family,1400.0
+Cologne,2011-01-01,2011,1,multi_family,1400.0
+Cologne,2011-04-01,2011,2,multi_family,1400.0
+Cologne,2011-07-01,2011,3,multi_family,1500.0
+Cologne,2011-10-01,2011,4,multi_family,1600.0
+Cologne,2012-01-01,2012,1,multi_family,1500.0
+Cologne,2012-04-01,2012,2,multi_family,1700.0
+Cologne,2012-07-01,2012,3,multi_family,1600.0
+Cologne,2012-10-01,2012,4,multi_family,1600.0
+Cologne,2013-01-01,2013,1,multi_family,1600.0
+Cologne,2013-04-01,2013,2,multi_family,1600.0
+Cologne,2013-07-01,2013,3,multi_family,1700.0
+Cologne,2013-10-01,2013,4,multi_family,1800.0
+Cologne,2014-01-01,2014,1,multi_family,1800.0
+Cologne,2014-04-01,2014,2,multi_family,1900.0
+Cologne,2014-07-01,2014,3,multi_family,1900.0
+Cologne,2014-10-01,2014,4,multi_family,1800.0
+Cologne,2015-01-01,2015,1,multi_family,2000.0
+Cologne,2015-04-01,2015,2,multi_family,1900.0
+Cologne,2015-07-01,2015,3,multi_family,2100.0
+Cologne,2015-10-01,2015,4,multi_family,2100.0
+Cologne,2016-01-01,2016,1,multi_family,2200.0
+Cologne,2016-04-01,2016,2,multi_family,2100.0
+Cologne,2016-07-01,2016,3,multi_family,2200.0
+Cologne,2016-10-01,2016,4,multi_family,2000.0
+Cologne,2017-01-01,2017,1,multi_family,2000.0
+Cologne,2017-04-01,2017,2,multi_family,2500.0
+Cologne,2017-07-01,2017,3,multi_family,2500.0
+Cologne,2017-10-01,2017,4,multi_family,2400.0
+Cologne,2018-01-01,2018,1,multi_family,2400.0
+Cologne,2018-04-01,2018,2,multi_family,2700.0
+Cologne,2018-07-01,2018,3,multi_family,2600.0
+Cologne,2018-10-01,2018,4,multi_family,2700.0
+Cologne,2019-01-01,2019,1,multi_family,3300.0
+Cologne,2019-04-01,2019,2,multi_family,2700.0
+Cologne,2019-07-01,2019,3,multi_family,2900.0
+Cologne,2019-10-01,2019,4,multi_family,3000.0
+Cologne,2020-01-01,2020,1,multi_family,3100.0
+Cologne,2020-04-01,2020,2,multi_family,3300.0
+Cologne,2020-07-01,2020,3,multi_family,3000.0
+Cologne,2020-10-01,2020,4,multi_family,3400.0
+Cologne,2021-01-01,2021,1,multi_family,3500.0
+Cologne,2021-04-01,2021,2,multi_family,3500.0
+Cologne,2021-07-01,2021,3,multi_family,3200.0
+Cologne,2021-10-01,2021,4,multi_family,3700.0
+Cologne,2022-01-01,2022,1,multi_family,3900.0
+Cologne,2022-04-01,2022,2,multi_family,3700.0
+Cologne,2022-07-01,2022,3,multi_family,3700.0
+Cologne,2022-10-01,2022,4,multi_family,3600.0
+Cologne,2023-01-01,2023,1,multi_family,3400.0
+Cologne,2023-04-01,2023,2,multi_family,2900.0
+Cologne,2023-07-01,2023,3,multi_family,2800.0
+Cologne,2023-10-01,2023,4,multi_family,3100.0
+Cologne,2024-01-01,2024,1,multi_family,2700.0
+Cologne,2024-04-01,2024,2,multi_family,2700.0
+Cologne,2024-07-01,2024,3,multi_family,2900.0
+Cologne,2024-10-01,2024,4,multi_family,3100.0
+Duesseldorf,2005-01-01,2005,1,single_family,2300.0
+Duesseldorf,2005-04-01,2005,2,single_family,2500.0
+Duesseldorf,2005-07-01,2005,3,single_family,2700.0
+Duesseldorf,2005-10-01,2005,4,single_family,2800.0
+Duesseldorf,2006-01-01,2006,1,single_family,2600.0
+Duesseldorf,2006-04-01,2006,2,single_family,2600.0
+Duesseldorf,2006-07-01,2006,3,single_family,3000.0
+Duesseldorf,2006-10-01,2006,4,single_family,2600.0
+Duesseldorf,2007-01-01,2007,1,single_family,2700.0
+Duesseldorf,2007-04-01,2007,2,single_family,2800.0
+Duesseldorf,2007-07-01,2007,3,single_family,2800.0
+Duesseldorf,2007-10-01,2007,4,single_family,2600.0
+Duesseldorf,2008-01-01,2008,1,single_family,2500.0
+Duesseldorf,2008-04-01,2008,2,single_family,2600.0
+Duesseldorf,2008-07-01,2008,3,single_family,2800.0
+Duesseldorf,2008-10-01,2008,4,single_family,2300.0
+Duesseldorf,2009-01-01,2009,1,single_family,2600.0
+Duesseldorf,2009-04-01,2009,2,single_family,2400.0
+Duesseldorf,2009-07-01,2009,3,single_family,2700.0
+Duesseldorf,2009-10-01,2009,4,single_family,3300.0
+Duesseldorf,2010-01-01,2010,1,single_family,2700.0
+Duesseldorf,2010-04-01,2010,2,single_family,2700.0
+Duesseldorf,2010-07-01,2010,3,single_family,2700.0
+Duesseldorf,2010-10-01,2010,4,single_family,3000.0
+Duesseldorf,2011-01-01,2011,1,single_family,3000.0
+Duesseldorf,2011-04-01,2011,2,single_family,2800.0
+Duesseldorf,2011-07-01,2011,3,single_family,3000.0
+Duesseldorf,2011-10-01,2011,4,single_family,3500.0
+Duesseldorf,2012-01-01,2012,1,single_family,3500.0
+Duesseldorf,2012-04-01,2012,2,single_family,3300.0
+Duesseldorf,2012-07-01,2012,3,single_family,3200.0
+Duesseldorf,2012-10-01,2012,4,single_family,3400.0
+Duesseldorf,2013-01-01,2013,1,single_family,3300.0
+Duesseldorf,2013-04-01,2013,2,single_family,3200.0
+Duesseldorf,2013-07-01,2013,3,single_family,3200.0
+Duesseldorf,2013-10-01,2013,4,single_family,3200.0
+Duesseldorf,2014-01-01,2014,1,single_family,3300.0
+Duesseldorf,2014-04-01,2014,2,single_family,3500.0
+Duesseldorf,2014-07-01,2014,3,single_family,3500.0
+Duesseldorf,2014-10-01,2014,4,single_family,3500.0
+Duesseldorf,2015-01-01,2015,1,single_family,3300.0
+Duesseldorf,2015-04-01,2015,2,single_family,3600.0
+Duesseldorf,2015-07-01,2015,3,single_family,3600.0
+Duesseldorf,2015-10-01,2015,4,single_family,3800.0
+Duesseldorf,2016-01-01,2016,1,single_family,3800.0
+Duesseldorf,2016-04-01,2016,2,single_family,3900.0
+Duesseldorf,2016-07-01,2016,3,single_family,3400.0
+Duesseldorf,2016-10-01,2016,4,single_family,3800.0
+Duesseldorf,2017-01-01,2017,1,single_family,3700.0
+Duesseldorf,2017-04-01,2017,2,single_family,4100.0
+Duesseldorf,2017-07-01,2017,3,single_family,3700.0
+Duesseldorf,2017-10-01,2017,4,single_family,4300.0
+Duesseldorf,2018-01-01,2018,1,single_family,4400.0
+Duesseldorf,2018-04-01,2018,2,single_family,4400.0
+Duesseldorf,2018-07-01,2018,3,single_family,4400.0
+Duesseldorf,2018-10-01,2018,4,single_family,4100.0
+Duesseldorf,2019-01-01,2019,1,single_family,4100.0
+Duesseldorf,2019-04-01,2019,2,single_family,4600.0
+Duesseldorf,2019-07-01,2019,3,single_family,4800.0
+Duesseldorf,2019-10-01,2019,4,single_family,4900.0
+Duesseldorf,2020-01-01,2020,1,single_family,4800.0
+Duesseldorf,2020-04-01,2020,2,single_family,5500.0
+Duesseldorf,2020-07-01,2020,3,single_family,5100.0
+Duesseldorf,2020-10-01,2020,4,single_family,5400.0
+Duesseldorf,2021-01-01,2021,1,single_family,5000.0
+Duesseldorf,2021-04-01,2021,2,single_family,5600.0
+Duesseldorf,2021-07-01,2021,3,single_family,5800.0
+Duesseldorf,2021-10-01,2021,4,single_family,5800.0
+Duesseldorf,2022-01-01,2022,1,single_family,6300.0
+Duesseldorf,2022-04-01,2022,2,single_family,5800.0
+Duesseldorf,2022-07-01,2022,3,single_family,6200.0
+Duesseldorf,2022-10-01,2022,4,single_family,6000.0
+Duesseldorf,2023-01-01,2023,1,single_family,5400.0
+Duesseldorf,2023-04-01,2023,2,single_family,5500.0
+Duesseldorf,2023-07-01,2023,3,single_family,5500.0
+Duesseldorf,2023-10-01,2023,4,single_family,5300.0
+Duesseldorf,2024-01-01,2024,1,single_family,4900.0
+Duesseldorf,2024-04-01,2024,2,single_family,5800.0
+Duesseldorf,2024-07-01,2024,3,single_family,5000.0
+Duesseldorf,2024-10-01,2024,4,single_family,5800.0
+Duesseldorf,2005-01-01,2005,1,apartment,1700.0
+Duesseldorf,2005-04-01,2005,2,apartment,1700.0
+Duesseldorf,2005-07-01,2005,3,apartment,1700.0
+Duesseldorf,2005-10-01,2005,4,apartment,1700.0
+Duesseldorf,2006-01-01,2006,1,apartment,1800.0
+Duesseldorf,2006-04-01,2006,2,apartment,1800.0
+Duesseldorf,2006-07-01,2006,3,apartment,1700.0
+Duesseldorf,2006-10-01,2006,4,apartment,1700.0
+Duesseldorf,2007-01-01,2007,1,apartment,1700.0
+Duesseldorf,2007-04-01,2007,2,apartment,1900.0
+Duesseldorf,2007-07-01,2007,3,apartment,1800.0
+Duesseldorf,2007-10-01,2007,4,apartment,1700.0
+Duesseldorf,2008-01-01,2008,1,apartment,1800.0
+Duesseldorf,2008-04-01,2008,2,apartment,1800.0
+Duesseldorf,2008-07-01,2008,3,apartment,1800.0
+Duesseldorf,2008-10-01,2008,4,apartment,1700.0
+Duesseldorf,2009-01-01,2009,1,apartment,1800.0
+Duesseldorf,2009-04-01,2009,2,apartment,1900.0
+Duesseldorf,2009-07-01,2009,3,apartment,1900.0
+Duesseldorf,2009-10-01,2009,4,apartment,1900.0
+Duesseldorf,2010-01-01,2010,1,apartment,1900.0
+Duesseldorf,2010-04-01,2010,2,apartment,1900.0
+Duesseldorf,2010-07-01,2010,3,apartment,2000.0
+Duesseldorf,2010-10-01,2010,4,apartment,1900.0
+Duesseldorf,2011-01-01,2011,1,apartment,1900.0
+Duesseldorf,2011-04-01,2011,2,apartment,2000.0
+Duesseldorf,2011-07-01,2011,3,apartment,2000.0
+Duesseldorf,2011-10-01,2011,4,apartment,2000.0
+Duesseldorf,2012-01-01,2012,1,apartment,2200.0
+Duesseldorf,2012-04-01,2012,2,apartment,2300.0
+Duesseldorf,2012-07-01,2012,3,apartment,2500.0
+Duesseldorf,2012-10-01,2012,4,apartment,2500.0
+Duesseldorf,2013-01-01,2013,1,apartment,2600.0
+Duesseldorf,2013-04-01,2013,2,apartment,2700.0
+Duesseldorf,2013-07-01,2013,3,apartment,2600.0
+Duesseldorf,2013-10-01,2013,4,apartment,2500.0
+Duesseldorf,2014-01-01,2014,1,apartment,2600.0
+Duesseldorf,2014-04-01,2014,2,apartment,2600.0
+Duesseldorf,2014-07-01,2014,3,apartment,2700.0
+Duesseldorf,2014-10-01,2014,4,apartment,2800.0
+Duesseldorf,2015-01-01,2015,1,apartment,2900.0
+Duesseldorf,2015-04-01,2015,2,apartment,2900.0
+Duesseldorf,2015-07-01,2015,3,apartment,2900.0
+Duesseldorf,2015-10-01,2015,4,apartment,2900.0
+Duesseldorf,2016-01-01,2016,1,apartment,3100.0
+Duesseldorf,2016-04-01,2016,2,apartment,3300.0
+Duesseldorf,2016-07-01,2016,3,apartment,3200.0
+Duesseldorf,2016-10-01,2016,4,apartment,3500.0
+Duesseldorf,2017-01-01,2017,1,apartment,3400.0
+Duesseldorf,2017-04-01,2017,2,apartment,3600.0
+Duesseldorf,2017-07-01,2017,3,apartment,3600.0
+Duesseldorf,2017-10-01,2017,4,apartment,3800.0
+Duesseldorf,2018-01-01,2018,1,apartment,3600.0
+Duesseldorf,2018-04-01,2018,2,apartment,3700.0
+Duesseldorf,2018-07-01,2018,3,apartment,3700.0
+Duesseldorf,2018-10-01,2018,4,apartment,3800.0
+Duesseldorf,2019-01-01,2019,1,apartment,3900.0
+Duesseldorf,2019-04-01,2019,2,apartment,4000.0
+Duesseldorf,2019-07-01,2019,3,apartment,4100.0
+Duesseldorf,2019-10-01,2019,4,apartment,4500.0
+Duesseldorf,2020-01-01,2020,1,apartment,4200.0
+Duesseldorf,2020-04-01,2020,2,apartment,4300.0
+Duesseldorf,2020-07-01,2020,3,apartment,4600.0
+Duesseldorf,2020-10-01,2020,4,apartment,4600.0
+Duesseldorf,2021-01-01,2021,1,apartment,4900.0
+Duesseldorf,2021-04-01,2021,2,apartment,5200.0
+Duesseldorf,2021-07-01,2021,3,apartment,5300.0
+Duesseldorf,2021-10-01,2021,4,apartment,5100.0
+Duesseldorf,2022-01-01,2022,1,apartment,5700.0
+Duesseldorf,2022-04-01,2022,2,apartment,5200.0
+Duesseldorf,2022-07-01,2022,3,apartment,5200.0
+Duesseldorf,2022-10-01,2022,4,apartment,4900.0
+Duesseldorf,2023-01-01,2023,1,apartment,4500.0
+Duesseldorf,2023-04-01,2023,2,apartment,4600.0
+Duesseldorf,2023-07-01,2023,3,apartment,4200.0
+Duesseldorf,2023-10-01,2023,4,apartment,4300.0
+Duesseldorf,2024-01-01,2024,1,apartment,4100.0
+Duesseldorf,2024-04-01,2024,2,apartment,4400.0
+Duesseldorf,2024-07-01,2024,3,apartment,4500.0
+Duesseldorf,2024-10-01,2024,4,apartment,4500.0
+Duesseldorf,2005-01-01,2005,1,multi_family,1000.0
+Duesseldorf,2005-04-01,2005,2,multi_family,1400.0
+Duesseldorf,2005-07-01,2005,3,multi_family,1200.0
+Duesseldorf,2005-10-01,2005,4,multi_family,1300.0
+Duesseldorf,2006-01-01,2006,1,multi_family,1200.0
+Duesseldorf,2006-04-01,2006,2,multi_family,1200.0
+Duesseldorf,2006-07-01,2006,3,multi_family,1300.0
+Duesseldorf,2006-10-01,2006,4,multi_family,1300.0
+Duesseldorf,2007-01-01,2007,1,multi_family,1300.0
+Duesseldorf,2007-04-01,2007,2,multi_family,1600.0
+Duesseldorf,2007-07-01,2007,3,multi_family,1300.0
+Duesseldorf,2007-10-01,2007,4,multi_family,1400.0
+Duesseldorf,2008-01-01,2008,1,multi_family,1400.0
+Duesseldorf,2008-04-01,2008,2,multi_family,1400.0
+Duesseldorf,2008-07-01,2008,3,multi_family,1200.0
+Duesseldorf,2008-10-01,2008,4,multi_family,1300.0
+Duesseldorf,2009-01-01,2009,1,multi_family,1400.0
+Duesseldorf,2009-04-01,2009,2,multi_family,1700.0
+Duesseldorf,2009-07-01,2009,3,multi_family,1700.0
+Duesseldorf,2009-10-01,2009,4,multi_family,1300.0
+Duesseldorf,2010-01-01,2010,1,multi_family,1300.0
+Duesseldorf,2010-04-01,2010,2,multi_family,1600.0
+Duesseldorf,2010-07-01,2010,3,multi_family,1800.0
+Duesseldorf,2010-10-01,2010,4,multi_family,1600.0
+Duesseldorf,2011-01-01,2011,1,multi_family,1500.0
+Duesseldorf,2011-04-01,2011,2,multi_family,1300.0
+Duesseldorf,2011-07-01,2011,3,multi_family,1800.0
+Duesseldorf,2011-10-01,2011,4,multi_family,1900.0
+Duesseldorf,2012-01-01,2012,1,multi_family,1600.0
+Duesseldorf,2012-04-01,2012,2,multi_family,2000.0
+Duesseldorf,2012-07-01,2012,3,multi_family,1900.0
+Duesseldorf,2012-10-01,2012,4,multi_family,1600.0
+Duesseldorf,2013-01-01,2013,1,multi_family,1700.0
+Duesseldorf,2013-04-01,2013,2,multi_family,1700.0
+Duesseldorf,2013-07-01,2013,3,multi_family,2000.0
+Duesseldorf,2013-10-01,2013,4,multi_family,1800.0
+Duesseldorf,2014-01-01,2014,1,multi_family,1500.0
+Duesseldorf,2014-04-01,2014,2,multi_family,1900.0
+Duesseldorf,2014-07-01,2014,3,multi_family,1800.0
+Duesseldorf,2014-10-01,2014,4,multi_family,1900.0
+Duesseldorf,2015-01-01,2015,1,multi_family,2300.0
+Duesseldorf,2015-04-01,2015,2,multi_family,2200.0
+Duesseldorf,2015-07-01,2015,3,multi_family,2200.0
+Duesseldorf,2015-10-01,2015,4,multi_family,2300.0
+Duesseldorf,2016-01-01,2016,1,multi_family,2300.0
+Duesseldorf,2016-04-01,2016,2,multi_family,1900.0
+Duesseldorf,2016-07-01,2016,3,multi_family,2800.0
+Duesseldorf,2016-10-01,2016,4,multi_family,2300.0
+Duesseldorf,2017-01-01,2017,1,multi_family,2300.0
+Duesseldorf,2017-04-01,2017,2,multi_family,2300.0
+Duesseldorf,2017-07-01,2017,3,multi_family,2600.0
+Duesseldorf,2017-10-01,2017,4,multi_family,2600.0
+Duesseldorf,2018-01-01,2018,1,multi_family,2300.0
+Duesseldorf,2018-04-01,2018,2,multi_family,2300.0
+Duesseldorf,2018-07-01,2018,3,multi_family,2500.0
+Duesseldorf,2018-10-01,2018,4,multi_family,3800.0
+Duesseldorf,2019-01-01,2019,1,multi_family,2800.0
+Duesseldorf,2019-04-01,2019,2,multi_family,3000.0
+Duesseldorf,2019-07-01,2019,3,multi_family,3100.0
+Duesseldorf,2019-10-01,2019,4,multi_family,3000.0
+Duesseldorf,2020-01-01,2020,1,multi_family,3200.0
+Duesseldorf,2020-04-01,2020,2,multi_family,2900.0
+Duesseldorf,2020-07-01,2020,3,multi_family,3200.0
+Duesseldorf,2020-10-01,2020,4,multi_family,4000.0
+Duesseldorf,2021-01-01,2021,1,multi_family,3600.0
+Duesseldorf,2021-04-01,2021,2,multi_family,3300.0
+Duesseldorf,2021-07-01,2021,3,multi_family,3600.0
+Duesseldorf,2021-10-01,2021,4,multi_family,3800.0
+Duesseldorf,2022-01-01,2022,1,multi_family,3500.0
+Duesseldorf,2022-04-01,2022,2,multi_family,3700.0
+Duesseldorf,2022-07-01,2022,3,multi_family,3500.0
+Duesseldorf,2022-10-01,2022,4,multi_family,3100.0
+Duesseldorf,2023-01-01,2023,1,multi_family,3300.0
+Duesseldorf,2023-04-01,2023,2,multi_family,2900.0
+Duesseldorf,2023-07-01,2023,3,multi_family,3000.0
+Duesseldorf,2023-10-01,2023,4,multi_family,2700.0
+Duesseldorf,2024-01-01,2024,1,multi_family,2700.0
+Duesseldorf,2024-04-01,2024,2,multi_family,3100.0
+Duesseldorf,2024-07-01,2024,3,multi_family,2700.0
+Duesseldorf,2024-10-01,2024,4,multi_family,2800.0
+Dresden,2005-01-01,2005,1,single_family,1500.0
+Dresden,2005-04-01,2005,2,single_family,1500.0
+Dresden,2005-07-01,2005,3,single_family,1600.0
+Dresden,2005-10-01,2005,4,single_family,1500.0
+Dresden,2006-01-01,2006,1,single_family,1600.0
+Dresden,2006-04-01,2006,2,single_family,1500.0
+Dresden,2006-07-01,2006,3,single_family,1400.0
+Dresden,2006-10-01,2006,4,single_family,1500.0
+Dresden,2007-01-01,2007,1,single_family,1400.0
+Dresden,2007-04-01,2007,2,single_family,1600.0
+Dresden,2007-07-01,2007,3,single_family,1500.0
+Dresden,2007-10-01,2007,4,single_family,1500.0
+Dresden,2008-01-01,2008,1,single_family,1500.0
+Dresden,2008-04-01,2008,2,single_family,1500.0
+Dresden,2008-07-01,2008,3,single_family,1500.0
+Dresden,2008-10-01,2008,4,single_family,1500.0
+Dresden,2009-01-01,2009,1,single_family,1400.0
+Dresden,2009-04-01,2009,2,single_family,1500.0
+Dresden,2009-07-01,2009,3,single_family,1600.0
+Dresden,2009-10-01,2009,4,single_family,1600.0
+Dresden,2010-01-01,2010,1,single_family,1500.0
+Dresden,2010-04-01,2010,2,single_family,1500.0
+Dresden,2010-07-01,2010,3,single_family,1700.0
+Dresden,2010-10-01,2010,4,single_family,1600.0
+Dresden,2011-01-01,2011,1,single_family,1700.0
+Dresden,2011-04-01,2011,2,single_family,1700.0
+Dresden,2011-07-01,2011,3,single_family,1600.0
+Dresden,2011-10-01,2011,4,single_family,1700.0
+Dresden,2012-01-01,2012,1,single_family,1800.0
+Dresden,2012-04-01,2012,2,single_family,1700.0
+Dresden,2012-07-01,2012,3,single_family,1800.0
+Dresden,2012-10-01,2012,4,single_family,1800.0
+Dresden,2013-01-01,2013,1,single_family,1800.0
+Dresden,2013-04-01,2013,2,single_family,1900.0
+Dresden,2013-07-01,2013,3,single_family,2100.0
+Dresden,2013-10-01,2013,4,single_family,2300.0
+Dresden,2014-01-01,2014,1,single_family,2000.0
+Dresden,2014-04-01,2014,2,single_family,2000.0
+Dresden,2014-07-01,2014,3,single_family,2200.0
+Dresden,2014-10-01,2014,4,single_family,1900.0
+Dresden,2015-01-01,2015,1,single_family,2000.0
+Dresden,2015-04-01,2015,2,single_family,2100.0
+Dresden,2015-07-01,2015,3,single_family,2300.0
+Dresden,2015-10-01,2015,4,single_family,2300.0
+Dresden,2016-01-01,2016,1,single_family,2300.0
+Dresden,2016-04-01,2016,2,single_family,2300.0
+Dresden,2016-07-01,2016,3,single_family,2400.0
+Dresden,2016-10-01,2016,4,single_family,2500.0
+Dresden,2017-01-01,2017,1,single_family,2400.0
+Dresden,2017-04-01,2017,2,single_family,2400.0
+Dresden,2017-07-01,2017,3,single_family,2700.0
+Dresden,2017-10-01,2017,4,single_family,2500.0
+Dresden,2018-01-01,2018,1,single_family,2700.0
+Dresden,2018-04-01,2018,2,single_family,2600.0
+Dresden,2018-07-01,2018,3,single_family,2800.0
+Dresden,2018-10-01,2018,4,single_family,2600.0
+Dresden,2019-01-01,2019,1,single_family,3000.0
+Dresden,2019-04-01,2019,2,single_family,2800.0
+Dresden,2019-07-01,2019,3,single_family,2700.0
+Dresden,2019-10-01,2019,4,single_family,3100.0
+Dresden,2020-01-01,2020,1,single_family,3200.0
+Dresden,2020-04-01,2020,2,single_family,3100.0
+Dresden,2020-07-01,2020,3,single_family,3400.0
+Dresden,2020-10-01,2020,4,single_family,3200.0
+Dresden,2021-01-01,2021,1,single_family,3700.0
+Dresden,2021-04-01,2021,2,single_family,3700.0
+Dresden,2021-07-01,2021,3,single_family,3800.0
+Dresden,2021-10-01,2021,4,single_family,4000.0
+Dresden,2022-01-01,2022,1,single_family,3900.0
+Dresden,2022-04-01,2022,2,single_family,3800.0
+Dresden,2022-07-01,2022,3,single_family,4000.0
+Dresden,2022-10-01,2022,4,single_family,3900.0
+Dresden,2023-01-01,2023,1,single_family,3700.0
+Dresden,2023-04-01,2023,2,single_family,3500.0
+Dresden,2023-07-01,2023,3,single_family,3400.0
+Dresden,2023-10-01,2023,4,single_family,3400.0
+Dresden,2024-01-01,2024,1,single_family,3200.0
+Dresden,2024-04-01,2024,2,single_family,3400.0
+Dresden,2024-07-01,2024,3,single_family,3400.0
+Dresden,2024-10-01,2024,4,single_family,3300.0
+Dresden,2005-01-01,2005,1,apartment,1500.0
+Dresden,2005-04-01,2005,2,apartment,1600.0
+Dresden,2005-07-01,2005,3,apartment,1500.0
+Dresden,2005-10-01,2005,4,apartment,1600.0
+Dresden,2006-01-01,2006,1,apartment,1600.0
+Dresden,2006-04-01,2006,2,apartment,1500.0
+Dresden,2006-07-01,2006,3,apartment,1500.0
+Dresden,2006-10-01,2006,4,apartment,1600.0
+Dresden,2007-01-01,2007,1,apartment,1700.0
+Dresden,2007-04-01,2007,2,apartment,1600.0
+Dresden,2007-07-01,2007,3,apartment,1600.0
+Dresden,2007-10-01,2007,4,apartment,1700.0
+Dresden,2008-01-01,2008,1,apartment,1600.0
+Dresden,2008-04-01,2008,2,apartment,1600.0
+Dresden,2008-07-01,2008,3,apartment,1700.0
+Dresden,2008-10-01,2008,4,apartment,1700.0
+Dresden,2009-01-01,2009,1,apartment,1700.0
+Dresden,2009-04-01,2009,2,apartment,1700.0
+Dresden,2009-07-01,2009,3,apartment,1600.0
+Dresden,2009-10-01,2009,4,apartment,1700.0
+Dresden,2010-01-01,2010,1,apartment,1700.0
+Dresden,2010-04-01,2010,2,apartment,1800.0
+Dresden,2010-07-01,2010,3,apartment,1800.0
+Dresden,2010-10-01,2010,4,apartment,1700.0
+Dresden,2011-01-01,2011,1,apartment,1700.0
+Dresden,2011-04-01,2011,2,apartment,1700.0
+Dresden,2011-07-01,2011,3,apartment,1600.0
+Dresden,2011-10-01,2011,4,apartment,1700.0
+Dresden,2012-01-01,2012,1,apartment,1700.0
+Dresden,2012-04-01,2012,2,apartment,1700.0
+Dresden,2012-07-01,2012,3,apartment,1700.0
+Dresden,2012-10-01,2012,4,apartment,1800.0
+Dresden,2013-01-01,2013,1,apartment,1700.0
+Dresden,2013-04-01,2013,2,apartment,1800.0
+Dresden,2013-07-01,2013,3,apartment,1800.0
+Dresden,2013-10-01,2013,4,apartment,1900.0
+Dresden,2014-01-01,2014,1,apartment,1800.0
+Dresden,2014-04-01,2014,2,apartment,2000.0
+Dresden,2014-07-01,2014,3,apartment,1900.0
+Dresden,2014-10-01,2014,4,apartment,2000.0
+Dresden,2015-01-01,2015,1,apartment,1900.0
+Dresden,2015-04-01,2015,2,apartment,2100.0
+Dresden,2015-07-01,2015,3,apartment,2100.0
+Dresden,2015-10-01,2015,4,apartment,2000.0
+Dresden,2016-01-01,2016,1,apartment,2100.0
+Dresden,2016-04-01,2016,2,apartment,2000.0
+Dresden,2016-07-01,2016,3,apartment,2000.0
+Dresden,2016-10-01,2016,4,apartment,2100.0
+Dresden,2017-01-01,2017,1,apartment,2100.0
+Dresden,2017-04-01,2017,2,apartment,2100.0
+Dresden,2017-07-01,2017,3,apartment,2200.0
+Dresden,2017-10-01,2017,4,apartment,2200.0
+Dresden,2018-01-01,2018,1,apartment,2200.0
+Dresden,2018-04-01,2018,2,apartment,2300.0
+Dresden,2018-07-01,2018,3,apartment,2300.0
+Dresden,2018-10-01,2018,4,apartment,2400.0
+Dresden,2019-01-01,2019,1,apartment,2500.0
+Dresden,2019-04-01,2019,2,apartment,2500.0
+Dresden,2019-07-01,2019,3,apartment,2500.0
+Dresden,2019-10-01,2019,4,apartment,2800.0
+Dresden,2020-01-01,2020,1,apartment,2800.0
+Dresden,2020-04-01,2020,2,apartment,2900.0
+Dresden,2020-07-01,2020,3,apartment,3100.0
+Dresden,2020-10-01,2020,4,apartment,3000.0
+Dresden,2021-01-01,2021,1,apartment,3100.0
+Dresden,2021-04-01,2021,2,apartment,3300.0
+Dresden,2021-07-01,2021,3,apartment,3100.0
+Dresden,2021-10-01,2021,4,apartment,3300.0
+Dresden,2022-01-01,2022,1,apartment,3400.0
+Dresden,2022-04-01,2022,2,apartment,3300.0
+Dresden,2022-07-01,2022,3,apartment,3100.0
+Dresden,2022-10-01,2022,4,apartment,3100.0
+Dresden,2023-01-01,2023,1,apartment,2900.0
+Dresden,2023-04-01,2023,2,apartment,2900.0
+Dresden,2023-07-01,2023,3,apartment,2800.0
+Dresden,2023-10-01,2023,4,apartment,2900.0
+Dresden,2024-01-01,2024,1,apartment,2900.0
+Dresden,2024-04-01,2024,2,apartment,2900.0
+Dresden,2024-07-01,2024,3,apartment,3000.0
+Dresden,2024-10-01,2024,4,apartment,3600.0
+Dortmund,2005-01-01,2005,1,single_family,1700.0
+Dortmund,2005-04-01,2005,2,single_family,1700.0
+Dortmund,2005-07-01,2005,3,single_family,1600.0
+Dortmund,2005-10-01,2005,4,single_family,1500.0
+Dortmund,2006-01-01,2006,1,single_family,1600.0
+Dortmund,2006-04-01,2006,2,single_family,1700.0
+Dortmund,2006-07-01,2006,3,single_family,1500.0
+Dortmund,2006-10-01,2006,4,single_family,1500.0
+Dortmund,2007-01-01,2007,1,single_family,1600.0
+Dortmund,2007-04-01,2007,2,single_family,1500.0
+Dortmund,2007-07-01,2007,3,single_family,1500.0
+Dortmund,2007-10-01,2007,4,single_family,1400.0
+Dortmund,2008-01-01,2008,1,single_family,1500.0
+Dortmund,2008-04-01,2008,2,single_family,1500.0
+Dortmund,2008-07-01,2008,3,single_family,1500.0
+Dortmund,2008-10-01,2008,4,single_family,1400.0
+Dortmund,2009-01-01,2009,1,single_family,1400.0
+Dortmund,2009-04-01,2009,2,single_family,1500.0
+Dortmund,2009-07-01,2009,3,single_family,1500.0
+Dortmund,2009-10-01,2009,4,single_family,1500.0
+Dortmund,2010-01-01,2010,1,single_family,1500.0
+Dortmund,2010-04-01,2010,2,single_family,1600.0
+Dortmund,2010-07-01,2010,3,single_family,1500.0
+Dortmund,2010-10-01,2010,4,single_family,1600.0
+Dortmund,2011-01-01,2011,1,single_family,1500.0
+Dortmund,2011-04-01,2011,2,single_family,1700.0
+Dortmund,2011-07-01,2011,3,single_family,1700.0
+Dortmund,2011-10-01,2011,4,single_family,1700.0
+Dortmund,2012-01-01,2012,1,single_family,1700.0
+Dortmund,2012-04-01,2012,2,single_family,1600.0
+Dortmund,2012-07-01,2012,3,single_family,1700.0
+Dortmund,2012-10-01,2012,4,single_family,1700.0
+Dortmund,2013-01-01,2013,1,single_family,1600.0
+Dortmund,2013-04-01,2013,2,single_family,1600.0
+Dortmund,2013-07-01,2013,3,single_family,1700.0
+Dortmund,2013-10-01,2013,4,single_family,1600.0
+Dortmund,2014-01-01,2014,1,single_family,1800.0
+Dortmund,2014-04-01,2014,2,single_family,1800.0
+Dortmund,2014-07-01,2014,3,single_family,1800.0
+Dortmund,2014-10-01,2014,4,single_family,1800.0
+Dortmund,2015-01-01,2015,1,single_family,1700.0
+Dortmund,2015-04-01,2015,2,single_family,1900.0
+Dortmund,2015-07-01,2015,3,single_family,1800.0
+Dortmund,2015-10-01,2015,4,single_family,1900.0
+Dortmund,2016-01-01,2016,1,single_family,1900.0
+Dortmund,2016-04-01,2016,2,single_family,1900.0
+Dortmund,2016-07-01,2016,3,single_family,2000.0
+Dortmund,2016-10-01,2016,4,single_family,1900.0
+Dortmund,2017-01-01,2017,1,single_family,2000.0
+Dortmund,2017-04-01,2017,2,single_family,2000.0
+Dortmund,2017-07-01,2017,3,single_family,1900.0
+Dortmund,2017-10-01,2017,4,single_family,2000.0
+Dortmund,2018-01-01,2018,1,single_family,2200.0
+Dortmund,2018-04-01,2018,2,single_family,2000.0
+Dortmund,2018-07-01,2018,3,single_family,2200.0
+Dortmund,2018-10-01,2018,4,single_family,2300.0
+Dortmund,2019-01-01,2019,1,single_family,2300.0
+Dortmund,2019-04-01,2019,2,single_family,2300.0
+Dortmund,2019-07-01,2019,3,single_family,2500.0
+Dortmund,2019-10-01,2019,4,single_family,2400.0
+Dortmund,2020-01-01,2020,1,single_family,2400.0
+Dortmund,2020-04-01,2020,2,single_family,2500.0
+Dortmund,2020-07-01,2020,3,single_family,2500.0
+Dortmund,2020-10-01,2020,4,single_family,2700.0
+Dortmund,2021-01-01,2021,1,single_family,2700.0
+Dortmund,2021-04-01,2021,2,single_family,2900.0
+Dortmund,2021-07-01,2021,3,single_family,2900.0
+Dortmund,2021-10-01,2021,4,single_family,3200.0
+Dortmund,2022-01-01,2022,1,single_family,3200.0
+Dortmund,2022-04-01,2022,2,single_family,3300.0
+Dortmund,2022-07-01,2022,3,single_family,3200.0
+Dortmund,2022-10-01,2022,4,single_family,3200.0
+Dortmund,2023-01-01,2023,1,single_family,2900.0
+Dortmund,2023-04-01,2023,2,single_family,3000.0
+Dortmund,2023-07-01,2023,3,single_family,3100.0
+Dortmund,2023-10-01,2023,4,single_family,3000.0
+Dortmund,2024-01-01,2024,1,single_family,2800.0
+Dortmund,2024-04-01,2024,2,single_family,3000.0
+Dortmund,2024-07-01,2024,3,single_family,3000.0
+Dortmund,2024-10-01,2024,4,single_family,3100.0
+Dortmund,2005-01-01,2005,1,apartment,1200.0
+Dortmund,2005-04-01,2005,2,apartment,1300.0
+Dortmund,2005-07-01,2005,3,apartment,1400.0
+Dortmund,2005-10-01,2005,4,apartment,1400.0
+Dortmund,2006-01-01,2006,1,apartment,1200.0
+Dortmund,2006-04-01,2006,2,apartment,1200.0
+Dortmund,2006-07-01,2006,3,apartment,1300.0
+Dortmund,2006-10-01,2006,4,apartment,1300.0
+Dortmund,2007-01-01,2007,1,apartment,1200.0
+Dortmund,2007-04-01,2007,2,apartment,1200.0
+Dortmund,2007-07-01,2007,3,apartment,1300.0
+Dortmund,2007-10-01,2007,4,apartment,1200.0
+Dortmund,2008-01-01,2008,1,apartment,1100.0
+Dortmund,2008-04-01,2008,2,apartment,1100.0
+Dortmund,2008-07-01,2008,3,apartment,1100.0
+Dortmund,2008-10-01,2008,4,apartment,1100.0
+Dortmund,2009-01-01,2009,1,apartment,1000.0
+Dortmund,2009-04-01,2009,2,apartment,1100.0
+Dortmund,2009-07-01,2009,3,apartment,1100.0
+Dortmund,2009-10-01,2009,4,apartment,1100.0
+Dortmund,2010-01-01,2010,1,apartment,1100.0
+Dortmund,2010-04-01,2010,2,apartment,1100.0
+Dortmund,2010-07-01,2010,3,apartment,1200.0
+Dortmund,2010-10-01,2010,4,apartment,1200.0
+Dortmund,2011-01-01,2011,1,apartment,1200.0
+Dortmund,2011-04-01,2011,2,apartment,1200.0
+Dortmund,2011-07-01,2011,3,apartment,1200.0
+Dortmund,2011-10-01,2011,4,apartment,1100.0
+Dortmund,2012-01-01,2012,1,apartment,1300.0
+Dortmund,2012-04-01,2012,2,apartment,1300.0
+Dortmund,2012-07-01,2012,3,apartment,1200.0
+Dortmund,2012-10-01,2012,4,apartment,1300.0
+Dortmund,2013-01-01,2013,1,apartment,1200.0
+Dortmund,2013-04-01,2013,2,apartment,1300.0
+Dortmund,2013-07-01,2013,3,apartment,1500.0
+Dortmund,2013-10-01,2013,4,apartment,1300.0
+Dortmund,2014-01-01,2014,1,apartment,1300.0
+Dortmund,2014-04-01,2014,2,apartment,1500.0
+Dortmund,2014-07-01,2014,3,apartment,1400.0
+Dortmund,2014-10-01,2014,4,apartment,1400.0
+Dortmund,2015-01-01,2015,1,apartment,1400.0
+Dortmund,2015-04-01,2015,2,apartment,1400.0
+Dortmund,2015-07-01,2015,3,apartment,1300.0
+Dortmund,2015-10-01,2015,4,apartment,1300.0
+Dortmund,2016-01-01,2016,1,apartment,1600.0
+Dortmund,2016-04-01,2016,2,apartment,1700.0
+Dortmund,2016-07-01,2016,3,apartment,1300.0
+Dortmund,2016-10-01,2016,4,apartment,1300.0
+Dortmund,2017-01-01,2017,1,apartment,1400.0
+Dortmund,2017-04-01,2017,2,apartment,1400.0
+Dortmund,2017-07-01,2017,3,apartment,1500.0
+Dortmund,2017-10-01,2017,4,apartment,1500.0
+Dortmund,2018-01-01,2018,1,apartment,1600.0
+Dortmund,2018-04-01,2018,2,apartment,1700.0
+Dortmund,2018-07-01,2018,3,apartment,1600.0
+Dortmund,2018-10-01,2018,4,apartment,1600.0
+Dortmund,2019-01-01,2019,1,apartment,1700.0
+Dortmund,2019-04-01,2019,2,apartment,1800.0
+Dortmund,2019-07-01,2019,3,apartment,1900.0
+Dortmund,2019-10-01,2019,4,apartment,2100.0
+Dortmund,2020-01-01,2020,1,apartment,1900.0
+Dortmund,2020-04-01,2020,2,apartment,2000.0
+Dortmund,2020-07-01,2020,3,apartment,1900.0
+Dortmund,2020-10-01,2020,4,apartment,2100.0
+Dortmund,2021-01-01,2021,1,apartment,2200.0
+Dortmund,2021-04-01,2021,2,apartment,2200.0
+Dortmund,2021-07-01,2021,3,apartment,2200.0
+Dortmund,2021-10-01,2021,4,apartment,2200.0
+Dortmund,2022-01-01,2022,1,apartment,2300.0
+Dortmund,2022-04-01,2022,2,apartment,2500.0
+Dortmund,2022-07-01,2022,3,apartment,2300.0
+Dortmund,2022-10-01,2022,4,apartment,2300.0
+Dortmund,2023-01-01,2023,1,apartment,2400.0
+Dortmund,2023-04-01,2023,2,apartment,2300.0
+Dortmund,2023-07-01,2023,3,apartment,2300.0
+Dortmund,2023-10-01,2023,4,apartment,2100.0
+Dortmund,2024-01-01,2024,1,apartment,2400.0
+Dortmund,2024-04-01,2024,2,apartment,2500.0
+Dortmund,2024-07-01,2024,3,apartment,2200.0
+Dortmund,2024-10-01,2024,4,apartment,2500.0
+Duisburg,2005-01-01,2005,1,single_family,1400.0
+Duisburg,2005-04-01,2005,2,single_family,1300.0
+Duisburg,2005-07-01,2005,3,single_family,1400.0
+Duisburg,2005-10-01,2005,4,single_family,1400.0
+Duisburg,2006-01-01,2006,1,single_family,1500.0
+Duisburg,2006-04-01,2006,2,single_family,1500.0
+Duisburg,2006-07-01,2006,3,single_family,1500.0
+Duisburg,2006-10-01,2006,4,single_family,1500.0
+Duisburg,2007-01-01,2007,1,single_family,1500.0
+Duisburg,2007-04-01,2007,2,single_family,1500.0
+Duisburg,2007-07-01,2007,3,single_family,1500.0
+Duisburg,2007-10-01,2007,4,single_family,1400.0
+Duisburg,2008-01-01,2008,1,single_family,1500.0
+Duisburg,2008-04-01,2008,2,single_family,1500.0
+Duisburg,2008-07-01,2008,3,single_family,1400.0
+Duisburg,2008-10-01,2008,4,single_family,1400.0
+Duisburg,2009-01-01,2009,1,single_family,1500.0
+Duisburg,2009-04-01,2009,2,single_family,1500.0
+Duisburg,2009-07-01,2009,3,single_family,1500.0
+Duisburg,2009-10-01,2009,4,single_family,1600.0
+Duisburg,2010-01-01,2010,1,single_family,1400.0
+Duisburg,2010-04-01,2010,2,single_family,1600.0
+Duisburg,2010-07-01,2010,3,single_family,1600.0
+Duisburg,2010-10-01,2010,4,single_family,1500.0
+Duisburg,2011-01-01,2011,1,single_family,1500.0
+Duisburg,2011-04-01,2011,2,single_family,1500.0
+Duisburg,2011-07-01,2011,3,single_family,1600.0
+Duisburg,2011-10-01,2011,4,single_family,1500.0
+Duisburg,2012-01-01,2012,1,single_family,1500.0
+Duisburg,2012-04-01,2012,2,single_family,1500.0
+Duisburg,2012-07-01,2012,3,single_family,1600.0
+Duisburg,2012-10-01,2012,4,single_family,1500.0
+Duisburg,2013-01-01,2013,1,single_family,1600.0
+Duisburg,2013-04-01,2013,2,single_family,1500.0
+Duisburg,2013-07-01,2013,3,single_family,1600.0
+Duisburg,2013-10-01,2013,4,single_family,1500.0
+Duisburg,2014-01-01,2014,1,single_family,1700.0
+Duisburg,2014-04-01,2014,2,single_family,1600.0
+Duisburg,2014-07-01,2014,3,single_family,1700.0
+Duisburg,2014-10-01,2014,4,single_family,1600.0
+Duisburg,2015-01-01,2015,1,single_family,1700.0
+Duisburg,2015-04-01,2015,2,single_family,1700.0
+Duisburg,2015-07-01,2015,3,single_family,1600.0
+Duisburg,2015-10-01,2015,4,single_family,1600.0
+Duisburg,2016-01-01,2016,1,single_family,1700.0
+Duisburg,2016-04-01,2016,2,single_family,1700.0
+Duisburg,2016-07-01,2016,3,single_family,1800.0
+Duisburg,2016-10-01,2016,4,single_family,1800.0
+Duisburg,2017-01-01,2017,1,single_family,1800.0
+Duisburg,2017-04-01,2017,2,single_family,1900.0
+Duisburg,2017-07-01,2017,3,single_family,1900.0
+Duisburg,2017-10-01,2017,4,single_family,2000.0
+Duisburg,2018-01-01,2018,1,single_family,1800.0
+Duisburg,2018-04-01,2018,2,single_family,2000.0
+Duisburg,2018-07-01,2018,3,single_family,2100.0
+Duisburg,2018-10-01,2018,4,single_family,2100.0
+Duisburg,2019-01-01,2019,1,single_family,2000.0
+Duisburg,2019-04-01,2019,2,single_family,2100.0
+Duisburg,2019-07-01,2019,3,single_family,2100.0
+Duisburg,2019-10-01,2019,4,single_family,2200.0
+Duisburg,2020-01-01,2020,1,single_family,2200.0
+Duisburg,2020-04-01,2020,2,single_family,2300.0
+Duisburg,2020-07-01,2020,3,single_family,2200.0
+Duisburg,2020-10-01,2020,4,single_family,2500.0
+Duisburg,2021-01-01,2021,1,single_family,2500.0
+Duisburg,2021-04-01,2021,2,single_family,2600.0
+Duisburg,2021-07-01,2021,3,single_family,3000.0
+Duisburg,2021-10-01,2021,4,single_family,3200.0
+Duisburg,2022-01-01,2022,1,single_family,3500.0
+Duisburg,2022-04-01,2022,2,single_family,3100.0
+Duisburg,2022-07-01,2022,3,single_family,2900.0
+Duisburg,2022-10-01,2022,4,single_family,2800.0
+Duisburg,2023-01-01,2023,1,single_family,2500.0
+Duisburg,2023-04-01,2023,2,single_family,2600.0
+Duisburg,2023-07-01,2023,3,single_family,2800.0
+Duisburg,2023-10-01,2023,4,single_family,2500.0
+Duisburg,2024-01-01,2024,1,single_family,2500.0
+Duisburg,2024-04-01,2024,2,single_family,2700.0
+Duisburg,2024-07-01,2024,3,single_family,2700.0
+Duisburg,2024-10-01,2024,4,single_family,2800.0
+Duisburg,2005-01-01,2005,1,apartment,1100.0
+Duisburg,2005-04-01,2005,2,apartment,1100.0
+Duisburg,2005-07-01,2005,3,apartment,1100.0
+Duisburg,2005-10-01,2005,4,apartment,1100.0
+Duisburg,2006-01-01,2006,1,apartment,1200.0
+Duisburg,2006-04-01,2006,2,apartment,1100.0
+Duisburg,2006-07-01,2006,3,apartment,1000.0
+Duisburg,2006-10-01,2006,4,apartment,1000.0
+Duisburg,2007-01-01,2007,1,apartment,900.0
+Duisburg,2007-04-01,2007,2,apartment,1100.0
+Duisburg,2007-07-01,2007,3,apartment,1000.0
+Duisburg,2007-10-01,2007,4,apartment,1100.0
+Duisburg,2008-01-01,2008,1,apartment,1100.0
+Duisburg,2008-04-01,2008,2,apartment,1000.0
+Duisburg,2008-07-01,2008,3,apartment,1000.0
+Duisburg,2008-10-01,2008,4,apartment,1200.0
+Duisburg,2009-01-01,2009,1,apartment,1000.0
+Duisburg,2009-04-01,2009,2,apartment,1000.0
+Duisburg,2009-07-01,2009,3,apartment,1100.0
+Duisburg,2009-10-01,2009,4,apartment,1000.0
+Duisburg,2010-01-01,2010,1,apartment,1000.0
+Duisburg,2010-04-01,2010,2,apartment,1000.0
+Duisburg,2010-07-01,2010,3,apartment,1100.0
+Duisburg,2010-10-01,2010,4,apartment,1000.0
+Duisburg,2011-01-01,2011,1,apartment,900.0
+Duisburg,2011-04-01,2011,2,apartment,1000.0
+Duisburg,2011-07-01,2011,3,apartment,1000.0
+Duisburg,2011-10-01,2011,4,apartment,1000.0
+Duisburg,2012-01-01,2012,1,apartment,1100.0
+Duisburg,2012-04-01,2012,2,apartment,900.0
+Duisburg,2012-07-01,2012,3,apartment,1100.0
+Duisburg,2012-10-01,2012,4,apartment,1000.0
+Duisburg,2013-01-01,2013,1,apartment,1000.0
+Duisburg,2013-04-01,2013,2,apartment,900.0
+Duisburg,2013-07-01,2013,3,apartment,900.0
+Duisburg,2013-10-01,2013,4,apartment,1000.0
+Duisburg,2014-01-01,2014,1,apartment,1000.0
+Duisburg,2014-04-01,2014,2,apartment,1000.0
+Duisburg,2014-07-01,2014,3,apartment,1000.0
+Duisburg,2014-10-01,2014,4,apartment,1000.0
+Duisburg,2015-01-01,2015,1,apartment,800.0
+Duisburg,2015-04-01,2015,2,apartment,900.0
+Duisburg,2015-07-01,2015,3,apartment,900.0
+Duisburg,2015-10-01,2015,4,apartment,1300.0
+Duisburg,2016-01-01,2016,1,apartment,1200.0
+Duisburg,2016-04-01,2016,2,apartment,1100.0
+Duisburg,2016-07-01,2016,3,apartment,1000.0
+Duisburg,2016-10-01,2016,4,apartment,1300.0
+Duisburg,2017-01-01,2017,1,apartment,900.0
+Duisburg,2017-04-01,2017,2,apartment,1000.0
+Duisburg,2017-07-01,2017,3,apartment,1200.0
+Duisburg,2017-10-01,2017,4,apartment,1200.0
+Duisburg,2018-01-01,2018,1,apartment,1200.0
+Duisburg,2018-04-01,2018,2,apartment,1200.0
+Duisburg,2018-07-01,2018,3,apartment,1500.0
+Duisburg,2018-10-01,2018,4,apartment,1400.0
+Duisburg,2019-01-01,2019,1,apartment,1300.0
+Duisburg,2019-04-01,2019,2,apartment,1700.0
+Duisburg,2019-07-01,2019,3,apartment,1600.0
+Duisburg,2019-10-01,2019,4,apartment,1400.0
+Duisburg,2020-01-01,2020,1,apartment,1500.0
+Duisburg,2020-04-01,2020,2,apartment,1500.0
+Duisburg,2020-07-01,2020,3,apartment,1500.0
+Duisburg,2020-10-01,2020,4,apartment,1500.0
+Duisburg,2021-01-01,2021,1,apartment,1700.0
+Duisburg,2021-04-01,2021,2,apartment,1600.0
+Duisburg,2021-07-01,2021,3,apartment,1600.0
+Duisburg,2021-10-01,2021,4,apartment,1900.0
+Duisburg,2022-01-01,2022,1,apartment,1800.0
+Duisburg,2022-04-01,2022,2,apartment,1900.0
+Duisburg,2022-07-01,2022,3,apartment,1700.0
+Duisburg,2022-10-01,2022,4,apartment,1900.0
+Duisburg,2023-01-01,2023,1,apartment,1900.0
+Duisburg,2023-04-01,2023,2,apartment,1900.0
+Duisburg,2023-07-01,2023,3,apartment,1700.0
+Duisburg,2023-10-01,2023,4,apartment,1900.0
+Duisburg,2024-01-01,2024,1,apartment,1700.0
+Duisburg,2024-04-01,2024,2,apartment,1800.0
+Duisburg,2024-07-01,2024,3,apartment,1900.0
+Duisburg,2024-10-01,2024,4,apartment,1900.0
+Duisburg,2007-01-01,2007,1,multi_family,1100.0
+Duisburg,2007-04-01,2007,2,multi_family,600.0
+Duisburg,2007-07-01,2007,3,multi_family,700.0
+Duisburg,2007-10-01,2007,4,multi_family,700.0
+Duisburg,2008-01-01,2008,1,multi_family,600.0
+Duisburg,2008-04-01,2008,2,multi_family,700.0
+Duisburg,2008-07-01,2008,3,multi_family,500.0
+Duisburg,2008-10-01,2008,4,multi_family,600.0
+Duisburg,2009-01-01,2009,1,multi_family,600.0
+Duisburg,2009-04-01,2009,2,multi_family,600.0
+Duisburg,2009-07-01,2009,3,multi_family,700.0
+Duisburg,2009-10-01,2009,4,multi_family,600.0
+Duisburg,2010-01-01,2010,1,multi_family,600.0
+Duisburg,2010-04-01,2010,2,multi_family,600.0
+Duisburg,2010-07-01,2010,3,multi_family,600.0
+Duisburg,2010-10-01,2010,4,multi_family,500.0
+Duisburg,2011-01-01,2011,1,multi_family,600.0
+Duisburg,2011-04-01,2011,2,multi_family,600.0
+Duisburg,2011-07-01,2011,3,multi_family,600.0
+Duisburg,2011-10-01,2011,4,multi_family,600.0
+Duisburg,2012-01-01,2012,1,multi_family,600.0
+Duisburg,2012-04-01,2012,2,multi_family,600.0
+Duisburg,2012-07-01,2012,3,multi_family,700.0
+Duisburg,2012-10-01,2012,4,multi_family,700.0
+Duisburg,2013-01-01,2013,1,multi_family,600.0
+Duisburg,2013-04-01,2013,2,multi_family,700.0
+Duisburg,2013-07-01,2013,3,multi_family,600.0
+Duisburg,2013-10-01,2013,4,multi_family,600.0
+Duisburg,2014-01-01,2014,1,multi_family,600.0
+Duisburg,2014-04-01,2014,2,multi_family,700.0
+Duisburg,2014-07-01,2014,3,multi_family,700.0
+Duisburg,2014-10-01,2014,4,multi_family,600.0
+Duisburg,2015-01-01,2015,1,multi_family,600.0
+Duisburg,2015-04-01,2015,2,multi_family,600.0
+Duisburg,2015-07-01,2015,3,multi_family,800.0
+Duisburg,2015-10-01,2015,4,multi_family,600.0
+Duisburg,2016-01-01,2016,1,multi_family,600.0
+Duisburg,2016-04-01,2016,2,multi_family,700.0
+Duisburg,2016-07-01,2016,3,multi_family,800.0
+Duisburg,2016-10-01,2016,4,multi_family,700.0
+Duisburg,2017-01-01,2017,1,multi_family,1000.0
+Duisburg,2017-04-01,2017,2,multi_family,700.0
+Duisburg,2017-07-01,2017,3,multi_family,1200.0
+Duisburg,2017-10-01,2017,4,multi_family,900.0
+Duisburg,2018-01-01,2018,1,multi_family,700.0
+Duisburg,2018-04-01,2018,2,multi_family,900.0
+Duisburg,2018-07-01,2018,3,multi_family,900.0
+Duisburg,2018-10-01,2018,4,multi_family,800.0
+Duisburg,2019-01-01,2019,1,multi_family,800.0
+Duisburg,2019-04-01,2019,2,multi_family,900.0
+Duisburg,2019-07-01,2019,3,multi_family,900.0
+Duisburg,2019-10-01,2019,4,multi_family,900.0
+Duisburg,2020-01-01,2020,1,multi_family,900.0
+Duisburg,2020-04-01,2020,2,multi_family,900.0
+Duisburg,2020-07-01,2020,3,multi_family,1100.0
+Duisburg,2020-10-01,2020,4,multi_family,900.0
+Duisburg,2021-01-01,2021,1,multi_family,1000.0
+Duisburg,2021-04-01,2021,2,multi_family,1300.0
+Duisburg,2021-07-01,2021,3,multi_family,1400.0
+Duisburg,2021-10-01,2021,4,multi_family,1300.0
+Duisburg,2022-01-01,2022,1,multi_family,1300.0
+Duisburg,2022-04-01,2022,2,multi_family,1400.0
+Duisburg,2022-07-01,2022,3,multi_family,1200.0
+Duisburg,2022-10-01,2022,4,multi_family,1200.0
+Duisburg,2023-01-01,2023,1,multi_family,1000.0
+Duisburg,2023-04-01,2023,2,multi_family,1100.0
+Duisburg,2023-07-01,2023,3,multi_family,1200.0
+Duisburg,2023-10-01,2023,4,multi_family,1200.0
+Duisburg,2024-01-01,2024,1,multi_family,1000.0
+Duisburg,2024-04-01,2024,2,multi_family,1100.0
+Duisburg,2024-07-01,2024,3,multi_family,1100.0
+Duisburg,2024-10-01,2024,4,multi_family,1100.0
+Erfurt,2008-01-01,2008,1,single_family,1400.0
+Erfurt,2008-04-01,2008,2,single_family,1300.0
+Erfurt,2008-07-01,2008,3,single_family,1300.0
+Erfurt,2008-10-01,2008,4,single_family,1200.0
+Erfurt,2009-01-01,2009,1,single_family,1400.0
+Erfurt,2009-04-01,2009,2,single_family,1400.0
+Erfurt,2009-07-01,2009,3,single_family,1300.0
+Erfurt,2009-10-01,2009,4,single_family,1400.0
+Erfurt,2010-01-01,2010,1,single_family,1300.0
+Erfurt,2010-04-01,2010,2,single_family,1300.0
+Erfurt,2010-07-01,2010,3,single_family,1600.0
+Erfurt,2010-10-01,2010,4,single_family,1500.0
+Erfurt,2011-01-01,2011,1,single_family,1400.0
+Erfurt,2011-04-01,2011,2,single_family,1100.0
+Erfurt,2011-07-01,2011,3,single_family,1700.0
+Erfurt,2011-10-01,2011,4,single_family,1500.0
+Erfurt,2012-01-01,2012,1,single_family,1400.0
+Erfurt,2012-04-01,2012,2,single_family,1400.0
+Erfurt,2012-07-01,2012,3,single_family,1400.0
+Erfurt,2012-10-01,2012,4,single_family,1500.0
+Erfurt,2013-01-01,2013,1,single_family,1500.0
+Erfurt,2013-04-01,2013,2,single_family,1600.0
+Erfurt,2013-07-01,2013,3,single_family,1500.0
+Erfurt,2013-10-01,2013,4,single_family,1500.0
+Erfurt,2014-01-01,2014,1,single_family,1500.0
+Erfurt,2014-04-01,2014,2,single_family,1800.0
+Erfurt,2014-07-01,2014,3,single_family,1500.0
+Erfurt,2014-10-01,2014,4,single_family,1500.0
+Erfurt,2015-01-01,2015,1,single_family,1600.0
+Erfurt,2015-04-01,2015,2,single_family,1500.0
+Erfurt,2015-07-01,2015,3,single_family,1600.0
+Erfurt,2015-10-01,2015,4,single_family,1600.0
+Erfurt,2016-01-01,2016,1,single_family,1800.0
+Erfurt,2016-04-01,2016,2,single_family,1800.0
+Erfurt,2016-07-01,2016,3,single_family,1900.0
+Erfurt,2016-10-01,2016,4,single_family,2100.0
+Erfurt,2017-01-01,2017,1,single_family,1700.0
+Erfurt,2017-04-01,2017,2,single_family,1900.0
+Erfurt,2017-07-01,2017,3,single_family,2100.0
+Erfurt,2017-10-01,2017,4,single_family,2100.0
+Erfurt,2018-01-01,2018,1,single_family,2200.0
+Erfurt,2018-04-01,2018,2,single_family,2200.0
+Erfurt,2018-07-01,2018,3,single_family,2300.0
+Erfurt,2018-10-01,2018,4,single_family,2500.0
+Erfurt,2019-01-01,2019,1,single_family,2100.0
+Erfurt,2019-04-01,2019,2,single_family,2300.0
+Erfurt,2019-07-01,2019,3,single_family,2400.0
+Erfurt,2019-10-01,2019,4,single_family,2400.0
+Erfurt,2020-01-01,2020,1,single_family,2500.0
+Erfurt,2020-04-01,2020,2,single_family,2900.0
+Erfurt,2020-07-01,2020,3,single_family,2500.0
+Erfurt,2020-10-01,2020,4,single_family,2600.0
+Erfurt,2021-01-01,2021,1,single_family,2500.0
+Erfurt,2021-04-01,2021,2,single_family,2900.0
+Erfurt,2021-07-01,2021,3,single_family,3000.0
+Erfurt,2021-10-01,2021,4,single_family,3100.0
+Erfurt,2022-01-01,2022,1,single_family,3300.0
+Erfurt,2022-04-01,2022,2,single_family,3400.0
+Erfurt,2022-07-01,2022,3,single_family,3300.0
+Erfurt,2022-10-01,2022,4,single_family,3000.0
+Erfurt,2023-01-01,2023,1,single_family,3200.0
+Erfurt,2023-04-01,2023,2,single_family,2800.0
+Erfurt,2023-07-01,2023,3,single_family,2900.0
+Erfurt,2023-10-01,2023,4,single_family,2800.0
+Erfurt,2024-01-01,2024,1,single_family,2800.0
+Erfurt,2024-04-01,2024,2,single_family,2500.0
+Erfurt,2024-07-01,2024,3,single_family,2900.0
+Erfurt,2024-10-01,2024,4,single_family,2900.0
+Erfurt,2005-01-01,2005,1,apartment,1300.0
+Erfurt,2005-04-01,2005,2,apartment,1200.0
+Erfurt,2005-07-01,2005,3,apartment,1500.0
+Erfurt,2005-10-01,2005,4,apartment,1300.0
+Erfurt,2006-01-01,2006,1,apartment,1300.0
+Erfurt,2006-04-01,2006,2,apartment,1400.0
+Erfurt,2006-07-01,2006,3,apartment,1300.0
+Erfurt,2006-10-01,2006,4,apartment,1200.0
+Erfurt,2007-01-01,2007,1,apartment,1200.0
+Erfurt,2007-04-01,2007,2,apartment,1200.0
+Erfurt,2007-07-01,2007,3,apartment,1500.0
+Erfurt,2007-10-01,2007,4,apartment,1300.0
+Erfurt,2008-01-01,2008,1,apartment,1300.0
+Erfurt,2008-04-01,2008,2,apartment,1400.0
+Erfurt,2008-07-01,2008,3,apartment,1400.0
+Erfurt,2008-10-01,2008,4,apartment,1500.0
+Erfurt,2009-01-01,2009,1,apartment,1600.0
+Erfurt,2009-04-01,2009,2,apartment,1500.0
+Erfurt,2009-07-01,2009,3,apartment,1300.0
+Erfurt,2009-10-01,2009,4,apartment,1400.0
+Erfurt,2010-01-01,2010,1,apartment,1500.0
+Erfurt,2010-04-01,2010,2,apartment,1500.0
+Erfurt,2010-07-01,2010,3,apartment,1600.0
+Erfurt,2010-10-01,2010,4,apartment,1300.0
+Erfurt,2011-01-01,2011,1,apartment,1600.0
+Erfurt,2011-04-01,2011,2,apartment,1500.0
+Erfurt,2011-07-01,2011,3,apartment,1500.0
+Erfurt,2011-10-01,2011,4,apartment,1600.0
+Erfurt,2012-01-01,2012,1,apartment,1800.0
+Erfurt,2012-04-01,2012,2,apartment,1800.0
+Erfurt,2012-07-01,2012,3,apartment,1500.0
+Erfurt,2012-10-01,2012,4,apartment,1500.0
+Erfurt,2013-01-01,2013,1,apartment,1700.0
+Erfurt,2013-04-01,2013,2,apartment,1600.0
+Erfurt,2013-07-01,2013,3,apartment,1600.0
+Erfurt,2013-10-01,2013,4,apartment,1500.0
+Erfurt,2014-01-01,2014,1,apartment,1600.0
+Erfurt,2014-04-01,2014,2,apartment,1600.0
+Erfurt,2014-07-01,2014,3,apartment,1500.0
+Erfurt,2014-10-01,2014,4,apartment,1700.0
+Erfurt,2015-01-01,2015,1,apartment,1700.0
+Erfurt,2015-04-01,2015,2,apartment,1700.0
+Erfurt,2015-07-01,2015,3,apartment,1600.0
+Erfurt,2015-10-01,2015,4,apartment,1800.0
+Erfurt,2016-01-01,2016,1,apartment,2000.0
+Erfurt,2016-04-01,2016,2,apartment,2000.0
+Erfurt,2016-07-01,2016,3,apartment,2100.0
+Erfurt,2016-10-01,2016,4,apartment,2000.0
+Erfurt,2017-01-01,2017,1,apartment,1900.0
+Erfurt,2017-04-01,2017,2,apartment,1800.0
+Erfurt,2017-07-01,2017,3,apartment,2000.0
+Erfurt,2017-10-01,2017,4,apartment,1900.0
+Erfurt,2018-01-01,2018,1,apartment,2000.0
+Erfurt,2018-04-01,2018,2,apartment,2000.0
+Erfurt,2018-07-01,2018,3,apartment,1900.0
+Erfurt,2018-10-01,2018,4,apartment,2100.0
+Erfurt,2019-01-01,2019,1,apartment,2100.0
+Erfurt,2019-04-01,2019,2,apartment,2000.0
+Erfurt,2019-07-01,2019,3,apartment,2100.0
+Erfurt,2019-10-01,2019,4,apartment,2100.0
+Erfurt,2020-01-01,2020,1,apartment,2100.0
+Erfurt,2020-04-01,2020,2,apartment,2000.0
+Erfurt,2020-07-01,2020,3,apartment,2100.0
+Erfurt,2020-10-01,2020,4,apartment,2200.0
+Erfurt,2021-01-01,2021,1,apartment,2400.0
+Erfurt,2021-04-01,2021,2,apartment,2700.0
+Erfurt,2021-07-01,2021,3,apartment,3000.0
+Erfurt,2021-10-01,2021,4,apartment,3300.0
+Erfurt,2022-01-01,2022,1,apartment,3400.0
+Erfurt,2022-04-01,2022,2,apartment,4300.0
+Erfurt,2022-07-01,2022,3,apartment,3400.0
+Erfurt,2022-10-01,2022,4,apartment,3300.0
+Erfurt,2023-01-01,2023,1,apartment,2600.0
+Erfurt,2023-04-01,2023,2,apartment,3100.0
+Erfurt,2023-07-01,2023,3,apartment,2700.0
+Erfurt,2023-10-01,2023,4,apartment,3100.0
+Erfurt,2024-01-01,2024,1,apartment,2800.0
+Erfurt,2024-04-01,2024,2,apartment,2600.0
+Erfurt,2024-07-01,2024,3,apartment,2900.0
+Erfurt,2024-10-01,2024,4,apartment,3700.0
+Frankfurt,2005-01-01,2005,1,single_family,2300.0
+Frankfurt,2005-04-01,2005,2,single_family,2200.0
+Frankfurt,2005-07-01,2005,3,single_family,2300.0
+Frankfurt,2005-10-01,2005,4,single_family,2400.0
+Frankfurt,2006-01-01,2006,1,single_family,2400.0
+Frankfurt,2006-04-01,2006,2,single_family,2500.0
+Frankfurt,2006-07-01,2006,3,single_family,2500.0
+Frankfurt,2006-10-01,2006,4,single_family,2400.0
+Frankfurt,2007-01-01,2007,1,single_family,2400.0
+Frankfurt,2007-04-01,2007,2,single_family,2400.0
+Frankfurt,2007-07-01,2007,3,single_family,2300.0
+Frankfurt,2007-10-01,2007,4,single_family,2400.0
+Frankfurt,2008-01-01,2008,1,single_family,2600.0
+Frankfurt,2008-04-01,2008,2,single_family,2400.0
+Frankfurt,2008-07-01,2008,3,single_family,2500.0
+Frankfurt,2008-10-01,2008,4,single_family,2600.0
+Frankfurt,2009-01-01,2009,1,single_family,2300.0
+Frankfurt,2009-04-01,2009,2,single_family,2400.0
+Frankfurt,2009-07-01,2009,3,single_family,2500.0
+Frankfurt,2009-10-01,2009,4,single_family,2600.0
+Frankfurt,2010-01-01,2010,1,single_family,2400.0
+Frankfurt,2010-04-01,2010,2,single_family,2600.0
+Frankfurt,2010-07-01,2010,3,single_family,2600.0
+Frankfurt,2010-10-01,2010,4,single_family,2600.0
+Frankfurt,2011-01-01,2011,1,single_family,2600.0
+Frankfurt,2011-04-01,2011,2,single_family,2800.0
+Frankfurt,2011-07-01,2011,3,single_family,2600.0
+Frankfurt,2011-10-01,2011,4,single_family,2800.0
+Frankfurt,2012-01-01,2012,1,single_family,2800.0
+Frankfurt,2012-04-01,2012,2,single_family,3100.0
+Frankfurt,2012-07-01,2012,3,single_family,3000.0
+Frankfurt,2012-10-01,2012,4,single_family,2900.0
+Frankfurt,2013-01-01,2013,1,single_family,2900.0
+Frankfurt,2013-04-01,2013,2,single_family,3200.0
+Frankfurt,2013-07-01,2013,3,single_family,3000.0
+Frankfurt,2013-10-01,2013,4,single_family,3000.0
+Frankfurt,2014-01-01,2014,1,single_family,3100.0
+Frankfurt,2014-04-01,2014,2,single_family,3100.0
+Frankfurt,2014-07-01,2014,3,single_family,3100.0
+Frankfurt,2014-10-01,2014,4,single_family,3200.0
+Frankfurt,2015-01-01,2015,1,single_family,3500.0
+Frankfurt,2015-04-01,2015,2,single_family,3400.0
+Frankfurt,2015-07-01,2015,3,single_family,3700.0
+Frankfurt,2015-10-01,2015,4,single_family,3700.0
+Frankfurt,2016-01-01,2016,1,single_family,3600.0
+Frankfurt,2016-04-01,2016,2,single_family,3700.0
+Frankfurt,2016-07-01,2016,3,single_family,3900.0
+Frankfurt,2016-10-01,2016,4,single_family,4200.0
+Frankfurt,2017-01-01,2017,1,single_family,4100.0
+Frankfurt,2017-04-01,2017,2,single_family,4400.0
+Frankfurt,2017-07-01,2017,3,single_family,4000.0
+Frankfurt,2017-10-01,2017,4,single_family,4700.0
+Frankfurt,2018-01-01,2018,1,single_family,4400.0
+Frankfurt,2018-04-01,2018,2,single_family,4700.0
+Frankfurt,2018-07-01,2018,3,single_family,4500.0
+Frankfurt,2018-10-01,2018,4,single_family,4400.0
+Frankfurt,2019-01-01,2019,1,single_family,4900.0
+Frankfurt,2019-04-01,2019,2,single_family,4800.0
+Frankfurt,2019-07-01,2019,3,single_family,4900.0
+Frankfurt,2019-10-01,2019,4,single_family,5000.0
+Frankfurt,2020-01-01,2020,1,single_family,5200.0
+Frankfurt,2020-04-01,2020,2,single_family,5200.0
+Frankfurt,2020-07-01,2020,3,single_family,5600.0
+Frankfurt,2020-10-01,2020,4,single_family,5600.0
+Frankfurt,2021-01-01,2021,1,single_family,5400.0
+Frankfurt,2021-04-01,2021,2,single_family,5800.0
+Frankfurt,2021-07-01,2021,3,single_family,6400.0
+Frankfurt,2021-10-01,2021,4,single_family,6000.0
+Frankfurt,2022-01-01,2022,1,single_family,6400.0
+Frankfurt,2022-04-01,2022,2,single_family,6300.0
+Frankfurt,2022-07-01,2022,3,single_family,6400.0
+Frankfurt,2022-10-01,2022,4,single_family,5900.0
+Frankfurt,2023-01-01,2023,1,single_family,5600.0
+Frankfurt,2023-04-01,2023,2,single_family,5400.0
+Frankfurt,2023-07-01,2023,3,single_family,5100.0
+Frankfurt,2023-10-01,2023,4,single_family,5100.0
+Frankfurt,2024-01-01,2024,1,single_family,5200.0
+Frankfurt,2024-04-01,2024,2,single_family,5500.0
+Frankfurt,2024-07-01,2024,3,single_family,5400.0
+Frankfurt,2024-10-01,2024,4,single_family,5400.0
+Frankfurt,2005-01-01,2005,1,apartment,2000.0
+Frankfurt,2005-04-01,2005,2,apartment,2000.0
+Frankfurt,2005-07-01,2005,3,apartment,2000.0
+Frankfurt,2005-10-01,2005,4,apartment,1900.0
+Frankfurt,2006-01-01,2006,1,apartment,2100.0
+Frankfurt,2006-04-01,2006,2,apartment,2200.0
+Frankfurt,2006-07-01,2006,3,apartment,2200.0
+Frankfurt,2006-10-01,2006,4,apartment,2100.0
+Frankfurt,2007-01-01,2007,1,apartment,2200.0
+Frankfurt,2007-04-01,2007,2,apartment,2200.0
+Frankfurt,2007-07-01,2007,3,apartment,2200.0
+Frankfurt,2007-10-01,2007,4,apartment,2200.0
+Frankfurt,2008-01-01,2008,1,apartment,2200.0
+Frankfurt,2008-04-01,2008,2,apartment,2300.0
+Frankfurt,2008-07-01,2008,3,apartment,2300.0
+Frankfurt,2008-10-01,2008,4,apartment,2300.0
+Frankfurt,2009-01-01,2009,1,apartment,2300.0
+Frankfurt,2009-04-01,2009,2,apartment,2500.0
+Frankfurt,2009-07-01,2009,3,apartment,2400.0
+Frankfurt,2009-10-01,2009,4,apartment,2400.0
+Frankfurt,2010-01-01,2010,1,apartment,2500.0
+Frankfurt,2010-04-01,2010,2,apartment,2500.0
+Frankfurt,2010-07-01,2010,3,apartment,2500.0
+Frankfurt,2010-10-01,2010,4,apartment,2600.0
+Frankfurt,2011-01-01,2011,1,apartment,2700.0
+Frankfurt,2011-04-01,2011,2,apartment,2700.0
+Frankfurt,2011-07-01,2011,3,apartment,2900.0
+Frankfurt,2011-10-01,2011,4,apartment,2900.0
+Frankfurt,2012-01-01,2012,1,apartment,2800.0
+Frankfurt,2012-04-01,2012,2,apartment,3000.0
+Frankfurt,2012-07-01,2012,3,apartment,3000.0
+Frankfurt,2012-10-01,2012,4,apartment,3200.0
+Frankfurt,2013-01-01,2013,1,apartment,3200.0
+Frankfurt,2013-04-01,2013,2,apartment,3300.0
+Frankfurt,2013-07-01,2013,3,apartment,3300.0
+Frankfurt,2013-10-01,2013,4,apartment,3300.0
+Frankfurt,2014-01-01,2014,1,apartment,3400.0
+Frankfurt,2014-04-01,2014,2,apartment,3600.0
+Frankfurt,2014-07-01,2014,3,apartment,3600.0
+Frankfurt,2014-10-01,2014,4,apartment,3600.0
+Frankfurt,2015-01-01,2015,1,apartment,3700.0
+Frankfurt,2015-04-01,2015,2,apartment,3900.0
+Frankfurt,2015-07-01,2015,3,apartment,3900.0
+Frankfurt,2015-10-01,2015,4,apartment,3800.0
+Frankfurt,2016-01-01,2016,1,apartment,3900.0
+Frankfurt,2016-04-01,2016,2,apartment,3900.0
+Frankfurt,2016-07-01,2016,3,apartment,4500.0
+Frankfurt,2016-10-01,2016,4,apartment,4500.0
+Frankfurt,2017-01-01,2017,1,apartment,4600.0
+Frankfurt,2017-04-01,2017,2,apartment,4800.0
+Frankfurt,2017-07-01,2017,3,apartment,4800.0
+Frankfurt,2017-10-01,2017,4,apartment,5100.0
+Frankfurt,2018-01-01,2018,1,apartment,4900.0
+Frankfurt,2018-04-01,2018,2,apartment,5400.0
+Frankfurt,2018-07-01,2018,3,apartment,5400.0
+Frankfurt,2018-10-01,2018,4,apartment,5200.0
+Frankfurt,2019-01-01,2019,1,apartment,5400.0
+Frankfurt,2019-04-01,2019,2,apartment,5700.0
+Frankfurt,2019-07-01,2019,3,apartment,5800.0
+Frankfurt,2019-10-01,2019,4,apartment,5900.0
+Frankfurt,2020-01-01,2020,1,apartment,5900.0
+Frankfurt,2020-04-01,2020,2,apartment,5800.0
+Frankfurt,2020-07-01,2020,3,apartment,6100.0
+Frankfurt,2020-10-01,2020,4,apartment,6100.0
+Frankfurt,2021-01-01,2021,1,apartment,6500.0
+Frankfurt,2021-04-01,2021,2,apartment,6600.0
+Frankfurt,2021-07-01,2021,3,apartment,6900.0
+Frankfurt,2021-10-01,2021,4,apartment,7000.0
+Frankfurt,2022-01-01,2022,1,apartment,7000.0
+Frankfurt,2022-04-01,2022,2,apartment,6700.0
+Frankfurt,2022-07-01,2022,3,apartment,6100.0
+Frankfurt,2022-10-01,2022,4,apartment,5700.0
+Frankfurt,2023-01-01,2023,1,apartment,5600.0
+Frankfurt,2023-04-01,2023,2,apartment,5300.0
+Frankfurt,2023-07-01,2023,3,apartment,5400.0
+Frankfurt,2023-10-01,2023,4,apartment,5300.0
+Frankfurt,2024-01-01,2024,1,apartment,5500.0
+Frankfurt,2024-04-01,2024,2,apartment,5800.0
+Frankfurt,2024-07-01,2024,3,apartment,5700.0
+Frankfurt,2024-10-01,2024,4,apartment,5900.0
+Frankfurt,2005-01-01,2005,1,multi_family,1700.0
+Frankfurt,2005-04-01,2005,2,multi_family,1800.0
+Frankfurt,2005-07-01,2005,3,multi_family,1800.0
+Frankfurt,2005-10-01,2005,4,multi_family,1900.0
+Frankfurt,2006-01-01,2006,1,multi_family,1500.0
+Frankfurt,2006-04-01,2006,2,multi_family,1600.0
+Frankfurt,2006-07-01,2006,3,multi_family,1600.0
+Frankfurt,2006-10-01,2006,4,multi_family,2000.0
+Frankfurt,2007-01-01,2007,1,multi_family,1600.0
+Frankfurt,2007-04-01,2007,2,multi_family,1500.0
+Frankfurt,2007-07-01,2007,3,multi_family,1700.0
+Frankfurt,2007-10-01,2007,4,multi_family,1600.0
+Frankfurt,2008-01-01,2008,1,multi_family,1900.0
+Frankfurt,2008-04-01,2008,2,multi_family,1900.0
+Frankfurt,2008-07-01,2008,3,multi_family,1900.0
+Frankfurt,2008-10-01,2008,4,multi_family,2000.0
+Frankfurt,2009-01-01,2009,1,multi_family,1900.0
+Frankfurt,2009-04-01,2009,2,multi_family,1900.0
+Frankfurt,2009-07-01,2009,3,multi_family,1900.0
+Frankfurt,2009-10-01,2009,4,multi_family,1800.0
+Frankfurt,2010-01-01,2010,1,multi_family,1800.0
+Frankfurt,2010-04-01,2010,2,multi_family,2100.0
+Frankfurt,2010-07-01,2010,3,multi_family,2000.0
+Frankfurt,2010-10-01,2010,4,multi_family,1700.0
+Frankfurt,2011-01-01,2011,1,multi_family,2100.0
+Frankfurt,2011-04-01,2011,2,multi_family,1900.0
+Frankfurt,2011-07-01,2011,3,multi_family,2100.0
+Frankfurt,2011-10-01,2011,4,multi_family,2300.0
+Frankfurt,2012-01-01,2012,1,multi_family,1800.0
+Frankfurt,2012-04-01,2012,2,multi_family,2100.0
+Frankfurt,2012-07-01,2012,3,multi_family,2000.0
+Frankfurt,2012-10-01,2012,4,multi_family,2200.0
+Frankfurt,2013-01-01,2013,1,multi_family,2300.0
+Frankfurt,2013-04-01,2013,2,multi_family,2800.0
+Frankfurt,2013-07-01,2013,3,multi_family,2400.0
+Frankfurt,2013-10-01,2013,4,multi_family,2400.0
+Frankfurt,2014-01-01,2014,1,multi_family,2700.0
+Frankfurt,2014-04-01,2014,2,multi_family,2400.0
+Frankfurt,2014-07-01,2014,3,multi_family,2500.0
+Frankfurt,2014-10-01,2014,4,multi_family,2600.0
+Frankfurt,2015-01-01,2015,1,multi_family,2800.0
+Frankfurt,2015-04-01,2015,2,multi_family,2700.0
+Frankfurt,2015-07-01,2015,3,multi_family,2800.0
+Frankfurt,2015-10-01,2015,4,multi_family,2700.0
+Frankfurt,2016-01-01,2016,1,multi_family,2700.0
+Frankfurt,2016-04-01,2016,2,multi_family,2900.0
+Frankfurt,2016-07-01,2016,3,multi_family,3100.0
+Frankfurt,2016-10-01,2016,4,multi_family,3000.0
+Frankfurt,2017-01-01,2017,1,multi_family,3000.0
+Frankfurt,2017-04-01,2017,2,multi_family,3600.0
+Frankfurt,2017-07-01,2017,3,multi_family,3700.0
+Frankfurt,2017-10-01,2017,4,multi_family,3900.0
+Frankfurt,2018-01-01,2018,1,multi_family,3400.0
+Frankfurt,2018-04-01,2018,2,multi_family,3700.0
+Frankfurt,2018-07-01,2018,3,multi_family,3500.0
+Frankfurt,2018-10-01,2018,4,multi_family,3800.0
+Frankfurt,2019-01-01,2019,1,multi_family,4200.0
+Frankfurt,2019-04-01,2019,2,multi_family,3400.0
+Frankfurt,2019-07-01,2019,3,multi_family,3800.0
+Frankfurt,2019-10-01,2019,4,multi_family,4100.0
+Frankfurt,2020-01-01,2020,1,multi_family,4200.0
+Frankfurt,2020-04-01,2020,2,multi_family,3700.0
+Frankfurt,2020-07-01,2020,3,multi_family,4300.0
+Frankfurt,2020-10-01,2020,4,multi_family,4400.0
+Frankfurt,2021-01-01,2021,1,multi_family,4300.0
+Frankfurt,2021-04-01,2021,2,multi_family,4700.0
+Frankfurt,2021-07-01,2021,3,multi_family,4700.0
+Frankfurt,2021-10-01,2021,4,multi_family,4400.0
+Frankfurt,2022-01-01,2022,1,multi_family,5300.0
+Frankfurt,2022-04-01,2022,2,multi_family,4400.0
+Frankfurt,2022-07-01,2022,3,multi_family,4900.0
+Frankfurt,2022-10-01,2022,4,multi_family,4000.0
+Frankfurt,2023-01-01,2023,1,multi_family,3400.0
+Frankfurt,2023-04-01,2023,2,multi_family,3800.0
+Frankfurt,2023-07-01,2023,3,multi_family,3100.0
+Frankfurt,2023-10-01,2023,4,multi_family,3600.0
+Frankfurt,2024-01-01,2024,1,multi_family,3600.0
+Frankfurt,2024-04-01,2024,2,multi_family,3600.0
+Frankfurt,2024-07-01,2024,3,multi_family,3400.0
+Frankfurt,2024-10-01,2024,4,multi_family,3800.0
+Hamburg,2005-01-01,2005,1,single_family,2100.0
+Hamburg,2005-04-01,2005,2,single_family,2200.0
+Hamburg,2005-07-01,2005,3,single_family,2200.0
+Hamburg,2005-10-01,2005,4,single_family,2100.0
+Hamburg,2006-01-01,2006,1,single_family,2300.0
+Hamburg,2006-04-01,2006,2,single_family,2300.0
+Hamburg,2006-07-01,2006,3,single_family,2300.0
+Hamburg,2006-10-01,2006,4,single_family,2200.0
+Hamburg,2007-01-01,2007,1,single_family,2300.0
+Hamburg,2007-04-01,2007,2,single_family,2200.0
+Hamburg,2007-07-01,2007,3,single_family,2200.0
+Hamburg,2007-10-01,2007,4,single_family,2100.0
+Hamburg,2008-01-01,2008,1,single_family,2200.0
+Hamburg,2008-04-01,2008,2,single_family,2300.0
+Hamburg,2008-07-01,2008,3,single_family,2300.0
+Hamburg,2008-10-01,2008,4,single_family,2200.0
+Hamburg,2009-01-01,2009,1,single_family,2200.0
+Hamburg,2009-04-01,2009,2,single_family,2200.0
+Hamburg,2009-07-01,2009,3,single_family,2300.0
+Hamburg,2009-10-01,2009,4,single_family,2300.0
+Hamburg,2010-01-01,2010,1,single_family,2400.0
+Hamburg,2010-04-01,2010,2,single_family,2400.0
+Hamburg,2010-07-01,2010,3,single_family,2400.0
+Hamburg,2010-10-01,2010,4,single_family,2300.0
+Hamburg,2011-01-01,2011,1,single_family,2500.0
+Hamburg,2011-04-01,2011,2,single_family,2500.0
+Hamburg,2011-07-01,2011,3,single_family,2600.0
+Hamburg,2011-10-01,2011,4,single_family,2500.0
+Hamburg,2012-01-01,2012,1,single_family,2500.0
+Hamburg,2012-04-01,2012,2,single_family,2700.0
+Hamburg,2012-07-01,2012,3,single_family,2800.0
+Hamburg,2012-10-01,2012,4,single_family,2800.0
+Hamburg,2013-01-01,2013,1,single_family,2800.0
+Hamburg,2013-04-01,2013,2,single_family,2800.0
+Hamburg,2013-07-01,2013,3,single_family,2800.0
+Hamburg,2013-10-01,2013,4,single_family,2800.0
+Hamburg,2014-01-01,2014,1,single_family,2900.0
+Hamburg,2014-04-01,2014,2,single_family,2900.0
+Hamburg,2014-07-01,2014,3,single_family,2900.0
+Hamburg,2014-10-01,2014,4,single_family,3000.0
+Hamburg,2015-01-01,2015,1,single_family,2700.0
+Hamburg,2015-04-01,2015,2,single_family,3200.0
+Hamburg,2015-07-01,2015,3,single_family,3300.0
+Hamburg,2015-10-01,2015,4,single_family,3200.0
+Hamburg,2016-01-01,2016,1,single_family,3400.0
+Hamburg,2016-04-01,2016,2,single_family,3600.0
+Hamburg,2016-07-01,2016,3,single_family,3600.0
+Hamburg,2016-10-01,2016,4,single_family,3700.0
+Hamburg,2017-01-01,2017,1,single_family,3800.0
+Hamburg,2017-04-01,2017,2,single_family,3900.0
+Hamburg,2017-07-01,2017,3,single_family,4100.0
+Hamburg,2017-10-01,2017,4,single_family,3900.0
+Hamburg,2018-01-01,2018,1,single_family,4000.0
+Hamburg,2018-04-01,2018,2,single_family,4300.0
+Hamburg,2018-07-01,2018,3,single_family,4400.0
+Hamburg,2018-10-01,2018,4,single_family,4200.0
+Hamburg,2019-01-01,2019,1,single_family,4300.0
+Hamburg,2019-04-01,2019,2,single_family,4400.0
+Hamburg,2019-07-01,2019,3,single_family,4500.0
+Hamburg,2019-10-01,2019,4,single_family,4600.0
+Hamburg,2020-01-01,2020,1,single_family,4700.0
+Hamburg,2020-04-01,2020,2,single_family,5000.0
+Hamburg,2020-07-01,2020,3,single_family,4900.0
+Hamburg,2020-10-01,2020,4,single_family,5300.0
+Hamburg,2021-01-01,2021,1,single_family,5300.0
+Hamburg,2021-04-01,2021,2,single_family,5900.0
+Hamburg,2021-07-01,2021,3,single_family,5900.0
+Hamburg,2021-10-01,2021,4,single_family,6500.0
+Hamburg,2022-01-01,2022,1,single_family,6300.0
+Hamburg,2022-04-01,2022,2,single_family,6200.0
+Hamburg,2022-07-01,2022,3,single_family,6200.0
+Hamburg,2022-10-01,2022,4,single_family,5700.0
+Hamburg,2023-01-01,2023,1,single_family,5400.0
+Hamburg,2023-04-01,2023,2,single_family,5600.0
+Hamburg,2023-07-01,2023,3,single_family,5300.0
+Hamburg,2023-10-01,2023,4,single_family,5400.0
+Hamburg,2024-01-01,2024,1,single_family,5300.0
+Hamburg,2024-04-01,2024,2,single_family,5100.0
+Hamburg,2024-07-01,2024,3,single_family,5100.0
+Hamburg,2024-10-01,2024,4,single_family,5500.0
+Hamburg,2005-01-01,2005,1,apartment,2000.0
+Hamburg,2005-04-01,2005,2,apartment,2000.0
+Hamburg,2005-07-01,2005,3,apartment,2000.0
+Hamburg,2005-10-01,2005,4,apartment,2000.0
+Hamburg,2006-01-01,2006,1,apartment,2200.0
+Hamburg,2006-04-01,2006,2,apartment,2200.0
+Hamburg,2006-07-01,2006,3,apartment,2200.0
+Hamburg,2006-10-01,2006,4,apartment,2300.0
+Hamburg,2007-01-01,2007,1,apartment,2200.0
+Hamburg,2007-04-01,2007,2,apartment,2100.0
+Hamburg,2007-07-01,2007,3,apartment,2100.0
+Hamburg,2007-10-01,2007,4,apartment,2100.0
+Hamburg,2008-01-01,2008,1,apartment,2100.0
+Hamburg,2008-04-01,2008,2,apartment,2100.0
+Hamburg,2008-07-01,2008,3,apartment,2100.0
+Hamburg,2008-10-01,2008,4,apartment,2200.0
+Hamburg,2009-01-01,2009,1,apartment,2200.0
+Hamburg,2009-04-01,2009,2,apartment,2400.0
+Hamburg,2009-07-01,2009,3,apartment,2400.0
+Hamburg,2009-10-01,2009,4,apartment,2300.0
+Hamburg,2010-01-01,2010,1,apartment,2400.0
+Hamburg,2010-04-01,2010,2,apartment,2500.0
+Hamburg,2010-07-01,2010,3,apartment,2500.0
+Hamburg,2010-10-01,2010,4,apartment,2400.0
+Hamburg,2011-01-01,2011,1,apartment,2700.0
+Hamburg,2011-04-01,2011,2,apartment,2800.0
+Hamburg,2011-07-01,2011,3,apartment,2800.0
+Hamburg,2011-10-01,2011,4,apartment,3000.0
+Hamburg,2012-01-01,2012,1,apartment,2800.0
+Hamburg,2012-04-01,2012,2,apartment,2900.0
+Hamburg,2012-07-01,2012,3,apartment,3000.0
+Hamburg,2012-10-01,2012,4,apartment,3100.0
+Hamburg,2013-01-01,2013,1,apartment,3100.0
+Hamburg,2013-04-01,2013,2,apartment,3100.0
+Hamburg,2013-07-01,2013,3,apartment,3300.0
+Hamburg,2013-10-01,2013,4,apartment,3400.0
+Hamburg,2014-01-01,2014,1,apartment,3300.0
+Hamburg,2014-04-01,2014,2,apartment,3400.0
+Hamburg,2014-07-01,2014,3,apartment,3500.0
+Hamburg,2014-10-01,2014,4,apartment,3700.0
+Hamburg,2015-01-01,2015,1,apartment,3600.0
+Hamburg,2015-04-01,2015,2,apartment,3800.0
+Hamburg,2015-07-01,2015,3,apartment,3700.0
+Hamburg,2015-10-01,2015,4,apartment,3800.0
+Hamburg,2016-01-01,2016,1,apartment,3900.0
+Hamburg,2016-04-01,2016,2,apartment,4000.0
+Hamburg,2016-07-01,2016,3,apartment,4100.0
+Hamburg,2016-10-01,2016,4,apartment,4200.0
+Hamburg,2017-01-01,2017,1,apartment,4300.0
+Hamburg,2017-04-01,2017,2,apartment,4400.0
+Hamburg,2017-07-01,2017,3,apartment,4400.0
+Hamburg,2017-10-01,2017,4,apartment,4500.0
+Hamburg,2018-01-01,2018,1,apartment,4700.0
+Hamburg,2018-04-01,2018,2,apartment,4700.0
+Hamburg,2018-07-01,2018,3,apartment,4800.0
+Hamburg,2018-10-01,2018,4,apartment,4800.0
+Hamburg,2019-01-01,2019,1,apartment,4800.0
+Hamburg,2019-04-01,2019,2,apartment,5000.0
+Hamburg,2019-07-01,2019,3,apartment,5200.0
+Hamburg,2019-10-01,2019,4,apartment,5300.0
+Hamburg,2020-01-01,2020,1,apartment,5400.0
+Hamburg,2020-04-01,2020,2,apartment,5400.0
+Hamburg,2020-07-01,2020,3,apartment,5900.0
+Hamburg,2020-10-01,2020,4,apartment,6200.0
+Hamburg,2021-01-01,2021,1,apartment,6400.0
+Hamburg,2021-04-01,2021,2,apartment,6500.0
+Hamburg,2021-07-01,2021,3,apartment,6800.0
+Hamburg,2021-10-01,2021,4,apartment,6900.0
+Hamburg,2022-01-01,2022,1,apartment,7000.0
+Hamburg,2022-04-01,2022,2,apartment,6900.0
+Hamburg,2022-07-01,2022,3,apartment,6700.0
+Hamburg,2022-10-01,2022,4,apartment,6500.0
+Hamburg,2023-01-01,2023,1,apartment,6100.0
+Hamburg,2023-04-01,2023,2,apartment,6000.0
+Hamburg,2023-07-01,2023,3,apartment,5900.0
+Hamburg,2023-10-01,2023,4,apartment,5900.0
+Hamburg,2024-01-01,2024,1,apartment,5800.0
+Hamburg,2024-04-01,2024,2,apartment,6400.0
+Hamburg,2024-07-01,2024,3,apartment,6300.0
+Hamburg,2024-10-01,2024,4,apartment,6500.0
+Hamburg,2005-01-01,2005,1,multi_family,1200.0
+Hamburg,2005-04-01,2005,2,multi_family,1000.0
+Hamburg,2005-07-01,2005,3,multi_family,1100.0
+Hamburg,2005-10-01,2005,4,multi_family,1100.0
+Hamburg,2006-01-01,2006,1,multi_family,1200.0
+Hamburg,2006-04-01,2006,2,multi_family,1400.0
+Hamburg,2006-07-01,2006,3,multi_family,1200.0
+Hamburg,2006-10-01,2006,4,multi_family,1300.0
+Hamburg,2007-01-01,2007,1,multi_family,1300.0
+Hamburg,2007-04-01,2007,2,multi_family,1400.0
+Hamburg,2007-07-01,2007,3,multi_family,1400.0
+Hamburg,2007-10-01,2007,4,multi_family,1300.0
+Hamburg,2008-01-01,2008,1,multi_family,1300.0
+Hamburg,2008-04-01,2008,2,multi_family,1500.0
+Hamburg,2008-07-01,2008,3,multi_family,1400.0
+Hamburg,2008-10-01,2008,4,multi_family,1300.0
+Hamburg,2009-01-01,2009,1,multi_family,1400.0
+Hamburg,2009-04-01,2009,2,multi_family,1400.0
+Hamburg,2009-07-01,2009,3,multi_family,1300.0
+Hamburg,2009-10-01,2009,4,multi_family,1400.0
+Hamburg,2010-01-01,2010,1,multi_family,1600.0
+Hamburg,2010-04-01,2010,2,multi_family,1600.0
+Hamburg,2010-07-01,2010,3,multi_family,1700.0
+Hamburg,2010-10-01,2010,4,multi_family,1600.0
+Hamburg,2011-01-01,2011,1,multi_family,2000.0
+Hamburg,2011-04-01,2011,2,multi_family,1700.0
+Hamburg,2011-07-01,2011,3,multi_family,1700.0
+Hamburg,2011-10-01,2011,4,multi_family,2000.0
+Hamburg,2012-01-01,2012,1,multi_family,1800.0
+Hamburg,2012-04-01,2012,2,multi_family,2100.0
+Hamburg,2012-07-01,2012,3,multi_family,1700.0
+Hamburg,2012-10-01,2012,4,multi_family,2100.0
+Hamburg,2013-01-01,2013,1,multi_family,2200.0
+Hamburg,2013-04-01,2013,2,multi_family,2300.0
+Hamburg,2013-07-01,2013,3,multi_family,2300.0
+Hamburg,2013-10-01,2013,4,multi_family,1900.0
+Hamburg,2014-01-01,2014,1,multi_family,2100.0
+Hamburg,2014-04-01,2014,2,multi_family,1900.0
+Hamburg,2014-07-01,2014,3,multi_family,2100.0
+Hamburg,2014-10-01,2014,4,multi_family,2100.0
+Hamburg,2015-01-01,2015,1,multi_family,2000.0
+Hamburg,2015-04-01,2015,2,multi_family,2500.0
+Hamburg,2015-07-01,2015,3,multi_family,2500.0
+Hamburg,2015-10-01,2015,4,multi_family,2300.0
+Hamburg,2016-01-01,2016,1,multi_family,2700.0
+Hamburg,2016-04-01,2016,2,multi_family,2600.0
+Hamburg,2016-07-01,2016,3,multi_family,2700.0
+Hamburg,2016-10-01,2016,4,multi_family,2900.0
+Hamburg,2017-01-01,2017,1,multi_family,2700.0
+Hamburg,2017-04-01,2017,2,multi_family,3100.0
+Hamburg,2017-07-01,2017,3,multi_family,3200.0
+Hamburg,2017-10-01,2017,4,multi_family,3100.0
+Hamburg,2018-01-01,2018,1,multi_family,3300.0
+Hamburg,2018-04-01,2018,2,multi_family,3400.0
+Hamburg,2018-07-01,2018,3,multi_family,3400.0
+Hamburg,2018-10-01,2018,4,multi_family,3300.0
+Hamburg,2019-01-01,2019,1,multi_family,3400.0
+Hamburg,2019-04-01,2019,2,multi_family,3700.0
+Hamburg,2019-07-01,2019,3,multi_family,3600.0
+Hamburg,2019-10-01,2019,4,multi_family,4100.0
+Hamburg,2020-01-01,2020,1,multi_family,3400.0
+Hamburg,2020-04-01,2020,2,multi_family,4100.0
+Hamburg,2020-07-01,2020,3,multi_family,4000.0
+Hamburg,2020-10-01,2020,4,multi_family,3800.0
+Hamburg,2021-01-01,2021,1,multi_family,4500.0
+Hamburg,2021-04-01,2021,2,multi_family,4800.0
+Hamburg,2021-07-01,2021,3,multi_family,4300.0
+Hamburg,2021-10-01,2021,4,multi_family,4200.0
+Hamburg,2022-01-01,2022,1,multi_family,4500.0
+Hamburg,2022-04-01,2022,2,multi_family,4600.0
+Hamburg,2022-07-01,2022,3,multi_family,4200.0
+Hamburg,2022-10-01,2022,4,multi_family,3600.0
+Hamburg,2023-01-01,2023,1,multi_family,3200.0
+Hamburg,2023-04-01,2023,2,multi_family,3200.0
+Hamburg,2023-07-01,2023,3,multi_family,3300.0
+Hamburg,2023-10-01,2023,4,multi_family,3100.0
+Hamburg,2024-01-01,2024,1,multi_family,2800.0
+Hamburg,2024-04-01,2024,2,multi_family,3200.0
+Hamburg,2024-07-01,2024,3,multi_family,2900.0
+Hamburg,2024-10-01,2024,4,multi_family,3100.0
+Luebeck,2005-01-01,2005,1,single_family,1400.0
+Luebeck,2005-04-01,2005,2,single_family,1400.0
+Luebeck,2005-07-01,2005,3,single_family,1400.0
+Luebeck,2005-10-01,2005,4,single_family,1500.0
+Luebeck,2006-01-01,2006,1,single_family,1500.0
+Luebeck,2006-04-01,2006,2,single_family,1600.0
+Luebeck,2006-07-01,2006,3,single_family,1400.0
+Luebeck,2006-10-01,2006,4,single_family,1500.0
+Luebeck,2007-01-01,2007,1,single_family,1400.0
+Luebeck,2007-04-01,2007,2,single_family,1400.0
+Luebeck,2007-07-01,2007,3,single_family,1500.0
+Luebeck,2007-10-01,2007,4,single_family,1500.0
+Luebeck,2008-01-01,2008,1,single_family,1400.0
+Luebeck,2008-04-01,2008,2,single_family,1500.0
+Luebeck,2008-07-01,2008,3,single_family,1400.0
+Luebeck,2008-10-01,2008,4,single_family,1400.0
+Luebeck,2009-01-01,2009,1,single_family,1400.0
+Luebeck,2009-04-01,2009,2,single_family,1500.0
+Luebeck,2009-07-01,2009,3,single_family,1400.0
+Luebeck,2009-10-01,2009,4,single_family,1400.0
+Luebeck,2010-01-01,2010,1,single_family,1400.0
+Luebeck,2010-04-01,2010,2,single_family,1400.0
+Luebeck,2010-07-01,2010,3,single_family,1500.0
+Luebeck,2010-10-01,2010,4,single_family,1600.0
+Luebeck,2011-01-01,2011,1,single_family,1500.0
+Luebeck,2011-04-01,2011,2,single_family,1600.0
+Luebeck,2011-07-01,2011,3,single_family,1600.0
+Luebeck,2011-10-01,2011,4,single_family,1700.0
+Luebeck,2012-01-01,2012,1,single_family,1700.0
+Luebeck,2012-04-01,2012,2,single_family,1700.0
+Luebeck,2012-07-01,2012,3,single_family,1700.0
+Luebeck,2012-10-01,2012,4,single_family,1900.0
+Luebeck,2013-01-01,2013,1,single_family,1800.0
+Luebeck,2013-04-01,2013,2,single_family,1600.0
+Luebeck,2013-07-01,2013,3,single_family,1800.0
+Luebeck,2013-10-01,2013,4,single_family,1800.0
+Luebeck,2014-01-01,2014,1,single_family,1500.0
+Luebeck,2014-04-01,2014,2,single_family,1800.0
+Luebeck,2014-07-01,2014,3,single_family,1700.0
+Luebeck,2014-10-01,2014,4,single_family,1800.0
+Luebeck,2015-01-01,2015,1,single_family,1900.0
+Luebeck,2015-04-01,2015,2,single_family,2000.0
+Luebeck,2015-07-01,2015,3,single_family,1900.0
+Luebeck,2015-10-01,2015,4,single_family,2000.0
+Luebeck,2016-01-01,2016,1,single_family,2000.0
+Luebeck,2016-04-01,2016,2,single_family,2100.0
+Luebeck,2016-07-01,2016,3,single_family,2100.0
+Luebeck,2016-10-01,2016,4,single_family,2200.0
+Luebeck,2017-01-01,2017,1,single_family,2200.0
+Luebeck,2017-04-01,2017,2,single_family,2100.0
+Luebeck,2017-07-01,2017,3,single_family,2400.0
+Luebeck,2017-10-01,2017,4,single_family,2500.0
+Luebeck,2018-01-01,2018,1,single_family,2200.0
+Luebeck,2018-04-01,2018,2,single_family,2400.0
+Luebeck,2018-07-01,2018,3,single_family,2500.0
+Luebeck,2018-10-01,2018,4,single_family,2400.0
+Luebeck,2019-01-01,2019,1,single_family,2500.0
+Luebeck,2019-04-01,2019,2,single_family,2600.0
+Luebeck,2019-07-01,2019,3,single_family,2600.0
+Luebeck,2019-10-01,2019,4,single_family,2800.0
+Luebeck,2020-01-01,2020,1,single_family,2700.0
+Luebeck,2020-04-01,2020,2,single_family,2900.0
+Luebeck,2020-07-01,2020,3,single_family,3000.0
+Luebeck,2020-10-01,2020,4,single_family,2900.0
+Luebeck,2021-01-01,2021,1,single_family,3100.0
+Luebeck,2021-04-01,2021,2,single_family,3500.0
+Luebeck,2021-07-01,2021,3,single_family,3300.0
+Luebeck,2021-10-01,2021,4,single_family,3600.0
+Luebeck,2022-01-01,2022,1,single_family,3900.0
+Luebeck,2022-04-01,2022,2,single_family,4100.0
+Luebeck,2022-07-01,2022,3,single_family,3900.0
+Luebeck,2022-10-01,2022,4,single_family,3300.0
+Luebeck,2023-01-01,2023,1,single_family,3800.0
+Luebeck,2023-04-01,2023,2,single_family,3600.0
+Luebeck,2023-07-01,2023,3,single_family,3200.0
+Luebeck,2023-10-01,2023,4,single_family,3400.0
+Luebeck,2024-01-01,2024,1,single_family,3300.0
+Luebeck,2024-04-01,2024,2,single_family,3300.0
+Luebeck,2024-07-01,2024,3,single_family,3200.0
+Luebeck,2024-10-01,2024,4,single_family,3200.0
+Luebeck,2005-01-01,2005,1,apartment,1400.0
+Luebeck,2005-04-01,2005,2,apartment,1400.0
+Luebeck,2005-07-01,2005,3,apartment,1400.0
+Luebeck,2005-10-01,2005,4,apartment,1300.0
+Luebeck,2006-01-01,2006,1,apartment,1400.0
+Luebeck,2006-04-01,2006,2,apartment,1600.0
+Luebeck,2006-07-01,2006,3,apartment,1600.0
+Luebeck,2006-10-01,2006,4,apartment,1400.0
+Luebeck,2007-01-01,2007,1,apartment,1500.0
+Luebeck,2007-04-01,2007,2,apartment,1500.0
+Luebeck,2007-07-01,2007,3,apartment,1600.0
+Luebeck,2007-10-01,2007,4,apartment,1600.0
+Luebeck,2008-01-01,2008,1,apartment,1400.0
+Luebeck,2008-04-01,2008,2,apartment,1500.0
+Luebeck,2008-07-01,2008,3,apartment,1300.0
+Luebeck,2008-10-01,2008,4,apartment,1500.0
+Luebeck,2009-01-01,2009,1,apartment,1300.0
+Luebeck,2009-04-01,2009,2,apartment,1300.0
+Luebeck,2009-07-01,2009,3,apartment,1400.0
+Luebeck,2009-10-01,2009,4,apartment,1500.0
+Luebeck,2010-01-01,2010,1,apartment,1600.0
+Luebeck,2010-04-01,2010,2,apartment,1600.0
+Luebeck,2010-07-01,2010,3,apartment,1700.0
+Luebeck,2010-10-01,2010,4,apartment,1700.0
+Luebeck,2011-01-01,2011,1,apartment,1800.0
+Luebeck,2011-04-01,2011,2,apartment,1700.0
+Luebeck,2011-07-01,2011,3,apartment,1700.0
+Luebeck,2011-10-01,2011,4,apartment,1900.0
+Luebeck,2012-01-01,2012,1,apartment,1700.0
+Luebeck,2012-04-01,2012,2,apartment,1800.0
+Luebeck,2012-07-01,2012,3,apartment,1800.0
+Luebeck,2012-10-01,2012,4,apartment,1900.0
+Luebeck,2013-01-01,2013,1,apartment,1800.0
+Luebeck,2013-04-01,2013,2,apartment,1800.0
+Luebeck,2013-07-01,2013,3,apartment,1700.0
+Luebeck,2013-10-01,2013,4,apartment,1800.0
+Luebeck,2014-01-01,2014,1,apartment,1700.0
+Luebeck,2014-04-01,2014,2,apartment,1800.0
+Luebeck,2014-07-01,2014,3,apartment,2000.0
+Luebeck,2014-10-01,2014,4,apartment,2000.0
+Luebeck,2015-01-01,2015,1,apartment,1900.0
+Luebeck,2015-04-01,2015,2,apartment,2000.0
+Luebeck,2015-07-01,2015,3,apartment,2100.0
+Luebeck,2015-10-01,2015,4,apartment,2500.0
+Luebeck,2016-01-01,2016,1,apartment,2100.0
+Luebeck,2016-04-01,2016,2,apartment,2600.0
+Luebeck,2016-07-01,2016,3,apartment,3100.0
+Luebeck,2016-10-01,2016,4,apartment,3700.0
+Luebeck,2017-01-01,2017,1,apartment,4000.0
+Luebeck,2017-04-01,2017,2,apartment,3700.0
+Luebeck,2017-07-01,2017,3,apartment,3500.0
+Luebeck,2017-10-01,2017,4,apartment,3400.0
+Luebeck,2018-01-01,2018,1,apartment,3400.0
+Luebeck,2018-04-01,2018,2,apartment,3500.0
+Luebeck,2018-07-01,2018,3,apartment,3600.0
+Luebeck,2018-10-01,2018,4,apartment,3400.0
+Luebeck,2019-01-01,2019,1,apartment,3300.0
+Luebeck,2019-04-01,2019,2,apartment,4000.0
+Luebeck,2019-07-01,2019,3,apartment,4000.0
+Luebeck,2019-10-01,2019,4,apartment,3500.0
+Luebeck,2020-01-01,2020,1,apartment,3300.0
+Luebeck,2020-04-01,2020,2,apartment,3800.0
+Luebeck,2020-07-01,2020,3,apartment,3800.0
+Luebeck,2020-10-01,2020,4,apartment,3900.0
+Luebeck,2021-01-01,2021,1,apartment,3900.0
+Luebeck,2021-04-01,2021,2,apartment,4300.0
+Luebeck,2021-07-01,2021,3,apartment,4300.0
+Luebeck,2021-10-01,2021,4,apartment,4600.0
+Luebeck,2022-01-01,2022,1,apartment,5400.0
+Luebeck,2022-04-01,2022,2,apartment,5100.0
+Luebeck,2022-07-01,2022,3,apartment,4900.0
+Luebeck,2022-10-01,2022,4,apartment,4400.0
+Luebeck,2023-01-01,2023,1,apartment,4800.0
+Luebeck,2023-04-01,2023,2,apartment,4000.0
+Luebeck,2023-07-01,2023,3,apartment,3800.0
+Luebeck,2023-10-01,2023,4,apartment,3800.0
+Luebeck,2024-01-01,2024,1,apartment,2900.0
+Luebeck,2024-04-01,2024,2,apartment,3900.0
+Luebeck,2024-07-01,2024,3,apartment,4400.0
+Luebeck,2024-10-01,2024,4,apartment,3800.0
+Karlsruhe,2005-01-01,2005,1,single_family,2200.0
+Karlsruhe,2005-04-01,2005,2,single_family,2200.0
+Karlsruhe,2005-07-01,2005,3,single_family,2200.0
+Karlsruhe,2005-10-01,2005,4,single_family,2300.0
+Karlsruhe,2006-01-01,2006,1,single_family,2500.0
+Karlsruhe,2006-04-01,2006,2,single_family,2300.0
+Karlsruhe,2006-07-01,2006,3,single_family,2300.0
+Karlsruhe,2006-10-01,2006,4,single_family,2200.0
+Karlsruhe,2007-01-01,2007,1,single_family,2200.0
+Karlsruhe,2007-04-01,2007,2,single_family,2300.0
+Karlsruhe,2007-07-01,2007,3,single_family,2300.0
+Karlsruhe,2007-10-01,2007,4,single_family,2300.0
+Karlsruhe,2008-01-01,2008,1,single_family,2300.0
+Karlsruhe,2008-04-01,2008,2,single_family,2400.0
+Karlsruhe,2008-07-01,2008,3,single_family,2400.0
+Karlsruhe,2008-10-01,2008,4,single_family,2000.0
+Karlsruhe,2009-01-01,2009,1,single_family,2300.0
+Karlsruhe,2009-04-01,2009,2,single_family,2200.0
+Karlsruhe,2009-07-01,2009,3,single_family,2100.0
+Karlsruhe,2009-10-01,2009,4,single_family,2200.0
+Karlsruhe,2010-01-01,2010,1,single_family,2300.0
+Karlsruhe,2010-04-01,2010,2,single_family,2300.0
+Karlsruhe,2010-07-01,2010,3,single_family,2400.0
+Karlsruhe,2010-10-01,2010,4,single_family,2300.0
+Karlsruhe,2011-01-01,2011,1,single_family,2400.0
+Karlsruhe,2011-04-01,2011,2,single_family,2300.0
+Karlsruhe,2011-07-01,2011,3,single_family,2400.0
+Karlsruhe,2011-10-01,2011,4,single_family,2300.0
+Karlsruhe,2012-01-01,2012,1,single_family,2400.0
+Karlsruhe,2012-04-01,2012,2,single_family,2500.0
+Karlsruhe,2012-07-01,2012,3,single_family,2500.0
+Karlsruhe,2012-10-01,2012,4,single_family,2400.0
+Karlsruhe,2013-01-01,2013,1,single_family,2500.0
+Karlsruhe,2013-04-01,2013,2,single_family,2600.0
+Karlsruhe,2013-07-01,2013,3,single_family,2700.0
+Karlsruhe,2013-10-01,2013,4,single_family,2800.0
+Karlsruhe,2014-01-01,2014,1,single_family,2700.0
+Karlsruhe,2014-04-01,2014,2,single_family,2700.0
+Karlsruhe,2014-07-01,2014,3,single_family,2900.0
+Karlsruhe,2014-10-01,2014,4,single_family,2800.0
+Karlsruhe,2015-01-01,2015,1,single_family,2700.0
+Karlsruhe,2015-04-01,2015,2,single_family,2900.0
+Karlsruhe,2015-07-01,2015,3,single_family,2900.0
+Karlsruhe,2015-10-01,2015,4,single_family,3100.0
+Karlsruhe,2016-01-01,2016,1,single_family,2900.0
+Karlsruhe,2016-04-01,2016,2,single_family,3000.0
+Karlsruhe,2016-07-01,2016,3,single_family,3400.0
+Karlsruhe,2016-10-01,2016,4,single_family,3500.0
+Karlsruhe,2017-01-01,2017,1,single_family,3300.0
+Karlsruhe,2017-04-01,2017,2,single_family,3500.0
+Karlsruhe,2017-07-01,2017,3,single_family,3400.0
+Karlsruhe,2017-10-01,2017,4,single_family,3100.0
+Karlsruhe,2018-01-01,2018,1,single_family,3300.0
+Karlsruhe,2018-04-01,2018,2,single_family,3500.0
+Karlsruhe,2018-07-01,2018,3,single_family,3900.0
+Karlsruhe,2018-10-01,2018,4,single_family,3800.0
+Karlsruhe,2019-01-01,2019,1,single_family,3700.0
+Karlsruhe,2019-04-01,2019,2,single_family,3800.0
+Karlsruhe,2019-07-01,2019,3,single_family,3600.0
+Karlsruhe,2019-10-01,2019,4,single_family,3900.0
+Karlsruhe,2020-01-01,2020,1,single_family,4000.0
+Karlsruhe,2020-04-01,2020,2,single_family,4400.0
+Karlsruhe,2020-07-01,2020,3,single_family,4300.0
+Karlsruhe,2020-10-01,2020,4,single_family,4400.0
+Karlsruhe,2021-01-01,2021,1,single_family,5000.0
+Karlsruhe,2021-04-01,2021,2,single_family,4800.0
+Karlsruhe,2021-07-01,2021,3,single_family,5000.0
+Karlsruhe,2021-10-01,2021,4,single_family,5200.0
+Karlsruhe,2022-01-01,2022,1,single_family,5400.0
+Karlsruhe,2022-04-01,2022,2,single_family,5500.0
+Karlsruhe,2022-07-01,2022,3,single_family,4900.0
+Karlsruhe,2022-10-01,2022,4,single_family,4800.0
+Karlsruhe,2023-01-01,2023,1,single_family,4500.0
+Karlsruhe,2023-04-01,2023,2,single_family,4300.0
+Karlsruhe,2023-07-01,2023,3,single_family,4900.0
+Karlsruhe,2023-10-01,2023,4,single_family,4600.0
+Karlsruhe,2024-01-01,2024,1,single_family,4200.0
+Karlsruhe,2024-04-01,2024,2,single_family,4200.0
+Karlsruhe,2024-07-01,2024,3,single_family,4200.0
+Karlsruhe,2024-10-01,2024,4,single_family,4500.0
+Karlsruhe,2005-01-01,2005,1,apartment,1600.0
+Karlsruhe,2005-04-01,2005,2,apartment,1500.0
+Karlsruhe,2005-07-01,2005,3,apartment,1600.0
+Karlsruhe,2005-10-01,2005,4,apartment,1600.0
+Karlsruhe,2006-01-01,2006,1,apartment,1500.0
+Karlsruhe,2006-04-01,2006,2,apartment,1800.0
+Karlsruhe,2006-07-01,2006,3,apartment,1600.0
+Karlsruhe,2006-10-01,2006,4,apartment,1700.0
+Karlsruhe,2007-01-01,2007,1,apartment,1600.0
+Karlsruhe,2007-04-01,2007,2,apartment,1700.0
+Karlsruhe,2007-07-01,2007,3,apartment,1700.0
+Karlsruhe,2007-10-01,2007,4,apartment,1600.0
+Karlsruhe,2008-01-01,2008,1,apartment,1700.0
+Karlsruhe,2008-04-01,2008,2,apartment,1700.0
+Karlsruhe,2008-07-01,2008,3,apartment,1600.0
+Karlsruhe,2008-10-01,2008,4,apartment,1600.0
+Karlsruhe,2009-01-01,2009,1,apartment,1700.0
+Karlsruhe,2009-04-01,2009,2,apartment,1700.0
+Karlsruhe,2009-07-01,2009,3,apartment,1800.0
+Karlsruhe,2009-10-01,2009,4,apartment,1800.0
+Karlsruhe,2010-01-01,2010,1,apartment,1800.0
+Karlsruhe,2010-04-01,2010,2,apartment,1900.0
+Karlsruhe,2010-07-01,2010,3,apartment,1900.0
+Karlsruhe,2010-10-01,2010,4,apartment,1900.0
+Karlsruhe,2011-01-01,2011,1,apartment,1800.0
+Karlsruhe,2011-04-01,2011,2,apartment,1800.0
+Karlsruhe,2011-07-01,2011,3,apartment,1800.0
+Karlsruhe,2011-10-01,2011,4,apartment,1800.0
+Karlsruhe,2012-01-01,2012,1,apartment,2100.0
+Karlsruhe,2012-04-01,2012,2,apartment,2100.0
+Karlsruhe,2012-07-01,2012,3,apartment,2000.0
+Karlsruhe,2012-10-01,2012,4,apartment,2000.0
+Karlsruhe,2013-01-01,2013,1,apartment,2200.0
+Karlsruhe,2013-04-01,2013,2,apartment,2100.0
+Karlsruhe,2013-07-01,2013,3,apartment,2200.0
+Karlsruhe,2013-10-01,2013,4,apartment,2200.0
+Karlsruhe,2014-01-01,2014,1,apartment,2100.0
+Karlsruhe,2014-04-01,2014,2,apartment,2100.0
+Karlsruhe,2014-07-01,2014,3,apartment,2200.0
+Karlsruhe,2014-10-01,2014,4,apartment,2200.0
+Karlsruhe,2015-01-01,2015,1,apartment,2300.0
+Karlsruhe,2015-04-01,2015,2,apartment,2200.0
+Karlsruhe,2015-07-01,2015,3,apartment,2200.0
+Karlsruhe,2015-10-01,2015,4,apartment,2300.0
+Karlsruhe,2016-01-01,2016,1,apartment,2400.0
+Karlsruhe,2016-04-01,2016,2,apartment,2400.0
+Karlsruhe,2016-07-01,2016,3,apartment,2600.0
+Karlsruhe,2016-10-01,2016,4,apartment,2700.0
+Karlsruhe,2017-01-01,2017,1,apartment,2600.0
+Karlsruhe,2017-04-01,2017,2,apartment,2800.0
+Karlsruhe,2017-07-01,2017,3,apartment,2800.0
+Karlsruhe,2017-10-01,2017,4,apartment,2800.0
+Karlsruhe,2018-01-01,2018,1,apartment,3000.0
+Karlsruhe,2018-04-01,2018,2,apartment,3100.0
+Karlsruhe,2018-07-01,2018,3,apartment,3000.0
+Karlsruhe,2018-10-01,2018,4,apartment,3100.0
+Karlsruhe,2019-01-01,2019,1,apartment,3100.0
+Karlsruhe,2019-04-01,2019,2,apartment,3300.0
+Karlsruhe,2019-07-01,2019,3,apartment,3100.0
+Karlsruhe,2019-10-01,2019,4,apartment,3500.0
+Karlsruhe,2020-01-01,2020,1,apartment,3500.0
+Karlsruhe,2020-04-01,2020,2,apartment,3500.0
+Karlsruhe,2020-07-01,2020,3,apartment,3700.0
+Karlsruhe,2020-10-01,2020,4,apartment,3700.0
+Karlsruhe,2021-01-01,2021,1,apartment,3800.0
+Karlsruhe,2021-04-01,2021,2,apartment,3900.0
+Karlsruhe,2021-07-01,2021,3,apartment,4000.0
+Karlsruhe,2021-10-01,2021,4,apartment,4200.0
+Karlsruhe,2022-01-01,2022,1,apartment,4100.0
+Karlsruhe,2022-04-01,2022,2,apartment,4200.0
+Karlsruhe,2022-07-01,2022,3,apartment,4100.0
+Karlsruhe,2022-10-01,2022,4,apartment,3900.0
+Karlsruhe,2023-01-01,2023,1,apartment,3900.0
+Karlsruhe,2023-04-01,2023,2,apartment,3800.0
+Karlsruhe,2023-07-01,2023,3,apartment,3600.0
+Karlsruhe,2023-10-01,2023,4,apartment,3600.0
+Karlsruhe,2024-01-01,2024,1,apartment,3600.0
+Karlsruhe,2024-04-01,2024,2,apartment,3800.0
+Karlsruhe,2024-07-01,2024,3,apartment,3800.0
+Karlsruhe,2024-10-01,2024,4,apartment,3600.0
+Munich,2005-01-01,2005,1,apartment,2800.0
+Munich,2005-04-01,2005,2,apartment,2800.0
+Munich,2005-07-01,2005,3,apartment,2900.0
+Munich,2005-10-01,2005,4,apartment,2900.0
+Munich,2006-01-01,2006,1,apartment,2800.0
+Munich,2006-04-01,2006,2,apartment,2800.0
+Munich,2006-07-01,2006,3,apartment,2900.0
+Munich,2006-10-01,2006,4,apartment,2800.0
+Munich,2007-01-01,2007,1,apartment,2800.0
+Munich,2007-04-01,2007,2,apartment,2900.0
+Munich,2007-07-01,2007,3,apartment,2800.0
+Munich,2007-10-01,2007,4,apartment,2900.0
+Munich,2008-01-01,2008,1,apartment,2900.0
+Munich,2008-04-01,2008,2,apartment,2900.0
+Munich,2008-07-01,2008,3,apartment,3000.0
+Munich,2008-10-01,2008,4,apartment,2900.0
+Munich,2009-01-01,2009,1,apartment,2900.0
+Munich,2009-04-01,2009,2,apartment,3000.0
+Munich,2009-07-01,2009,3,apartment,3100.0
+Munich,2009-10-01,2009,4,apartment,3200.0
+Munich,2010-01-01,2010,1,apartment,3200.0
+Munich,2010-04-01,2010,2,apartment,3200.0
+Munich,2010-07-01,2010,3,apartment,3300.0
+Munich,2010-10-01,2010,4,apartment,3700.0
+Munich,2011-01-01,2011,1,apartment,3500.0
+Munich,2011-04-01,2011,2,apartment,3700.0
+Munich,2011-07-01,2011,3,apartment,3700.0
+Munich,2011-10-01,2011,4,apartment,4000.0
+Munich,2012-01-01,2012,1,apartment,4000.0
+Munich,2012-04-01,2012,2,apartment,4100.0
+Munich,2012-07-01,2012,3,apartment,4400.0
+Munich,2012-10-01,2012,4,apartment,4600.0
+Munich,2013-01-01,2013,1,apartment,4500.0
+Munich,2013-04-01,2013,2,apartment,4700.0
+Munich,2013-07-01,2013,3,apartment,4800.0
+Munich,2013-10-01,2013,4,apartment,4800.0
+Munich,2014-01-01,2014,1,apartment,5000.0
+Munich,2014-04-01,2014,2,apartment,5200.0
+Munich,2014-07-01,2014,3,apartment,5200.0
+Munich,2014-10-01,2014,4,apartment,5400.0
+Munich,2015-01-01,2015,1,apartment,5500.0
+Munich,2015-04-01,2015,2,apartment,5700.0
+Munich,2015-07-01,2015,3,apartment,5900.0
+Munich,2015-10-01,2015,4,apartment,6100.0
+Munich,2016-01-01,2016,1,apartment,6200.0
+Munich,2016-04-01,2016,2,apartment,6400.0
+Munich,2016-07-01,2016,3,apartment,6600.0
+Munich,2016-10-01,2016,4,apartment,6800.0
+Munich,2017-01-01,2017,1,apartment,6700.0
+Munich,2017-04-01,2017,2,apartment,6900.0
+Munich,2017-07-01,2017,3,apartment,7100.0
+Munich,2017-10-01,2017,4,apartment,7200.0
+Munich,2018-01-01,2018,1,apartment,7400.0
+Munich,2018-04-01,2018,2,apartment,7500.0
+Munich,2018-07-01,2018,3,apartment,7700.0
+Munich,2018-10-01,2018,4,apartment,7900.0
+Munich,2019-01-01,2019,1,apartment,7900.0
+Munich,2019-04-01,2019,2,apartment,7900.0
+Munich,2019-07-01,2019,3,apartment,8300.0
+Munich,2019-10-01,2019,4,apartment,8500.0
+Munich,2020-01-01,2020,1,apartment,8800.0
+Munich,2020-04-01,2020,2,apartment,8700.0
+Munich,2020-07-01,2020,3,apartment,8900.0
+Munich,2020-10-01,2020,4,apartment,9300.0
+Munich,2021-01-01,2021,1,apartment,9500.0
+Munich,2021-04-01,2021,2,apartment,10000.0
+Munich,2021-07-01,2021,3,apartment,10100.0
+Munich,2021-10-01,2021,4,apartment,10300.0
+Munich,2022-01-01,2022,1,apartment,10300.0
+Munich,2022-04-01,2022,2,apartment,10400.0
+Munich,2022-07-01,2022,3,apartment,9900.0
+Munich,2022-10-01,2022,4,apartment,9300.0
+Munich,2023-01-01,2023,1,apartment,9000.0
+Munich,2023-04-01,2023,2,apartment,8900.0
+Munich,2023-07-01,2023,3,apartment,8600.0
+Munich,2023-10-01,2023,4,apartment,8500.0
+Munich,2024-01-01,2024,1,apartment,8500.0
+Munich,2024-04-01,2024,2,apartment,8600.0
+Munich,2024-07-01,2024,3,apartment,8600.0
+Munich,2024-10-01,2024,4,apartment,8700.0
+Kreis Mettmann,2005-01-01,2005,1,single_family,2100.0
+Kreis Mettmann,2005-04-01,2005,2,single_family,2000.0
+Kreis Mettmann,2005-07-01,2005,3,single_family,2000.0
+Kreis Mettmann,2005-10-01,2005,4,single_family,2000.0
+Kreis Mettmann,2006-01-01,2006,1,single_family,2100.0
+Kreis Mettmann,2006-04-01,2006,2,single_family,2000.0
+Kreis Mettmann,2006-07-01,2006,3,single_family,2000.0
+Kreis Mettmann,2006-10-01,2006,4,single_family,2000.0
+Kreis Mettmann,2007-01-01,2007,1,single_family,2000.0
+Kreis Mettmann,2007-04-01,2007,2,single_family,1900.0
+Kreis Mettmann,2007-07-01,2007,3,single_family,2000.0
+Kreis Mettmann,2007-10-01,2007,4,single_family,2000.0
+Kreis Mettmann,2008-01-01,2008,1,single_family,1900.0
+Kreis Mettmann,2008-04-01,2008,2,single_family,2000.0
+Kreis Mettmann,2008-07-01,2008,3,single_family,2000.0
+Kreis Mettmann,2008-10-01,2008,4,single_family,1800.0
+Kreis Mettmann,2009-01-01,2009,1,single_family,1900.0
+Kreis Mettmann,2009-04-01,2009,2,single_family,1900.0
+Kreis Mettmann,2009-07-01,2009,3,single_family,1900.0
+Kreis Mettmann,2009-10-01,2009,4,single_family,1900.0
+Kreis Mettmann,2010-01-01,2010,1,single_family,1900.0
+Kreis Mettmann,2010-04-01,2010,2,single_family,2000.0
+Kreis Mettmann,2010-07-01,2010,3,single_family,2000.0
+Kreis Mettmann,2010-10-01,2010,4,single_family,1900.0
+Kreis Mettmann,2011-01-01,2011,1,single_family,2000.0
+Kreis Mettmann,2011-04-01,2011,2,single_family,2000.0
+Kreis Mettmann,2011-07-01,2011,3,single_family,2000.0
+Kreis Mettmann,2011-10-01,2011,4,single_family,2000.0
+Kreis Mettmann,2012-01-01,2012,1,single_family,2000.0
+Kreis Mettmann,2012-04-01,2012,2,single_family,2100.0
+Kreis Mettmann,2012-07-01,2012,3,single_family,2100.0
+Kreis Mettmann,2012-10-01,2012,4,single_family,2100.0
+Kreis Mettmann,2013-01-01,2013,1,single_family,2100.0
+Kreis Mettmann,2013-04-01,2013,2,single_family,2200.0
+Kreis Mettmann,2013-07-01,2013,3,single_family,2200.0
+Kreis Mettmann,2013-10-01,2013,4,single_family,2300.0
+Kreis Mettmann,2014-01-01,2014,1,single_family,2200.0
+Kreis Mettmann,2014-04-01,2014,2,single_family,2300.0
+Kreis Mettmann,2014-07-01,2014,3,single_family,2300.0
+Kreis Mettmann,2014-10-01,2014,4,single_family,2400.0
+Kreis Mettmann,2015-01-01,2015,1,single_family,2300.0
+Kreis Mettmann,2015-04-01,2015,2,single_family,2400.0
+Kreis Mettmann,2015-07-01,2015,3,single_family,2400.0
+Kreis Mettmann,2015-10-01,2015,4,single_family,2500.0
+Kreis Mettmann,2016-01-01,2016,1,single_family,2400.0
+Kreis Mettmann,2016-04-01,2016,2,single_family,2500.0
+Kreis Mettmann,2016-07-01,2016,3,single_family,2500.0
+Kreis Mettmann,2016-10-01,2016,4,single_family,2500.0
+Kreis Mettmann,2017-01-01,2017,1,single_family,2600.0
+Kreis Mettmann,2017-04-01,2017,2,single_family,2800.0
+Kreis Mettmann,2017-07-01,2017,3,single_family,2700.0
+Kreis Mettmann,2017-10-01,2017,4,single_family,2800.0
+Kreis Mettmann,2018-01-01,2018,1,single_family,2700.0
+Kreis Mettmann,2018-04-01,2018,2,single_family,2900.0
+Kreis Mettmann,2018-07-01,2018,3,single_family,2900.0
+Kreis Mettmann,2018-10-01,2018,4,single_family,2900.0
+Kreis Mettmann,2019-01-01,2019,1,single_family,2800.0
+Kreis Mettmann,2019-04-01,2019,2,single_family,3200.0
+Kreis Mettmann,2019-07-01,2019,3,single_family,3300.0
+Kreis Mettmann,2019-10-01,2019,4,single_family,3300.0
+Kreis Mettmann,2020-01-01,2020,1,single_family,3300.0
+Kreis Mettmann,2020-04-01,2020,2,single_family,3300.0
+Kreis Mettmann,2020-07-01,2020,3,single_family,3600.0
+Kreis Mettmann,2020-10-01,2020,4,single_family,3700.0
+Kreis Mettmann,2021-01-01,2021,1,single_family,3800.0
+Kreis Mettmann,2021-04-01,2021,2,single_family,3900.0
+Kreis Mettmann,2021-07-01,2021,3,single_family,3800.0
+Kreis Mettmann,2021-10-01,2021,4,single_family,4000.0
+Kreis Mettmann,2022-01-01,2022,1,single_family,4300.0
+Kreis Mettmann,2022-04-01,2022,2,single_family,4200.0
+Kreis Mettmann,2022-07-01,2022,3,single_family,4100.0
+Kreis Mettmann,2022-10-01,2022,4,single_family,4000.0
+Kreis Mettmann,2023-01-01,2023,1,single_family,3600.0
+Kreis Mettmann,2023-04-01,2023,2,single_family,3600.0
+Kreis Mettmann,2023-07-01,2023,3,single_family,3500.0
+Kreis Mettmann,2023-10-01,2023,4,single_family,3400.0
+Kreis Mettmann,2024-01-01,2024,1,single_family,3400.0
+Kreis Mettmann,2024-04-01,2024,2,single_family,3500.0
+Kreis Mettmann,2024-07-01,2024,3,single_family,3500.0
+Kreis Mettmann,2024-10-01,2024,4,single_family,3700.0
+Kreis Mettmann,2005-01-01,2005,1,apartment,1500.0
+Kreis Mettmann,2005-04-01,2005,2,apartment,1600.0
+Kreis Mettmann,2005-07-01,2005,3,apartment,1500.0
+Kreis Mettmann,2005-10-01,2005,4,apartment,1500.0
+Kreis Mettmann,2006-01-01,2006,1,apartment,1400.0
+Kreis Mettmann,2006-04-01,2006,2,apartment,1400.0
+Kreis Mettmann,2006-07-01,2006,3,apartment,1500.0
+Kreis Mettmann,2006-10-01,2006,4,apartment,1400.0
+Kreis Mettmann,2007-01-01,2007,1,apartment,1400.0
+Kreis Mettmann,2007-04-01,2007,2,apartment,1500.0
+Kreis Mettmann,2007-07-01,2007,3,apartment,1400.0
+Kreis Mettmann,2007-10-01,2007,4,apartment,1400.0
+Kreis Mettmann,2008-01-01,2008,1,apartment,1400.0
+Kreis Mettmann,2008-04-01,2008,2,apartment,1400.0
+Kreis Mettmann,2008-07-01,2008,3,apartment,1400.0
+Kreis Mettmann,2008-10-01,2008,4,apartment,1400.0
+Kreis Mettmann,2009-01-01,2009,1,apartment,1400.0
+Kreis Mettmann,2009-04-01,2009,2,apartment,1500.0
+Kreis Mettmann,2009-07-01,2009,3,apartment,1400.0
+Kreis Mettmann,2009-10-01,2009,4,apartment,1400.0
+Kreis Mettmann,2010-01-01,2010,1,apartment,1400.0
+Kreis Mettmann,2010-04-01,2010,2,apartment,1500.0
+Kreis Mettmann,2010-07-01,2010,3,apartment,1300.0
+Kreis Mettmann,2010-10-01,2010,4,apartment,1400.0
+Kreis Mettmann,2011-01-01,2011,1,apartment,1400.0
+Kreis Mettmann,2011-04-01,2011,2,apartment,1400.0
+Kreis Mettmann,2011-07-01,2011,3,apartment,1500.0
+Kreis Mettmann,2011-10-01,2011,4,apartment,1400.0
+Kreis Mettmann,2012-01-01,2012,1,apartment,1500.0
+Kreis Mettmann,2012-04-01,2012,2,apartment,1600.0
+Kreis Mettmann,2012-07-01,2012,3,apartment,1700.0
+Kreis Mettmann,2012-10-01,2012,4,apartment,1600.0
+Kreis Mettmann,2013-01-01,2013,1,apartment,1400.0
+Kreis Mettmann,2013-04-01,2013,2,apartment,1500.0
+Kreis Mettmann,2013-07-01,2013,3,apartment,1600.0
+Kreis Mettmann,2013-10-01,2013,4,apartment,1700.0
+Kreis Mettmann,2014-01-01,2014,1,apartment,1700.0
+Kreis Mettmann,2014-04-01,2014,2,apartment,1700.0
+Kreis Mettmann,2014-07-01,2014,3,apartment,1700.0
+Kreis Mettmann,2014-10-01,2014,4,apartment,1800.0
+Kreis Mettmann,2015-01-01,2015,1,apartment,1700.0
+Kreis Mettmann,2015-04-01,2015,2,apartment,1800.0
+Kreis Mettmann,2015-07-01,2015,3,apartment,1500.0
+Kreis Mettmann,2015-10-01,2015,4,apartment,1800.0
+Kreis Mettmann,2016-01-01,2016,1,apartment,1900.0
+Kreis Mettmann,2016-04-01,2016,2,apartment,1900.0
+Kreis Mettmann,2016-07-01,2016,3,apartment,1900.0
+Kreis Mettmann,2016-10-01,2016,4,apartment,2000.0
+Kreis Mettmann,2017-01-01,2017,1,apartment,2200.0
+Kreis Mettmann,2017-04-01,2017,2,apartment,1900.0
+Kreis Mettmann,2017-07-01,2017,3,apartment,2100.0
+Kreis Mettmann,2017-10-01,2017,4,apartment,2000.0
+Kreis Mettmann,2018-01-01,2018,1,apartment,2400.0
+Kreis Mettmann,2018-04-01,2018,2,apartment,2200.0
+Kreis Mettmann,2018-07-01,2018,3,apartment,2200.0
+Kreis Mettmann,2018-10-01,2018,4,apartment,2400.0
+Kreis Mettmann,2019-01-01,2019,1,apartment,2300.0
+Kreis Mettmann,2019-04-01,2019,2,apartment,2400.0
+Kreis Mettmann,2019-07-01,2019,3,apartment,2400.0
+Kreis Mettmann,2019-10-01,2019,4,apartment,2400.0
+Kreis Mettmann,2020-01-01,2020,1,apartment,2200.0
+Kreis Mettmann,2020-04-01,2020,2,apartment,2300.0
+Kreis Mettmann,2020-07-01,2020,3,apartment,2300.0
+Kreis Mettmann,2020-10-01,2020,4,apartment,2800.0
+Kreis Mettmann,2021-01-01,2021,1,apartment,2800.0
+Kreis Mettmann,2021-04-01,2021,2,apartment,2700.0
+Kreis Mettmann,2021-07-01,2021,3,apartment,2800.0
+Kreis Mettmann,2021-10-01,2021,4,apartment,3000.0
+Kreis Mettmann,2022-01-01,2022,1,apartment,3100.0
+Kreis Mettmann,2022-04-01,2022,2,apartment,3100.0
+Kreis Mettmann,2022-07-01,2022,3,apartment,2900.0
+Kreis Mettmann,2022-10-01,2022,4,apartment,3000.0
+Kreis Mettmann,2023-01-01,2023,1,apartment,2800.0
+Kreis Mettmann,2023-04-01,2023,2,apartment,2600.0
+Kreis Mettmann,2023-07-01,2023,3,apartment,2700.0
+Kreis Mettmann,2023-10-01,2023,4,apartment,2800.0
+Kreis Mettmann,2024-01-01,2024,1,apartment,3000.0
+Kreis Mettmann,2024-04-01,2024,2,apartment,2700.0
+Kreis Mettmann,2024-07-01,2024,3,apartment,2700.0
+Kreis Mettmann,2024-10-01,2024,4,apartment,2800.0
+Muenster,2005-01-01,2005,1,single_family,1900.0
+Muenster,2005-04-01,2005,2,single_family,2000.0
+Muenster,2005-07-01,2005,3,single_family,2100.0
+Muenster,2005-10-01,2005,4,single_family,2000.0
+Muenster,2006-01-01,2006,1,single_family,2000.0
+Muenster,2006-04-01,2006,2,single_family,2000.0
+Muenster,2006-07-01,2006,3,single_family,2000.0
+Muenster,2006-10-01,2006,4,single_family,1900.0
+Muenster,2007-01-01,2007,1,single_family,1900.0
+Muenster,2007-04-01,2007,2,single_family,2000.0
+Muenster,2007-07-01,2007,3,single_family,1900.0
+Muenster,2007-10-01,2007,4,single_family,1900.0
+Muenster,2008-01-01,2008,1,single_family,1800.0
+Muenster,2008-04-01,2008,2,single_family,1800.0
+Muenster,2008-07-01,2008,3,single_family,1800.0
+Muenster,2008-10-01,2008,4,single_family,1900.0
+Muenster,2009-01-01,2009,1,single_family,1700.0
+Muenster,2009-04-01,2009,2,single_family,1900.0
+Muenster,2009-07-01,2009,3,single_family,2000.0
+Muenster,2009-10-01,2009,4,single_family,1900.0
+Muenster,2010-01-01,2010,1,single_family,2000.0
+Muenster,2010-04-01,2010,2,single_family,1900.0
+Muenster,2010-07-01,2010,3,single_family,2000.0
+Muenster,2010-10-01,2010,4,single_family,1900.0
+Muenster,2011-01-01,2011,1,single_family,1900.0
+Muenster,2011-04-01,2011,2,single_family,2000.0
+Muenster,2011-07-01,2011,3,single_family,1900.0
+Muenster,2011-10-01,2011,4,single_family,2000.0
+Muenster,2012-01-01,2012,1,single_family,2200.0
+Muenster,2012-04-01,2012,2,single_family,2100.0
+Muenster,2012-07-01,2012,3,single_family,2200.0
+Muenster,2012-10-01,2012,4,single_family,2200.0
+Muenster,2013-01-01,2013,1,single_family,2300.0
+Muenster,2013-04-01,2013,2,single_family,2300.0
+Muenster,2013-07-01,2013,3,single_family,2100.0
+Muenster,2013-10-01,2013,4,single_family,2400.0
+Muenster,2014-01-01,2014,1,single_family,2300.0
+Muenster,2014-04-01,2014,2,single_family,2400.0
+Muenster,2014-07-01,2014,3,single_family,2400.0
+Muenster,2014-10-01,2014,4,single_family,2600.0
+Muenster,2015-01-01,2015,1,single_family,2500.0
+Muenster,2015-04-01,2015,2,single_family,2700.0
+Muenster,2015-07-01,2015,3,single_family,2600.0
+Muenster,2015-10-01,2015,4,single_family,2600.0
+Muenster,2016-01-01,2016,1,single_family,2800.0
+Muenster,2016-04-01,2016,2,single_family,2800.0
+Muenster,2016-07-01,2016,3,single_family,2800.0
+Muenster,2016-10-01,2016,4,single_family,2900.0
+Muenster,2017-01-01,2017,1,single_family,3100.0
+Muenster,2017-04-01,2017,2,single_family,2900.0
+Muenster,2017-07-01,2017,3,single_family,2900.0
+Muenster,2017-10-01,2017,4,single_family,3200.0
+Muenster,2018-01-01,2018,1,single_family,3300.0
+Muenster,2018-04-01,2018,2,single_family,3500.0
+Muenster,2018-07-01,2018,3,single_family,3500.0
+Muenster,2018-10-01,2018,4,single_family,3600.0
+Muenster,2019-01-01,2019,1,single_family,3300.0
+Muenster,2019-04-01,2019,2,single_family,3600.0
+Muenster,2019-07-01,2019,3,single_family,3600.0
+Muenster,2019-10-01,2019,4,single_family,3900.0
+Muenster,2020-01-01,2020,1,single_family,3800.0
+Muenster,2020-04-01,2020,2,single_family,3800.0
+Muenster,2020-07-01,2020,3,single_family,4000.0
+Muenster,2020-10-01,2020,4,single_family,4000.0
+Muenster,2021-01-01,2021,1,single_family,4000.0
+Muenster,2021-04-01,2021,2,single_family,4600.0
+Muenster,2021-07-01,2021,3,single_family,4600.0
+Muenster,2021-10-01,2021,4,single_family,4800.0
+Muenster,2022-01-01,2022,1,single_family,4700.0
+Muenster,2022-04-01,2022,2,single_family,4900.0
+Muenster,2022-07-01,2022,3,single_family,5000.0
+Muenster,2022-10-01,2022,4,single_family,4300.0
+Muenster,2023-01-01,2023,1,single_family,4200.0
+Muenster,2023-04-01,2023,2,single_family,4300.0
+Muenster,2023-07-01,2023,3,single_family,4100.0
+Muenster,2023-10-01,2023,4,single_family,4200.0
+Muenster,2024-01-01,2024,1,single_family,3900.0
+Muenster,2024-04-01,2024,2,single_family,4100.0
+Muenster,2024-07-01,2024,3,single_family,4200.0
+Muenster,2024-10-01,2024,4,single_family,4000.0
+Muenster,2005-01-01,2005,1,apartment,1700.0
+Muenster,2005-04-01,2005,2,apartment,1600.0
+Muenster,2005-07-01,2005,3,apartment,1700.0
+Muenster,2005-10-01,2005,4,apartment,1600.0
+Muenster,2006-01-01,2006,1,apartment,1600.0
+Muenster,2006-04-01,2006,2,apartment,1700.0
+Muenster,2006-07-01,2006,3,apartment,1700.0
+Muenster,2006-10-01,2006,4,apartment,1600.0
+Muenster,2007-01-01,2007,1,apartment,1600.0
+Muenster,2007-04-01,2007,2,apartment,1600.0
+Muenster,2007-07-01,2007,3,apartment,1700.0
+Muenster,2007-10-01,2007,4,apartment,1600.0
+Muenster,2008-01-01,2008,1,apartment,1600.0
+Muenster,2008-04-01,2008,2,apartment,1700.0
+Muenster,2008-07-01,2008,3,apartment,1800.0
+Muenster,2008-10-01,2008,4,apartment,1800.0
+Muenster,2009-01-01,2009,1,apartment,1800.0
+Muenster,2009-04-01,2009,2,apartment,1800.0
+Muenster,2009-07-01,2009,3,apartment,1800.0
+Muenster,2009-10-01,2009,4,apartment,1900.0
+Muenster,2010-01-01,2010,1,apartment,1900.0
+Muenster,2010-04-01,2010,2,apartment,1900.0
+Muenster,2010-07-01,2010,3,apartment,2000.0
+Muenster,2010-10-01,2010,4,apartment,1900.0
+Muenster,2011-01-01,2011,1,apartment,2000.0
+Muenster,2011-04-01,2011,2,apartment,2000.0
+Muenster,2011-07-01,2011,3,apartment,2300.0
+Muenster,2011-10-01,2011,4,apartment,2000.0
+Muenster,2012-01-01,2012,1,apartment,2200.0
+Muenster,2012-04-01,2012,2,apartment,2300.0
+Muenster,2012-07-01,2012,3,apartment,2400.0
+Muenster,2012-10-01,2012,4,apartment,2400.0
+Muenster,2013-01-01,2013,1,apartment,2300.0
+Muenster,2013-04-01,2013,2,apartment,2300.0
+Muenster,2013-07-01,2013,3,apartment,2600.0
+Muenster,2013-10-01,2013,4,apartment,2500.0
+Muenster,2014-01-01,2014,1,apartment,2500.0
+Muenster,2014-04-01,2014,2,apartment,2400.0
+Muenster,2014-07-01,2014,3,apartment,2800.0
+Muenster,2014-10-01,2014,4,apartment,2600.0
+Muenster,2015-01-01,2015,1,apartment,2500.0
+Muenster,2015-04-01,2015,2,apartment,2600.0
+Muenster,2015-07-01,2015,3,apartment,2700.0
+Muenster,2015-10-01,2015,4,apartment,2800.0
+Muenster,2016-01-01,2016,1,apartment,2700.0
+Muenster,2016-04-01,2016,2,apartment,2900.0
+Muenster,2016-07-01,2016,3,apartment,2800.0
+Muenster,2016-10-01,2016,4,apartment,3200.0
+Muenster,2017-01-01,2017,1,apartment,2900.0
+Muenster,2017-04-01,2017,2,apartment,3400.0
+Muenster,2017-07-01,2017,3,apartment,3200.0
+Muenster,2017-10-01,2017,4,apartment,3000.0
+Muenster,2018-01-01,2018,1,apartment,2900.0
+Muenster,2018-04-01,2018,2,apartment,3000.0
+Muenster,2018-07-01,2018,3,apartment,2900.0
+Muenster,2018-10-01,2018,4,apartment,3000.0
+Muenster,2019-01-01,2019,1,apartment,3500.0
+Muenster,2019-04-01,2019,2,apartment,3400.0
+Muenster,2019-07-01,2019,3,apartment,4000.0
+Muenster,2019-10-01,2019,4,apartment,3400.0
+Muenster,2020-01-01,2020,1,apartment,3800.0
+Muenster,2020-04-01,2020,2,apartment,4300.0
+Muenster,2020-07-01,2020,3,apartment,3800.0
+Muenster,2020-10-01,2020,4,apartment,4100.0
+Muenster,2021-01-01,2021,1,apartment,4100.0
+Muenster,2021-04-01,2021,2,apartment,4200.0
+Muenster,2021-07-01,2021,3,apartment,4300.0
+Muenster,2021-10-01,2021,4,apartment,4400.0
+Muenster,2022-01-01,2022,1,apartment,4800.0
+Muenster,2022-04-01,2022,2,apartment,4600.0
+Muenster,2022-07-01,2022,3,apartment,4500.0
+Muenster,2022-10-01,2022,4,apartment,4400.0
+Muenster,2023-01-01,2023,1,apartment,4600.0
+Muenster,2023-04-01,2023,2,apartment,4200.0
+Muenster,2023-07-01,2023,3,apartment,4000.0
+Muenster,2023-10-01,2023,4,apartment,4200.0
+Muenster,2024-01-01,2024,1,apartment,4100.0
+Muenster,2024-04-01,2024,2,apartment,4100.0
+Muenster,2024-07-01,2024,3,apartment,4600.0
+Muenster,2024-10-01,2024,4,apartment,4500.0
+North Rhine-Westphalia,2005-01-01,2005,1,single_family,1800.0
+North Rhine-Westphalia,2005-04-01,2005,2,single_family,1900.0
+North Rhine-Westphalia,2005-07-01,2005,3,single_family,1900.0
+North Rhine-Westphalia,2005-10-01,2005,4,single_family,1900.0
+North Rhine-Westphalia,2006-01-01,2006,1,single_family,1900.0
+North Rhine-Westphalia,2006-04-01,2006,2,single_family,1900.0
+North Rhine-Westphalia,2006-07-01,2006,3,single_family,1900.0
+North Rhine-Westphalia,2006-10-01,2006,4,single_family,1900.0
+North Rhine-Westphalia,2007-01-01,2007,1,single_family,1800.0
+North Rhine-Westphalia,2007-04-01,2007,2,single_family,1900.0
+North Rhine-Westphalia,2007-07-01,2007,3,single_family,1900.0
+North Rhine-Westphalia,2007-10-01,2007,4,single_family,1800.0
+North Rhine-Westphalia,2008-01-01,2008,1,single_family,1800.0
+North Rhine-Westphalia,2008-04-01,2008,2,single_family,1900.0
+North Rhine-Westphalia,2008-07-01,2008,3,single_family,1800.0
+North Rhine-Westphalia,2008-10-01,2008,4,single_family,1900.0
+North Rhine-Westphalia,2009-01-01,2009,1,single_family,1800.0
+North Rhine-Westphalia,2009-04-01,2009,2,single_family,1900.0
+North Rhine-Westphalia,2009-07-01,2009,3,single_family,1900.0
+North Rhine-Westphalia,2009-10-01,2009,4,single_family,1900.0
+North Rhine-Westphalia,2010-01-01,2010,1,single_family,1900.0
+North Rhine-Westphalia,2010-04-01,2010,2,single_family,1900.0
+North Rhine-Westphalia,2010-07-01,2010,3,single_family,1900.0
+North Rhine-Westphalia,2010-10-01,2010,4,single_family,2000.0
+North Rhine-Westphalia,2011-01-01,2011,1,single_family,2000.0
+North Rhine-Westphalia,2011-04-01,2011,2,single_family,2000.0
+North Rhine-Westphalia,2011-07-01,2011,3,single_family,2000.0
+North Rhine-Westphalia,2011-10-01,2011,4,single_family,2000.0
+North Rhine-Westphalia,2012-01-01,2012,1,single_family,2000.0
+North Rhine-Westphalia,2012-04-01,2012,2,single_family,2100.0
+North Rhine-Westphalia,2012-07-01,2012,3,single_family,2100.0
+North Rhine-Westphalia,2012-10-01,2012,4,single_family,2100.0
+North Rhine-Westphalia,2013-01-01,2013,1,single_family,2200.0
+North Rhine-Westphalia,2013-04-01,2013,2,single_family,2200.0
+North Rhine-Westphalia,2013-07-01,2013,3,single_family,2200.0
+North Rhine-Westphalia,2013-10-01,2013,4,single_family,2200.0
+North Rhine-Westphalia,2014-01-01,2014,1,single_family,2200.0
+North Rhine-Westphalia,2014-04-01,2014,2,single_family,2300.0
+North Rhine-Westphalia,2014-07-01,2014,3,single_family,2300.0
+North Rhine-Westphalia,2014-10-01,2014,4,single_family,2300.0
+North Rhine-Westphalia,2015-01-01,2015,1,single_family,2300.0
+North Rhine-Westphalia,2015-04-01,2015,2,single_family,2400.0
+North Rhine-Westphalia,2015-07-01,2015,3,single_family,2400.0
+North Rhine-Westphalia,2015-10-01,2015,4,single_family,2400.0
+North Rhine-Westphalia,2016-01-01,2016,1,single_family,2500.0
+North Rhine-Westphalia,2016-04-01,2016,2,single_family,2500.0
+North Rhine-Westphalia,2016-07-01,2016,3,single_family,2600.0
+North Rhine-Westphalia,2016-10-01,2016,4,single_family,2700.0
+North Rhine-Westphalia,2017-01-01,2017,1,single_family,2700.0
+North Rhine-Westphalia,2017-04-01,2017,2,single_family,2700.0
+North Rhine-Westphalia,2017-07-01,2017,3,single_family,2800.0
+North Rhine-Westphalia,2017-10-01,2017,4,single_family,2800.0
+North Rhine-Westphalia,2018-01-01,2018,1,single_family,2900.0
+North Rhine-Westphalia,2018-04-01,2018,2,single_family,3000.0
+North Rhine-Westphalia,2018-07-01,2018,3,single_family,3000.0
+North Rhine-Westphalia,2018-10-01,2018,4,single_family,3100.0
+North Rhine-Westphalia,2019-01-01,2019,1,single_family,3000.0
+North Rhine-Westphalia,2019-04-01,2019,2,single_family,3200.0
+North Rhine-Westphalia,2019-07-01,2019,3,single_family,3300.0
+North Rhine-Westphalia,2019-10-01,2019,4,single_family,3300.0
+North Rhine-Westphalia,2020-01-01,2020,1,single_family,3400.0
+North Rhine-Westphalia,2020-04-01,2020,2,single_family,3500.0
+North Rhine-Westphalia,2020-07-01,2020,3,single_family,3600.0
+North Rhine-Westphalia,2020-10-01,2020,4,single_family,3700.0
+North Rhine-Westphalia,2021-01-01,2021,1,single_family,3800.0
+North Rhine-Westphalia,2021-04-01,2021,2,single_family,4000.0
+North Rhine-Westphalia,2021-07-01,2021,3,single_family,4100.0
+North Rhine-Westphalia,2021-10-01,2021,4,single_family,4200.0
+North Rhine-Westphalia,2022-01-01,2022,1,single_family,4300.0
+North Rhine-Westphalia,2022-04-01,2022,2,single_family,4400.0
+North Rhine-Westphalia,2022-07-01,2022,3,single_family,4300.0
+North Rhine-Westphalia,2022-10-01,2022,4,single_family,4200.0
+North Rhine-Westphalia,2023-01-01,2023,1,single_family,3900.0
+North Rhine-Westphalia,2023-04-01,2023,2,single_family,3900.0
+North Rhine-Westphalia,2023-07-01,2023,3,single_family,3800.0
+North Rhine-Westphalia,2023-10-01,2023,4,single_family,3700.0
+North Rhine-Westphalia,2024-01-01,2024,1,single_family,3600.0
+North Rhine-Westphalia,2024-04-01,2024,2,single_family,3800.0
+North Rhine-Westphalia,2024-07-01,2024,3,single_family,3800.0
+North Rhine-Westphalia,2024-10-01,2024,4,single_family,3800.0
+North Rhine-Westphalia,2005-01-01,2005,1,apartment,1500.0
+North Rhine-Westphalia,2005-04-01,2005,2,apartment,1500.0
+North Rhine-Westphalia,2005-07-01,2005,3,apartment,1500.0
+North Rhine-Westphalia,2005-10-01,2005,4,apartment,1500.0
+North Rhine-Westphalia,2006-01-01,2006,1,apartment,1500.0
+North Rhine-Westphalia,2006-04-01,2006,2,apartment,1500.0
+North Rhine-Westphalia,2006-07-01,2006,3,apartment,1500.0
+North Rhine-Westphalia,2006-10-01,2006,4,apartment,1500.0
+North Rhine-Westphalia,2007-01-01,2007,1,apartment,1500.0
+North Rhine-Westphalia,2007-04-01,2007,2,apartment,1500.0
+North Rhine-Westphalia,2007-07-01,2007,3,apartment,1500.0
+North Rhine-Westphalia,2007-10-01,2007,4,apartment,1500.0
+North Rhine-Westphalia,2008-01-01,2008,1,apartment,1500.0
+North Rhine-Westphalia,2008-04-01,2008,2,apartment,1400.0
+North Rhine-Westphalia,2008-07-01,2008,3,apartment,1500.0
+North Rhine-Westphalia,2008-10-01,2008,4,apartment,1500.0
+North Rhine-Westphalia,2009-01-01,2009,1,apartment,1500.0
+North Rhine-Westphalia,2009-04-01,2009,2,apartment,1500.0
+North Rhine-Westphalia,2009-07-01,2009,3,apartment,1500.0
+North Rhine-Westphalia,2009-10-01,2009,4,apartment,1500.0
+North Rhine-Westphalia,2010-01-01,2010,1,apartment,1600.0
+North Rhine-Westphalia,2010-04-01,2010,2,apartment,1600.0
+North Rhine-Westphalia,2010-07-01,2010,3,apartment,1600.0
+North Rhine-Westphalia,2010-10-01,2010,4,apartment,1600.0
+North Rhine-Westphalia,2011-01-01,2011,1,apartment,1600.0
+North Rhine-Westphalia,2011-04-01,2011,2,apartment,1600.0
+North Rhine-Westphalia,2011-07-01,2011,3,apartment,1700.0
+North Rhine-Westphalia,2011-10-01,2011,4,apartment,1700.0
+North Rhine-Westphalia,2012-01-01,2012,1,apartment,1700.0
+North Rhine-Westphalia,2012-04-01,2012,2,apartment,1800.0
+North Rhine-Westphalia,2012-07-01,2012,3,apartment,1800.0
+North Rhine-Westphalia,2012-10-01,2012,4,apartment,1800.0
+North Rhine-Westphalia,2013-01-01,2013,1,apartment,1800.0
+North Rhine-Westphalia,2013-04-01,2013,2,apartment,1900.0
+North Rhine-Westphalia,2013-07-01,2013,3,apartment,1900.0
+North Rhine-Westphalia,2013-10-01,2013,4,apartment,1900.0
+North Rhine-Westphalia,2014-01-01,2014,1,apartment,2000.0
+North Rhine-Westphalia,2014-04-01,2014,2,apartment,2000.0
+North Rhine-Westphalia,2014-07-01,2014,3,apartment,2100.0
+North Rhine-Westphalia,2014-10-01,2014,4,apartment,2100.0
+North Rhine-Westphalia,2015-01-01,2015,1,apartment,2100.0
+North Rhine-Westphalia,2015-04-01,2015,2,apartment,2200.0
+North Rhine-Westphalia,2015-07-01,2015,3,apartment,2200.0
+North Rhine-Westphalia,2015-10-01,2015,4,apartment,2200.0
+North Rhine-Westphalia,2016-01-01,2016,1,apartment,2300.0
+North Rhine-Westphalia,2016-04-01,2016,2,apartment,2300.0
+North Rhine-Westphalia,2016-07-01,2016,3,apartment,2400.0
+North Rhine-Westphalia,2016-10-01,2016,4,apartment,2400.0
+North Rhine-Westphalia,2017-01-01,2017,1,apartment,2500.0
+North Rhine-Westphalia,2017-04-01,2017,2,apartment,2500.0
+North Rhine-Westphalia,2017-07-01,2017,3,apartment,2600.0
+North Rhine-Westphalia,2017-10-01,2017,4,apartment,2600.0
+North Rhine-Westphalia,2018-01-01,2018,1,apartment,2700.0
+North Rhine-Westphalia,2018-04-01,2018,2,apartment,2800.0
+North Rhine-Westphalia,2018-07-01,2018,3,apartment,2800.0
+North Rhine-Westphalia,2018-10-01,2018,4,apartment,2800.0
+North Rhine-Westphalia,2019-01-01,2019,1,apartment,2900.0
+North Rhine-Westphalia,2019-04-01,2019,2,apartment,3000.0
+North Rhine-Westphalia,2019-07-01,2019,3,apartment,3100.0
+North Rhine-Westphalia,2019-10-01,2019,4,apartment,3100.0
+North Rhine-Westphalia,2020-01-01,2020,1,apartment,3300.0
+North Rhine-Westphalia,2020-04-01,2020,2,apartment,3400.0
+North Rhine-Westphalia,2020-07-01,2020,3,apartment,3500.0
+North Rhine-Westphalia,2020-10-01,2020,4,apartment,3500.0
+North Rhine-Westphalia,2021-01-01,2021,1,apartment,3700.0
+North Rhine-Westphalia,2021-04-01,2021,2,apartment,3900.0
+North Rhine-Westphalia,2021-07-01,2021,3,apartment,4000.0
+North Rhine-Westphalia,2021-10-01,2021,4,apartment,4100.0
+North Rhine-Westphalia,2022-01-01,2022,1,apartment,4200.0
+North Rhine-Westphalia,2022-04-01,2022,2,apartment,4200.0
+North Rhine-Westphalia,2022-07-01,2022,3,apartment,4200.0
+North Rhine-Westphalia,2022-10-01,2022,4,apartment,4000.0
+North Rhine-Westphalia,2023-01-01,2023,1,apartment,3800.0
+North Rhine-Westphalia,2023-04-01,2023,2,apartment,3900.0
+North Rhine-Westphalia,2023-07-01,2023,3,apartment,3800.0
+North Rhine-Westphalia,2023-10-01,2023,4,apartment,3700.0
+North Rhine-Westphalia,2024-01-01,2024,1,apartment,3800.0
+North Rhine-Westphalia,2024-04-01,2024,2,apartment,3900.0
+North Rhine-Westphalia,2024-07-01,2024,3,apartment,3900.0
+North Rhine-Westphalia,2024-10-01,2024,4,apartment,4000.0
+North Rhine-Westphalia,2005-01-01,2005,1,multi_family,1100.0
+North Rhine-Westphalia,2005-04-01,2005,2,multi_family,1300.0
+North Rhine-Westphalia,2005-07-01,2005,3,multi_family,1200.0
+North Rhine-Westphalia,2005-10-01,2005,4,multi_family,1300.0
+North Rhine-Westphalia,2006-01-01,2006,1,multi_family,1200.0
+North Rhine-Westphalia,2006-04-01,2006,2,multi_family,1300.0
+North Rhine-Westphalia,2006-07-01,2006,3,multi_family,1300.0
+North Rhine-Westphalia,2006-10-01,2006,4,multi_family,1400.0
+North Rhine-Westphalia,2007-01-01,2007,1,multi_family,1300.0
+North Rhine-Westphalia,2007-04-01,2007,2,multi_family,1400.0
+North Rhine-Westphalia,2007-07-01,2007,3,multi_family,1400.0
+North Rhine-Westphalia,2007-10-01,2007,4,multi_family,1400.0
+North Rhine-Westphalia,2008-01-01,2008,1,multi_family,1300.0
+North Rhine-Westphalia,2008-04-01,2008,2,multi_family,1300.0
+North Rhine-Westphalia,2008-07-01,2008,3,multi_family,1200.0
+North Rhine-Westphalia,2008-10-01,2008,4,multi_family,1300.0
+North Rhine-Westphalia,2009-01-01,2009,1,multi_family,1200.0
+North Rhine-Westphalia,2009-04-01,2009,2,multi_family,1400.0
+North Rhine-Westphalia,2009-07-01,2009,3,multi_family,1300.0
+North Rhine-Westphalia,2009-10-01,2009,4,multi_family,1400.0
+North Rhine-Westphalia,2010-01-01,2010,1,multi_family,1300.0
+North Rhine-Westphalia,2010-04-01,2010,2,multi_family,1300.0
+North Rhine-Westphalia,2010-07-01,2010,3,multi_family,1300.0
+North Rhine-Westphalia,2010-10-01,2010,4,multi_family,1400.0
+North Rhine-Westphalia,2011-01-01,2011,1,multi_family,1300.0
+North Rhine-Westphalia,2011-04-01,2011,2,multi_family,1300.0
+North Rhine-Westphalia,2011-07-01,2011,3,multi_family,1400.0
+North Rhine-Westphalia,2011-10-01,2011,4,multi_family,1400.0
+North Rhine-Westphalia,2012-01-01,2012,1,multi_family,1400.0
+North Rhine-Westphalia,2012-04-01,2012,2,multi_family,1400.0
+North Rhine-Westphalia,2012-07-01,2012,3,multi_family,1500.0
+North Rhine-Westphalia,2012-10-01,2012,4,multi_family,1500.0
+North Rhine-Westphalia,2013-01-01,2013,1,multi_family,1500.0
+North Rhine-Westphalia,2013-04-01,2013,2,multi_family,1400.0
+North Rhine-Westphalia,2013-07-01,2013,3,multi_family,1500.0
+North Rhine-Westphalia,2013-10-01,2013,4,multi_family,1500.0
+North Rhine-Westphalia,2014-01-01,2014,1,multi_family,1500.0
+North Rhine-Westphalia,2014-04-01,2014,2,multi_family,1600.0
+North Rhine-Westphalia,2014-07-01,2014,3,multi_family,1600.0
+North Rhine-Westphalia,2014-10-01,2014,4,multi_family,1700.0
+North Rhine-Westphalia,2015-01-01,2015,1,multi_family,1700.0
+North Rhine-Westphalia,2015-04-01,2015,2,multi_family,1700.0
+North Rhine-Westphalia,2015-07-01,2015,3,multi_family,1800.0
+North Rhine-Westphalia,2015-10-01,2015,4,multi_family,1800.0
+North Rhine-Westphalia,2016-01-01,2016,1,multi_family,1800.0
+North Rhine-Westphalia,2016-04-01,2016,2,multi_family,1800.0
+North Rhine-Westphalia,2016-07-01,2016,3,multi_family,1900.0
+North Rhine-Westphalia,2016-10-01,2016,4,multi_family,1900.0
+North Rhine-Westphalia,2017-01-01,2017,1,multi_family,2000.0
+North Rhine-Westphalia,2017-04-01,2017,2,multi_family,1900.0
+North Rhine-Westphalia,2017-07-01,2017,3,multi_family,2100.0
+North Rhine-Westphalia,2017-10-01,2017,4,multi_family,2000.0
+North Rhine-Westphalia,2018-01-01,2018,1,multi_family,2200.0
+North Rhine-Westphalia,2018-04-01,2018,2,multi_family,2100.0
+North Rhine-Westphalia,2018-07-01,2018,3,multi_family,2200.0
+North Rhine-Westphalia,2018-10-01,2018,4,multi_family,2300.0
+North Rhine-Westphalia,2019-01-01,2019,1,multi_family,2400.0
+North Rhine-Westphalia,2019-04-01,2019,2,multi_family,2400.0
+North Rhine-Westphalia,2019-07-01,2019,3,multi_family,2400.0
+North Rhine-Westphalia,2019-10-01,2019,4,multi_family,2500.0
+North Rhine-Westphalia,2020-01-01,2020,1,multi_family,2500.0
+North Rhine-Westphalia,2020-04-01,2020,2,multi_family,2600.0
+North Rhine-Westphalia,2020-07-01,2020,3,multi_family,2700.0
+North Rhine-Westphalia,2020-10-01,2020,4,multi_family,2800.0
+North Rhine-Westphalia,2021-01-01,2021,1,multi_family,2900.0
+North Rhine-Westphalia,2021-04-01,2021,2,multi_family,3000.0
+North Rhine-Westphalia,2021-07-01,2021,3,multi_family,3100.0
+North Rhine-Westphalia,2021-10-01,2021,4,multi_family,3200.0
+North Rhine-Westphalia,2022-01-01,2022,1,multi_family,3200.0
+North Rhine-Westphalia,2022-04-01,2022,2,multi_family,3100.0
+North Rhine-Westphalia,2022-07-01,2022,3,multi_family,3100.0
+North Rhine-Westphalia,2022-10-01,2022,4,multi_family,2900.0
+North Rhine-Westphalia,2023-01-01,2023,1,multi_family,2700.0
+North Rhine-Westphalia,2023-04-01,2023,2,multi_family,2500.0
+North Rhine-Westphalia,2023-07-01,2023,3,multi_family,2500.0
+North Rhine-Westphalia,2023-10-01,2023,4,multi_family,2500.0
+North Rhine-Westphalia,2024-01-01,2024,1,multi_family,2400.0
+North Rhine-Westphalia,2024-04-01,2024,2,multi_family,2500.0
+North Rhine-Westphalia,2024-07-01,2024,3,multi_family,2500.0
+North Rhine-Westphalia,2024-10-01,2024,4,multi_family,2600.0
+Potsdam,2005-01-01,2005,1,apartment,1600.0
+Potsdam,2005-04-01,2005,2,apartment,2200.0
+Potsdam,2005-07-01,2005,3,apartment,2200.0
+Potsdam,2005-10-01,2005,4,apartment,2100.0
+Potsdam,2006-01-01,2006,1,apartment,1900.0
+Potsdam,2006-04-01,2006,2,apartment,2000.0
+Potsdam,2006-07-01,2006,3,apartment,1100.0
+Potsdam,2006-10-01,2006,4,apartment,2100.0
+Potsdam,2007-01-01,2007,1,apartment,1900.0
+Potsdam,2007-04-01,2007,2,apartment,2200.0
+Potsdam,2007-07-01,2007,3,apartment,2500.0
+Potsdam,2007-10-01,2007,4,apartment,2600.0
+Potsdam,2008-01-01,2008,1,apartment,2300.0
+Potsdam,2008-04-01,2008,2,apartment,2100.0
+Potsdam,2008-07-01,2008,3,apartment,2200.0
+Potsdam,2008-10-01,2008,4,apartment,2400.0
+Potsdam,2009-01-01,2009,1,apartment,2200.0
+Potsdam,2009-04-01,2009,2,apartment,2500.0
+Potsdam,2009-07-01,2009,3,apartment,2300.0
+Potsdam,2009-10-01,2009,4,apartment,2600.0
+Potsdam,2010-01-01,2010,1,apartment,2400.0
+Potsdam,2010-04-01,2010,2,apartment,2500.0
+Potsdam,2010-07-01,2010,3,apartment,2500.0
+Potsdam,2010-10-01,2010,4,apartment,2300.0
+Potsdam,2011-01-01,2011,1,apartment,2400.0
+Potsdam,2011-04-01,2011,2,apartment,2200.0
+Potsdam,2011-07-01,2011,3,apartment,2400.0
+Potsdam,2011-10-01,2011,4,apartment,2100.0
+Potsdam,2012-01-01,2012,1,apartment,2100.0
+Potsdam,2012-04-01,2012,2,apartment,2300.0
+Potsdam,2012-07-01,2012,3,apartment,2200.0
+Potsdam,2012-10-01,2012,4,apartment,2200.0
+Potsdam,2013-01-01,2013,1,apartment,2200.0
+Potsdam,2013-04-01,2013,2,apartment,2600.0
+Potsdam,2013-07-01,2013,3,apartment,2800.0
+Potsdam,2013-10-01,2013,4,apartment,2500.0
+Potsdam,2014-01-01,2014,1,apartment,2400.0
+Potsdam,2014-04-01,2014,2,apartment,2400.0
+Potsdam,2014-07-01,2014,3,apartment,2600.0
+Potsdam,2014-10-01,2014,4,apartment,3000.0
+Potsdam,2015-01-01,2015,1,apartment,3000.0
+Potsdam,2015-04-01,2015,2,apartment,2800.0
+Potsdam,2015-07-01,2015,3,apartment,2900.0
+Potsdam,2015-10-01,2015,4,apartment,3000.0
+Potsdam,2016-01-01,2016,1,apartment,2800.0
+Potsdam,2016-04-01,2016,2,apartment,2900.0
+Potsdam,2016-07-01,2016,3,apartment,3300.0
+Potsdam,2016-10-01,2016,4,apartment,3200.0
+Potsdam,2017-01-01,2017,1,apartment,3100.0
+Potsdam,2017-04-01,2017,2,apartment,3100.0
+Potsdam,2017-07-01,2017,3,apartment,3200.0
+Potsdam,2017-10-01,2017,4,apartment,3300.0
+Potsdam,2018-01-01,2018,1,apartment,3400.0
+Potsdam,2018-04-01,2018,2,apartment,3500.0
+Potsdam,2018-07-01,2018,3,apartment,3400.0
+Potsdam,2018-10-01,2018,4,apartment,3400.0
+Potsdam,2019-01-01,2019,1,apartment,3400.0
+Potsdam,2019-04-01,2019,2,apartment,3600.0
+Potsdam,2019-07-01,2019,3,apartment,4100.0
+Potsdam,2019-10-01,2019,4,apartment,4100.0
+Potsdam,2020-01-01,2020,1,apartment,3900.0
+Potsdam,2020-04-01,2020,2,apartment,4100.0
+Potsdam,2020-07-01,2020,3,apartment,4300.0
+Potsdam,2020-10-01,2020,4,apartment,4400.0
+Potsdam,2021-01-01,2021,1,apartment,4900.0
+Potsdam,2021-04-01,2021,2,apartment,5300.0
+Potsdam,2021-07-01,2021,3,apartment,5600.0
+Potsdam,2021-10-01,2021,4,apartment,6000.0
+Potsdam,2022-01-01,2022,1,apartment,6000.0
+Potsdam,2022-04-01,2022,2,apartment,5600.0
+Potsdam,2022-07-01,2022,3,apartment,5700.0
+Potsdam,2022-10-01,2022,4,apartment,5200.0
+Potsdam,2023-01-01,2023,1,apartment,4900.0
+Potsdam,2023-04-01,2023,2,apartment,4600.0
+Potsdam,2023-07-01,2023,3,apartment,4800.0
+Potsdam,2023-10-01,2023,4,apartment,4200.0
+Potsdam,2024-01-01,2024,1,apartment,4600.0
+Potsdam,2024-04-01,2024,2,apartment,4700.0
+Potsdam,2024-07-01,2024,3,apartment,5000.0
+Potsdam,2024-10-01,2024,4,apartment,5200.0
+Stuttgart,2005-01-01,2005,1,single_family,2400.0
+Stuttgart,2005-04-01,2005,2,single_family,2400.0
+Stuttgart,2005-07-01,2005,3,single_family,2300.0
+Stuttgart,2005-10-01,2005,4,single_family,2300.0
+Stuttgart,2006-01-01,2006,1,single_family,2400.0
+Stuttgart,2006-04-01,2006,2,single_family,2600.0
+Stuttgart,2006-07-01,2006,3,single_family,2400.0
+Stuttgart,2006-10-01,2006,4,single_family,2400.0
+Stuttgart,2007-01-01,2007,1,single_family,2500.0
+Stuttgart,2007-04-01,2007,2,single_family,2400.0
+Stuttgart,2007-07-01,2007,3,single_family,2500.0
+Stuttgart,2007-10-01,2007,4,single_family,2500.0
+Stuttgart,2008-01-01,2008,1,single_family,2400.0
+Stuttgart,2008-04-01,2008,2,single_family,2400.0
+Stuttgart,2008-07-01,2008,3,single_family,2500.0
+Stuttgart,2008-10-01,2008,4,single_family,2500.0
+Stuttgart,2009-01-01,2009,1,single_family,2500.0
+Stuttgart,2009-04-01,2009,2,single_family,2500.0
+Stuttgart,2009-07-01,2009,3,single_family,2600.0
+Stuttgart,2009-10-01,2009,4,single_family,2700.0
+Stuttgart,2010-01-01,2010,1,single_family,2600.0
+Stuttgart,2010-04-01,2010,2,single_family,2700.0
+Stuttgart,2010-07-01,2010,3,single_family,2600.0
+Stuttgart,2010-10-01,2010,4,single_family,2600.0
+Stuttgart,2011-01-01,2011,1,single_family,2700.0
+Stuttgart,2011-04-01,2011,2,single_family,2900.0
+Stuttgart,2011-07-01,2011,3,single_family,2900.0
+Stuttgart,2011-10-01,2011,4,single_family,2900.0
+Stuttgart,2012-01-01,2012,1,single_family,2700.0
+Stuttgart,2012-04-01,2012,2,single_family,2800.0
+Stuttgart,2012-07-01,2012,3,single_family,2900.0
+Stuttgart,2012-10-01,2012,4,single_family,2900.0
+Stuttgart,2013-01-01,2013,1,single_family,3000.0
+Stuttgart,2013-04-01,2013,2,single_family,3100.0
+Stuttgart,2013-07-01,2013,3,single_family,3000.0
+Stuttgart,2013-10-01,2013,4,single_family,3000.0
+Stuttgart,2014-01-01,2014,1,single_family,3300.0
+Stuttgart,2014-04-01,2014,2,single_family,3000.0
+Stuttgart,2014-07-01,2014,3,single_family,3100.0
+Stuttgart,2014-10-01,2014,4,single_family,3300.0
+Stuttgart,2015-01-01,2015,1,single_family,3200.0
+Stuttgart,2015-04-01,2015,2,single_family,3300.0
+Stuttgart,2015-07-01,2015,3,single_family,3300.0
+Stuttgart,2015-10-01,2015,4,single_family,3400.0
+Stuttgart,2016-01-01,2016,1,single_family,3600.0
+Stuttgart,2016-04-01,2016,2,single_family,3700.0
+Stuttgart,2016-07-01,2016,3,single_family,4100.0
+Stuttgart,2016-10-01,2016,4,single_family,3700.0
+Stuttgart,2017-01-01,2017,1,single_family,3900.0
+Stuttgart,2017-04-01,2017,2,single_family,4300.0
+Stuttgart,2017-07-01,2017,3,single_family,4500.0
+Stuttgart,2017-10-01,2017,4,single_family,4500.0
+Stuttgart,2018-01-01,2018,1,single_family,4300.0
+Stuttgart,2018-04-01,2018,2,single_family,4500.0
+Stuttgart,2018-07-01,2018,3,single_family,4600.0
+Stuttgart,2018-10-01,2018,4,single_family,4500.0
+Stuttgart,2019-01-01,2019,1,single_family,4500.0
+Stuttgart,2019-04-01,2019,2,single_family,4600.0
+Stuttgart,2019-07-01,2019,3,single_family,5000.0
+Stuttgart,2019-10-01,2019,4,single_family,5300.0
+Stuttgart,2020-01-01,2020,1,single_family,5100.0
+Stuttgart,2020-04-01,2020,2,single_family,5700.0
+Stuttgart,2020-07-01,2020,3,single_family,5400.0
+Stuttgart,2020-10-01,2020,4,single_family,5100.0
+Stuttgart,2021-01-01,2021,1,single_family,5400.0
+Stuttgart,2021-04-01,2021,2,single_family,5600.0
+Stuttgart,2021-07-01,2021,3,single_family,5600.0
+Stuttgart,2021-10-01,2021,4,single_family,5800.0
+Stuttgart,2022-01-01,2022,1,single_family,6000.0
+Stuttgart,2022-04-01,2022,2,single_family,5800.0
+Stuttgart,2022-07-01,2022,3,single_family,5600.0
+Stuttgart,2022-10-01,2022,4,single_family,5100.0
+Stuttgart,2023-01-01,2023,1,single_family,5400.0
+Stuttgart,2023-04-01,2023,2,single_family,5200.0
+Stuttgart,2023-07-01,2023,3,single_family,5100.0
+Stuttgart,2023-10-01,2023,4,single_family,5300.0
+Stuttgart,2024-01-01,2024,1,single_family,4700.0
+Stuttgart,2024-04-01,2024,2,single_family,5000.0
+Stuttgart,2024-07-01,2024,3,single_family,4900.0
+Stuttgart,2024-10-01,2024,4,single_family,5200.0
+Stuttgart,2005-01-01,2005,1,apartment,1900.0
+Stuttgart,2005-04-01,2005,2,apartment,1900.0
+Stuttgart,2005-07-01,2005,3,apartment,2000.0
+Stuttgart,2005-10-01,2005,4,apartment,1900.0
+Stuttgart,2006-01-01,2006,1,apartment,1900.0
+Stuttgart,2006-04-01,2006,2,apartment,2000.0
+Stuttgart,2006-07-01,2006,3,apartment,1900.0
+Stuttgart,2006-10-01,2006,4,apartment,2000.0
+Stuttgart,2007-01-01,2007,1,apartment,2000.0
+Stuttgart,2007-04-01,2007,2,apartment,2000.0
+Stuttgart,2007-07-01,2007,3,apartment,2000.0
+Stuttgart,2007-10-01,2007,4,apartment,2000.0
+Stuttgart,2008-01-01,2008,1,apartment,1900.0
+Stuttgart,2008-04-01,2008,2,apartment,1900.0
+Stuttgart,2008-07-01,2008,3,apartment,2000.0
+Stuttgart,2008-10-01,2008,4,apartment,1900.0
+Stuttgart,2009-01-01,2009,1,apartment,2000.0
+Stuttgart,2009-04-01,2009,2,apartment,2100.0
+Stuttgart,2009-07-01,2009,3,apartment,2000.0
+Stuttgart,2009-10-01,2009,4,apartment,2100.0
+Stuttgart,2010-01-01,2010,1,apartment,2100.0
+Stuttgart,2010-04-01,2010,2,apartment,2100.0
+Stuttgart,2010-07-01,2010,3,apartment,2100.0
+Stuttgart,2010-10-01,2010,4,apartment,2100.0
+Stuttgart,2011-01-01,2011,1,apartment,2100.0
+Stuttgart,2011-04-01,2011,2,apartment,2200.0
+Stuttgart,2011-07-01,2011,3,apartment,2200.0
+Stuttgart,2011-10-01,2011,4,apartment,2200.0
+Stuttgart,2012-01-01,2012,1,apartment,2300.0
+Stuttgart,2012-04-01,2012,2,apartment,2400.0
+Stuttgart,2012-07-01,2012,3,apartment,2400.0
+Stuttgart,2012-10-01,2012,4,apartment,2300.0
+Stuttgart,2013-01-01,2013,1,apartment,2500.0
+Stuttgart,2013-04-01,2013,2,apartment,2400.0
+Stuttgart,2013-07-01,2013,3,apartment,2500.0
+Stuttgart,2013-10-01,2013,4,apartment,2400.0
+Stuttgart,2014-01-01,2014,1,apartment,2600.0
+Stuttgart,2014-04-01,2014,2,apartment,2700.0
+Stuttgart,2014-07-01,2014,3,apartment,2700.0
+Stuttgart,2014-10-01,2014,4,apartment,2900.0
+Stuttgart,2015-01-01,2015,1,apartment,3100.0
+Stuttgart,2015-04-01,2015,2,apartment,3000.0
+Stuttgart,2015-07-01,2015,3,apartment,3200.0
+Stuttgart,2015-10-01,2015,4,apartment,3300.0
+Stuttgart,2016-01-01,2016,1,apartment,3300.0
+Stuttgart,2016-04-01,2016,2,apartment,3600.0
+Stuttgart,2016-07-01,2016,3,apartment,3700.0
+Stuttgart,2016-10-01,2016,4,apartment,3800.0
+Stuttgart,2017-01-01,2017,1,apartment,3800.0
+Stuttgart,2017-04-01,2017,2,apartment,3700.0
+Stuttgart,2017-07-01,2017,3,apartment,3800.0
+Stuttgart,2017-10-01,2017,4,apartment,3900.0
+Stuttgart,2018-01-01,2018,1,apartment,3800.0
+Stuttgart,2018-04-01,2018,2,apartment,3800.0
+Stuttgart,2018-07-01,2018,3,apartment,4000.0
+Stuttgart,2018-10-01,2018,4,apartment,4200.0
+Stuttgart,2019-01-01,2019,1,apartment,4100.0
+Stuttgart,2019-04-01,2019,2,apartment,4200.0
+Stuttgart,2019-07-01,2019,3,apartment,4400.0
+Stuttgart,2019-10-01,2019,4,apartment,4400.0
+Stuttgart,2020-01-01,2020,1,apartment,4400.0
+Stuttgart,2020-04-01,2020,2,apartment,4500.0
+Stuttgart,2020-07-01,2020,3,apartment,4800.0
+Stuttgart,2020-10-01,2020,4,apartment,4800.0
+Stuttgart,2021-01-01,2021,1,apartment,4900.0
+Stuttgart,2021-04-01,2021,2,apartment,5100.0
+Stuttgart,2021-07-01,2021,3,apartment,5100.0
+Stuttgart,2021-10-01,2021,4,apartment,5200.0
+Stuttgart,2022-01-01,2022,1,apartment,5300.0
+Stuttgart,2022-04-01,2022,2,apartment,5400.0
+Stuttgart,2022-07-01,2022,3,apartment,5100.0
+Stuttgart,2022-10-01,2022,4,apartment,4700.0
+Stuttgart,2023-01-01,2023,1,apartment,4500.0
+Stuttgart,2023-04-01,2023,2,apartment,4500.0
+Stuttgart,2023-07-01,2023,3,apartment,4500.0
+Stuttgart,2023-10-01,2023,4,apartment,4200.0
+Stuttgart,2024-01-01,2024,1,apartment,4300.0
+Stuttgart,2024-04-01,2024,2,apartment,4200.0
+Stuttgart,2024-07-01,2024,3,apartment,4400.0
+Stuttgart,2024-10-01,2024,4,apartment,4400.0
+Stuttgart,2005-01-01,2005,1,multi_family,1400.0
+Stuttgart,2005-04-01,2005,2,multi_family,1400.0
+Stuttgart,2005-07-01,2005,3,multi_family,1400.0
+Stuttgart,2005-10-01,2005,4,multi_family,1300.0
+Stuttgart,2006-01-01,2006,1,multi_family,1300.0
+Stuttgart,2006-04-01,2006,2,multi_family,1400.0
+Stuttgart,2006-07-01,2006,3,multi_family,1300.0
+Stuttgart,2006-10-01,2006,4,multi_family,1400.0
+Stuttgart,2007-01-01,2007,1,multi_family,1400.0
+Stuttgart,2007-04-01,2007,2,multi_family,1500.0
+Stuttgart,2007-07-01,2007,3,multi_family,1400.0
+Stuttgart,2007-10-01,2007,4,multi_family,1400.0
+Stuttgart,2008-01-01,2008,1,multi_family,1300.0
+Stuttgart,2008-04-01,2008,2,multi_family,1400.0
+Stuttgart,2008-07-01,2008,3,multi_family,1500.0
+Stuttgart,2008-10-01,2008,4,multi_family,1500.0
+Stuttgart,2009-01-01,2009,1,multi_family,1500.0
+Stuttgart,2009-04-01,2009,2,multi_family,1300.0
+Stuttgart,2009-07-01,2009,3,multi_family,1300.0
+Stuttgart,2009-10-01,2009,4,multi_family,1400.0
+Stuttgart,2010-01-01,2010,1,multi_family,1400.0
+Stuttgart,2010-04-01,2010,2,multi_family,1600.0
+Stuttgart,2010-07-01,2010,3,multi_family,1500.0
+Stuttgart,2010-10-01,2010,4,multi_family,1500.0
+Stuttgart,2011-01-01,2011,1,multi_family,1500.0
+Stuttgart,2011-04-01,2011,2,multi_family,1500.0
+Stuttgart,2011-07-01,2011,3,multi_family,1500.0
+Stuttgart,2011-10-01,2011,4,multi_family,1600.0
+Stuttgart,2012-01-01,2012,1,multi_family,1600.0
+Stuttgart,2012-04-01,2012,2,multi_family,1800.0
+Stuttgart,2012-07-01,2012,3,multi_family,1800.0
+Stuttgart,2012-10-01,2012,4,multi_family,1800.0
+Stuttgart,2013-01-01,2013,1,multi_family,1800.0
+Stuttgart,2013-04-01,2013,2,multi_family,2000.0
+Stuttgart,2013-07-01,2013,3,multi_family,1800.0
+Stuttgart,2013-10-01,2013,4,multi_family,1900.0
+Stuttgart,2014-01-01,2014,1,multi_family,1700.0
+Stuttgart,2014-04-01,2014,2,multi_family,2100.0
+Stuttgart,2014-07-01,2014,3,multi_family,2000.0
+Stuttgart,2014-10-01,2014,4,multi_family,2100.0
+Stuttgart,2015-01-01,2015,1,multi_family,2000.0
+Stuttgart,2015-04-01,2015,2,multi_family,2200.0
+Stuttgart,2015-07-01,2015,3,multi_family,2400.0
+Stuttgart,2015-10-01,2015,4,multi_family,2200.0
+Stuttgart,2016-01-01,2016,1,multi_family,2400.0
+Stuttgart,2016-04-01,2016,2,multi_family,2500.0
+Stuttgart,2016-07-01,2016,3,multi_family,2500.0
+Stuttgart,2016-10-01,2016,4,multi_family,2400.0
+Stuttgart,2017-01-01,2017,1,multi_family,2600.0
+Stuttgart,2017-04-01,2017,2,multi_family,2600.0
+Stuttgart,2017-07-01,2017,3,multi_family,2900.0
+Stuttgart,2017-10-01,2017,4,multi_family,2600.0
+Stuttgart,2018-01-01,2018,1,multi_family,2800.0
+Stuttgart,2018-04-01,2018,2,multi_family,2900.0
+Stuttgart,2018-07-01,2018,3,multi_family,3400.0
+Stuttgart,2018-10-01,2018,4,multi_family,3100.0
+Stuttgart,2019-01-01,2019,1,multi_family,3300.0
+Stuttgart,2019-04-01,2019,2,multi_family,3400.0
+Stuttgart,2019-07-01,2019,3,multi_family,3600.0
+Stuttgart,2019-10-01,2019,4,multi_family,3500.0
+Stuttgart,2020-01-01,2020,1,multi_family,3900.0
+Stuttgart,2020-04-01,2020,2,multi_family,4100.0
+Stuttgart,2020-07-01,2020,3,multi_family,4100.0
+Stuttgart,2020-10-01,2020,4,multi_family,3900.0
+Stuttgart,2021-01-01,2021,1,multi_family,3900.0
+Stuttgart,2021-04-01,2021,2,multi_family,4300.0
+Stuttgart,2021-07-01,2021,3,multi_family,4400.0
+Stuttgart,2021-10-01,2021,4,multi_family,4100.0
+Stuttgart,2022-01-01,2022,1,multi_family,4200.0
+Stuttgart,2022-04-01,2022,2,multi_family,4200.0
+Stuttgart,2022-07-01,2022,3,multi_family,4000.0
+Stuttgart,2022-10-01,2022,4,multi_family,3700.0
+Stuttgart,2023-01-01,2023,1,multi_family,4300.0
+Stuttgart,2023-04-01,2023,2,multi_family,3200.0
+Stuttgart,2023-07-01,2023,3,multi_family,3200.0
+Stuttgart,2023-10-01,2023,4,multi_family,3900.0
+Stuttgart,2024-01-01,2024,1,multi_family,3500.0
+Stuttgart,2024-04-01,2024,2,multi_family,3100.0
+Stuttgart,2024-07-01,2024,3,multi_family,3200.0
+Stuttgart,2024-10-01,2024,4,multi_family,3300.0
+Wiesbaden,2005-01-01,2005,1,apartment,1900.0
+Wiesbaden,2005-04-01,2005,2,apartment,1800.0
+Wiesbaden,2005-07-01,2005,3,apartment,1800.0
+Wiesbaden,2005-10-01,2005,4,apartment,1700.0
+Wiesbaden,2006-01-01,2006,1,apartment,1800.0
+Wiesbaden,2006-04-01,2006,2,apartment,1900.0
+Wiesbaden,2006-07-01,2006,3,apartment,1900.0
+Wiesbaden,2006-10-01,2006,4,apartment,1800.0
+Wiesbaden,2007-01-01,2007,1,apartment,1700.0
+Wiesbaden,2007-04-01,2007,2,apartment,2000.0
+Wiesbaden,2007-07-01,2007,3,apartment,1900.0
+Wiesbaden,2007-10-01,2007,4,apartment,1700.0
+Wiesbaden,2008-01-01,2008,1,apartment,1600.0
+Wiesbaden,2008-04-01,2008,2,apartment,1900.0
+Wiesbaden,2008-07-01,2008,3,apartment,1800.0
+Wiesbaden,2008-10-01,2008,4,apartment,1800.0
+Wiesbaden,2009-01-01,2009,1,apartment,1900.0
+Wiesbaden,2009-04-01,2009,2,apartment,1900.0
+Wiesbaden,2009-07-01,2009,3,apartment,1900.0
+Wiesbaden,2009-10-01,2009,4,apartment,1900.0
+Wiesbaden,2010-01-01,2010,1,apartment,2000.0
+Wiesbaden,2010-04-01,2010,2,apartment,1900.0
+Wiesbaden,2010-07-01,2010,3,apartment,1900.0
+Wiesbaden,2010-10-01,2010,4,apartment,1900.0
+Wiesbaden,2011-01-01,2011,1,apartment,2000.0
+Wiesbaden,2011-04-01,2011,2,apartment,2000.0
+Wiesbaden,2011-07-01,2011,3,apartment,2100.0
+Wiesbaden,2011-10-01,2011,4,apartment,2100.0
+Wiesbaden,2012-01-01,2012,1,apartment,2200.0
+Wiesbaden,2012-04-01,2012,2,apartment,2300.0
+Wiesbaden,2012-07-01,2012,3,apartment,2200.0
+Wiesbaden,2012-10-01,2012,4,apartment,2100.0
+Wiesbaden,2013-01-01,2013,1,apartment,2400.0
+Wiesbaden,2013-04-01,2013,2,apartment,2300.0
+Wiesbaden,2013-07-01,2013,3,apartment,2400.0
+Wiesbaden,2013-10-01,2013,4,apartment,2300.0
+Wiesbaden,2014-01-01,2014,1,apartment,2400.0
+Wiesbaden,2014-04-01,2014,2,apartment,2600.0
+Wiesbaden,2014-07-01,2014,3,apartment,2500.0
+Wiesbaden,2014-10-01,2014,4,apartment,2500.0
+Wiesbaden,2015-01-01,2015,1,apartment,2500.0
+Wiesbaden,2015-04-01,2015,2,apartment,2700.0
+Wiesbaden,2015-07-01,2015,3,apartment,2700.0
+Wiesbaden,2015-10-01,2015,4,apartment,2600.0
+Wiesbaden,2016-01-01,2016,1,apartment,2900.0
+Wiesbaden,2016-04-01,2016,2,apartment,2800.0
+Wiesbaden,2016-07-01,2016,3,apartment,3000.0
+Wiesbaden,2016-10-01,2016,4,apartment,3100.0
+Wiesbaden,2017-01-01,2017,1,apartment,3200.0
+Wiesbaden,2017-04-01,2017,2,apartment,3100.0
+Wiesbaden,2017-07-01,2017,3,apartment,3600.0
+Wiesbaden,2017-10-01,2017,4,apartment,3300.0
+Wiesbaden,2018-01-01,2018,1,apartment,3400.0
+Wiesbaden,2018-04-01,2018,2,apartment,3300.0
+Wiesbaden,2018-07-01,2018,3,apartment,3300.0
+Wiesbaden,2018-10-01,2018,4,apartment,3400.0
+Wiesbaden,2019-01-01,2019,1,apartment,3600.0
+Wiesbaden,2019-04-01,2019,2,apartment,3700.0
+Wiesbaden,2019-07-01,2019,3,apartment,3700.0
+Wiesbaden,2019-10-01,2019,4,apartment,3900.0
+Wiesbaden,2020-01-01,2020,1,apartment,3900.0
+Wiesbaden,2020-04-01,2020,2,apartment,3900.0
+Wiesbaden,2020-07-01,2020,3,apartment,4000.0
+Wiesbaden,2020-10-01,2020,4,apartment,4300.0
+Wiesbaden,2021-01-01,2021,1,apartment,4500.0
+Wiesbaden,2021-04-01,2021,2,apartment,4800.0
+Wiesbaden,2021-07-01,2021,3,apartment,4700.0
+Wiesbaden,2021-10-01,2021,4,apartment,4800.0
+Wiesbaden,2022-01-01,2022,1,apartment,4800.0
+Wiesbaden,2022-04-01,2022,2,apartment,4900.0
+Wiesbaden,2022-07-01,2022,3,apartment,4500.0
+Wiesbaden,2022-10-01,2022,4,apartment,4500.0
+Wiesbaden,2023-01-01,2023,1,apartment,4400.0
+Wiesbaden,2023-04-01,2023,2,apartment,4200.0
+Wiesbaden,2023-07-01,2023,3,apartment,4000.0
+Wiesbaden,2023-10-01,2023,4,apartment,3800.0
+Wiesbaden,2024-01-01,2024,1,apartment,4100.0
+Wiesbaden,2024-04-01,2024,2,apartment,4300.0
+Wiesbaden,2024-07-01,2024,3,apartment,4100.0
+Wiesbaden,2024-10-01,2024,4,apartment,4100.0
+Rhein-Erft-Kreis,2010-01-01,2010,1,single_family,1500.0
+Rhein-Erft-Kreis,2010-04-01,2010,2,single_family,1600.0
+Rhein-Erft-Kreis,2010-07-01,2010,3,single_family,1600.0
+Rhein-Erft-Kreis,2010-10-01,2010,4,single_family,1500.0
+Rhein-Erft-Kreis,2011-01-01,2011,1,single_family,1500.0
+Rhein-Erft-Kreis,2011-04-01,2011,2,single_family,1600.0
+Rhein-Erft-Kreis,2011-07-01,2011,3,single_family,1600.0
+Rhein-Erft-Kreis,2011-10-01,2011,4,single_family,1600.0
+Rhein-Erft-Kreis,2012-01-01,2012,1,single_family,1600.0
+Rhein-Erft-Kreis,2012-04-01,2012,2,single_family,1600.0
+Rhein-Erft-Kreis,2012-07-01,2012,3,single_family,1600.0
+Rhein-Erft-Kreis,2012-10-01,2012,4,single_family,1700.0
+Rhein-Erft-Kreis,2013-01-01,2013,1,single_family,1800.0
+Rhein-Erft-Kreis,2013-04-01,2013,2,single_family,1800.0
+Rhein-Erft-Kreis,2013-07-01,2013,3,single_family,1800.0
+Rhein-Erft-Kreis,2013-10-01,2013,4,single_family,1800.0
+Rhein-Erft-Kreis,2014-01-01,2014,1,single_family,1800.0
+Rhein-Erft-Kreis,2014-04-01,2014,2,single_family,1800.0
+Rhein-Erft-Kreis,2014-07-01,2014,3,single_family,1900.0
+Rhein-Erft-Kreis,2014-10-01,2014,4,single_family,1900.0
+Rhein-Erft-Kreis,2015-01-01,2015,1,single_family,1800.0
+Rhein-Erft-Kreis,2015-04-01,2015,2,single_family,1900.0
+Rhein-Erft-Kreis,2015-07-01,2015,3,single_family,1900.0
+Rhein-Erft-Kreis,2015-10-01,2015,4,single_family,2000.0
+Rhein-Erft-Kreis,2016-01-01,2016,1,single_family,2000.0
+Rhein-Erft-Kreis,2016-04-01,2016,2,single_family,2100.0
+Rhein-Erft-Kreis,2016-07-01,2016,3,single_family,2200.0
+Rhein-Erft-Kreis,2016-10-01,2016,4,single_family,2200.0
+Rhein-Erft-Kreis,2017-01-01,2017,1,single_family,2000.0
+Rhein-Erft-Kreis,2017-04-01,2017,2,single_family,2200.0
+Rhein-Erft-Kreis,2017-07-01,2017,3,single_family,2300.0
+Rhein-Erft-Kreis,2017-10-01,2017,4,single_family,2400.0
+Rhein-Erft-Kreis,2018-01-01,2018,1,single_family,2400.0
+Rhein-Erft-Kreis,2018-04-01,2018,2,single_family,2500.0
+Rhein-Erft-Kreis,2018-07-01,2018,3,single_family,2400.0
+Rhein-Erft-Kreis,2018-10-01,2018,4,single_family,2400.0
+Rhein-Erft-Kreis,2019-01-01,2019,1,single_family,2600.0
+Rhein-Erft-Kreis,2019-04-01,2019,2,single_family,2600.0
+Rhein-Erft-Kreis,2019-07-01,2019,3,single_family,2600.0
+Rhein-Erft-Kreis,2019-10-01,2019,4,single_family,2900.0
+Rhein-Erft-Kreis,2020-01-01,2020,1,single_family,2900.0
+Rhein-Erft-Kreis,2020-04-01,2020,2,single_family,2900.0
+Rhein-Erft-Kreis,2020-07-01,2020,3,single_family,3100.0
+Rhein-Erft-Kreis,2020-10-01,2020,4,single_family,3100.0
+Rhein-Erft-Kreis,2021-01-01,2021,1,single_family,3200.0
+Rhein-Erft-Kreis,2021-04-01,2021,2,single_family,3200.0
+Rhein-Erft-Kreis,2021-07-01,2021,3,single_family,3300.0
+Rhein-Erft-Kreis,2021-10-01,2021,4,single_family,3500.0
+Rhein-Erft-Kreis,2022-01-01,2022,1,single_family,3800.0
+Rhein-Erft-Kreis,2022-04-01,2022,2,single_family,3800.0
+Rhein-Erft-Kreis,2022-07-01,2022,3,single_family,3800.0
+Rhein-Erft-Kreis,2022-10-01,2022,4,single_family,3300.0
+Rhein-Erft-Kreis,2023-01-01,2023,1,single_family,3300.0
+Rhein-Erft-Kreis,2023-04-01,2023,2,single_family,3200.0
+Rhein-Erft-Kreis,2023-07-01,2023,3,single_family,3200.0
+Rhein-Erft-Kreis,2023-10-01,2023,4,single_family,3100.0
+Rhein-Erft-Kreis,2024-01-01,2024,1,single_family,3200.0
+Rhein-Erft-Kreis,2024-04-01,2024,2,single_family,3300.0
+Rhein-Erft-Kreis,2024-07-01,2024,3,single_family,3400.0
+Rhein-Erft-Kreis,2024-10-01,2024,4,single_family,3200.0
+Rhein-Erft-Kreis,2010-01-01,2010,1,apartment,1300.0
+Rhein-Erft-Kreis,2010-04-01,2010,2,apartment,1300.0
+Rhein-Erft-Kreis,2010-07-01,2010,3,apartment,1400.0
+Rhein-Erft-Kreis,2010-10-01,2010,4,apartment,1400.0
+Rhein-Erft-Kreis,2011-01-01,2011,1,apartment,1400.0
+Rhein-Erft-Kreis,2011-04-01,2011,2,apartment,1500.0
+Rhein-Erft-Kreis,2011-07-01,2011,3,apartment,1500.0
+Rhein-Erft-Kreis,2011-10-01,2011,4,apartment,1500.0
+Rhein-Erft-Kreis,2012-01-01,2012,1,apartment,1500.0
+Rhein-Erft-Kreis,2012-04-01,2012,2,apartment,1600.0
+Rhein-Erft-Kreis,2012-07-01,2012,3,apartment,1500.0
+Rhein-Erft-Kreis,2012-10-01,2012,4,apartment,1500.0
+Rhein-Erft-Kreis,2013-01-01,2013,1,apartment,1400.0
+Rhein-Erft-Kreis,2013-04-01,2013,2,apartment,1600.0
+Rhein-Erft-Kreis,2013-07-01,2013,3,apartment,1600.0
+Rhein-Erft-Kreis,2013-10-01,2013,4,apartment,1600.0
+Rhein-Erft-Kreis,2014-01-01,2014,1,apartment,1600.0
+Rhein-Erft-Kreis,2014-04-01,2014,2,apartment,1700.0
+Rhein-Erft-Kreis,2014-07-01,2014,3,apartment,1800.0
+Rhein-Erft-Kreis,2014-10-01,2014,4,apartment,1800.0
+Rhein-Erft-Kreis,2015-01-01,2015,1,apartment,1700.0
+Rhein-Erft-Kreis,2015-04-01,2015,2,apartment,1900.0
+Rhein-Erft-Kreis,2015-07-01,2015,3,apartment,1900.0
+Rhein-Erft-Kreis,2015-10-01,2015,4,apartment,1800.0
+Rhein-Erft-Kreis,2016-01-01,2016,1,apartment,1900.0
+Rhein-Erft-Kreis,2016-04-01,2016,2,apartment,2000.0
+Rhein-Erft-Kreis,2016-07-01,2016,3,apartment,2000.0
+Rhein-Erft-Kreis,2016-10-01,2016,4,apartment,1900.0
+Rhein-Erft-Kreis,2017-01-01,2017,1,apartment,1900.0
+Rhein-Erft-Kreis,2017-04-01,2017,2,apartment,1800.0
+Rhein-Erft-Kreis,2017-07-01,2017,3,apartment,2000.0
+Rhein-Erft-Kreis,2017-10-01,2017,4,apartment,2000.0
+Rhein-Erft-Kreis,2018-01-01,2018,1,apartment,2200.0
+Rhein-Erft-Kreis,2018-04-01,2018,2,apartment,2300.0
+Rhein-Erft-Kreis,2018-07-01,2018,3,apartment,2400.0
+Rhein-Erft-Kreis,2018-10-01,2018,4,apartment,2300.0
+Rhein-Erft-Kreis,2019-01-01,2019,1,apartment,2400.0
+Rhein-Erft-Kreis,2019-04-01,2019,2,apartment,2400.0
+Rhein-Erft-Kreis,2019-07-01,2019,3,apartment,2700.0
+Rhein-Erft-Kreis,2019-10-01,2019,4,apartment,2600.0
+Rhein-Erft-Kreis,2020-01-01,2020,1,apartment,2800.0
+Rhein-Erft-Kreis,2020-04-01,2020,2,apartment,2800.0
+Rhein-Erft-Kreis,2020-07-01,2020,3,apartment,3000.0
+Rhein-Erft-Kreis,2020-10-01,2020,4,apartment,3000.0
+Rhein-Erft-Kreis,2021-01-01,2021,1,apartment,3400.0
+Rhein-Erft-Kreis,2021-04-01,2021,2,apartment,3600.0
+Rhein-Erft-Kreis,2021-07-01,2021,3,apartment,3500.0
+Rhein-Erft-Kreis,2021-10-01,2021,4,apartment,3600.0
+Rhein-Erft-Kreis,2022-01-01,2022,1,apartment,3400.0
+Rhein-Erft-Kreis,2022-04-01,2022,2,apartment,3500.0
+Rhein-Erft-Kreis,2022-07-01,2022,3,apartment,3900.0
+Rhein-Erft-Kreis,2022-10-01,2022,4,apartment,3300.0
+Rhein-Erft-Kreis,2023-01-01,2023,1,apartment,3100.0
+Rhein-Erft-Kreis,2023-04-01,2023,2,apartment,3200.0
+Rhein-Erft-Kreis,2023-07-01,2023,3,apartment,3400.0
+Rhein-Erft-Kreis,2023-10-01,2023,4,apartment,3200.0
+Rhein-Erft-Kreis,2024-01-01,2024,1,apartment,3100.0
+Rhein-Erft-Kreis,2024-04-01,2024,2,apartment,3100.0
+Rhein-Erft-Kreis,2024-07-01,2024,3,apartment,3500.0
+Rhein-Erft-Kreis,2024-10-01,2024,4,apartment,3600.0
+Leipzig,2014-01-01,2014,1,single_family,1500.0
+Leipzig,2014-04-01,2014,2,single_family,1500.0
+Leipzig,2014-07-01,2014,3,single_family,1700.0
+Leipzig,2014-10-01,2014,4,single_family,1700.0
+Leipzig,2015-01-01,2015,1,single_family,1600.0
+Leipzig,2015-04-01,2015,2,single_family,1700.0
+Leipzig,2015-07-01,2015,3,single_family,1800.0
+Leipzig,2015-10-01,2015,4,single_family,1700.0
+Leipzig,2016-01-01,2016,1,single_family,1800.0
+Leipzig,2016-04-01,2016,2,single_family,1800.0
+Leipzig,2016-07-01,2016,3,single_family,2000.0
+Leipzig,2016-10-01,2016,4,single_family,1900.0
+Leipzig,2017-01-01,2017,1,single_family,2100.0
+Leipzig,2017-04-01,2017,2,single_family,2300.0
+Leipzig,2017-07-01,2017,3,single_family,2200.0
+Leipzig,2017-10-01,2017,4,single_family,2300.0
+Leipzig,2018-01-01,2018,1,single_family,2300.0
+Leipzig,2018-04-01,2018,2,single_family,2600.0
+Leipzig,2018-07-01,2018,3,single_family,2500.0
+Leipzig,2018-10-01,2018,4,single_family,2600.0
+Leipzig,2019-01-01,2019,1,single_family,2600.0
+Leipzig,2019-04-01,2019,2,single_family,2600.0
+Leipzig,2019-07-01,2019,3,single_family,2700.0
+Leipzig,2019-10-01,2019,4,single_family,3000.0
+Leipzig,2020-01-01,2020,1,single_family,3100.0
+Leipzig,2020-04-01,2020,2,single_family,3100.0
+Leipzig,2020-07-01,2020,3,single_family,3300.0
+Leipzig,2020-10-01,2020,4,single_family,3200.0
+Leipzig,2021-01-01,2021,1,single_family,3300.0
+Leipzig,2021-04-01,2021,2,single_family,3400.0
+Leipzig,2021-07-01,2021,3,single_family,3700.0
+Leipzig,2021-10-01,2021,4,single_family,3500.0
+Leipzig,2022-01-01,2022,1,single_family,3600.0
+Leipzig,2022-04-01,2022,2,single_family,3700.0
+Leipzig,2022-07-01,2022,3,single_family,3600.0
+Leipzig,2022-10-01,2022,4,single_family,3500.0
+Leipzig,2023-01-01,2023,1,single_family,3300.0
+Leipzig,2023-04-01,2023,2,single_family,3200.0
+Leipzig,2023-07-01,2023,3,single_family,3100.0
+Leipzig,2023-10-01,2023,4,single_family,3100.0
+Leipzig,2024-01-01,2024,1,single_family,3100.0
+Leipzig,2024-04-01,2024,2,single_family,3200.0
+Leipzig,2024-07-01,2024,3,single_family,3200.0
+Leipzig,2024-10-01,2024,4,single_family,3100.0
+Leipzig,2014-01-01,2014,1,apartment,1900.0
+Leipzig,2014-04-01,2014,2,apartment,2000.0
+Leipzig,2014-07-01,2014,3,apartment,2200.0
+Leipzig,2014-10-01,2014,4,apartment,2700.0
+Leipzig,2015-01-01,2015,1,apartment,2100.0
+Leipzig,2015-04-01,2015,2,apartment,2300.0
+Leipzig,2015-07-01,2015,3,apartment,2600.0
+Leipzig,2015-10-01,2015,4,apartment,2500.0
+Leipzig,2016-01-01,2016,1,apartment,2300.0
+Leipzig,2016-04-01,2016,2,apartment,2200.0
+Leipzig,2016-07-01,2016,3,apartment,2300.0
+Leipzig,2016-10-01,2016,4,apartment,2700.0
+Leipzig,2017-01-01,2017,1,apartment,2400.0
+Leipzig,2017-04-01,2017,2,apartment,2500.0
+Leipzig,2017-07-01,2017,3,apartment,2400.0
+Leipzig,2017-10-01,2017,4,apartment,2400.0
+Leipzig,2018-01-01,2018,1,apartment,2000.0
+Leipzig,2018-04-01,2018,2,apartment,2200.0
+Leipzig,2018-07-01,2018,3,apartment,2300.0
+Leipzig,2018-10-01,2018,4,apartment,2600.0
+Leipzig,2019-01-01,2019,1,apartment,2400.0
+Leipzig,2019-04-01,2019,2,apartment,2400.0
+Leipzig,2019-07-01,2019,3,apartment,2600.0
+Leipzig,2019-10-01,2019,4,apartment,2900.0
+Leipzig,2020-01-01,2020,1,apartment,2700.0
+Leipzig,2020-04-01,2020,2,apartment,2800.0
+Leipzig,2020-07-01,2020,3,apartment,2700.0
+Leipzig,2020-10-01,2020,4,apartment,3200.0
+Leipzig,2021-01-01,2021,1,apartment,3100.0
+Leipzig,2021-04-01,2021,2,apartment,3100.0
+Leipzig,2021-07-01,2021,3,apartment,3400.0
+Leipzig,2021-10-01,2021,4,apartment,3600.0
+Leipzig,2022-01-01,2022,1,apartment,3400.0
+Leipzig,2022-04-01,2022,2,apartment,3500.0
+Leipzig,2022-07-01,2022,3,apartment,3600.0
+Leipzig,2022-10-01,2022,4,apartment,3500.0
+Leipzig,2023-01-01,2023,1,apartment,3100.0
+Leipzig,2023-04-01,2023,2,apartment,3400.0
+Leipzig,2023-07-01,2023,3,apartment,3300.0
+Leipzig,2023-10-01,2023,4,apartment,3600.0
+Leipzig,2024-01-01,2024,1,apartment,3200.0
+Leipzig,2024-04-01,2024,2,apartment,3200.0
+Leipzig,2024-07-01,2024,3,apartment,3300.0
+Leipzig,2024-10-01,2024,4,apartment,3400.0
+Leipzig,2014-01-01,2014,1,multi_family,600.0
+Leipzig,2014-04-01,2014,2,multi_family,600.0
+Leipzig,2014-07-01,2014,3,multi_family,700.0
+Leipzig,2014-10-01,2014,4,multi_family,700.0
+Leipzig,2015-01-01,2015,1,multi_family,800.0
+Leipzig,2015-04-01,2015,2,multi_family,800.0
+Leipzig,2015-07-01,2015,3,multi_family,900.0
+Leipzig,2015-10-01,2015,4,multi_family,900.0
+Leipzig,2016-01-01,2016,1,multi_family,1000.0
+Leipzig,2016-04-01,2016,2,multi_family,1100.0
+Leipzig,2016-07-01,2016,3,multi_family,1100.0
+Leipzig,2016-10-01,2016,4,multi_family,1200.0
+Leipzig,2017-01-01,2017,1,multi_family,1300.0
+Leipzig,2017-04-01,2017,2,multi_family,1400.0
+Leipzig,2017-07-01,2017,3,multi_family,1300.0
+Leipzig,2017-10-01,2017,4,multi_family,1400.0
+Leipzig,2018-01-01,2018,1,multi_family,1500.0
+Leipzig,2018-04-01,2018,2,multi_family,1500.0
+Leipzig,2018-07-01,2018,3,multi_family,1600.0
+Leipzig,2018-10-01,2018,4,multi_family,1700.0
+Leipzig,2019-01-01,2019,1,multi_family,1600.0
+Leipzig,2019-04-01,2019,2,multi_family,1700.0
+Leipzig,2019-07-01,2019,3,multi_family,1700.0
+Leipzig,2019-10-01,2019,4,multi_family,1700.0
+Leipzig,2020-01-01,2020,1,multi_family,1800.0
+Leipzig,2020-04-01,2020,2,multi_family,1900.0
+Leipzig,2020-07-01,2020,3,multi_family,2000.0
+Leipzig,2020-10-01,2020,4,multi_family,2100.0
+Leipzig,2021-01-01,2021,1,multi_family,2100.0
+Leipzig,2021-04-01,2021,2,multi_family,2200.0
+Leipzig,2021-07-01,2021,3,multi_family,2500.0
+Leipzig,2021-10-01,2021,4,multi_family,2300.0
+Leipzig,2022-01-01,2022,1,multi_family,2300.0
+Leipzig,2022-04-01,2022,2,multi_family,2300.0
+Leipzig,2022-07-01,2022,3,multi_family,2400.0
+Leipzig,2022-10-01,2022,4,multi_family,1900.0
+Leipzig,2023-01-01,2023,1,multi_family,1800.0
+Leipzig,2023-04-01,2023,2,multi_family,2000.0
+Leipzig,2023-07-01,2023,3,multi_family,1500.0
+Leipzig,2023-10-01,2023,4,multi_family,1900.0
+Leipzig,2024-01-01,2024,1,multi_family,1800.0
+Leipzig,2024-04-01,2024,2,multi_family,1700.0
+Leipzig,2024-07-01,2024,3,multi_family,1700.0
+Leipzig,2024-10-01,2024,4,multi_family,1700.0

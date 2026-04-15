@@ -1,0 +1,17 @@
+# Raw data
+data_raw/
+
+# Environment
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Credentials
+*.json
+
+# OS
+.DS_Store
+Thumbs.db
